@@ -4,7 +4,7 @@
 //
 
 // Colors
-$blue: #4183C4;
+$blue: #3E69DC;
 
 // Grays
 $black: #000;
@@ -14,9 +14,11 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Raleway&display=swap');
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$lato: 'Lato', sans-serif;
+$montserrat: 'Montserrat', Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
 // Mobile breakpoints
