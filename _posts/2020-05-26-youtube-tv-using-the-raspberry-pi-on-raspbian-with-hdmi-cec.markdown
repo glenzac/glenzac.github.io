@@ -22,160 +22,38 @@ tags:
 
 
 <!-- more -->
-
-
-
-
-
-Note: If you're here just for the installation part, click the link to skip to the " YouTube on Raspberry Pi OS " section
-
-
-
-
-
-
-
 Find all source files [here](https://github.com/glenzac/raspberrypi-tv)
 
+I've been using the raspberry pi for about 4 years and never have I written a single post on it. Mostly because I'm only trying out things that I find on the internet. So this post is about turning your Rpi into a dedicated media centre or YouTube streaming device. (I know that there are tons of guides out there on the internet, but I've tried most of them and it just doesn't work without issues )
 
+**My Hardware** : [Raspberry Pi 3B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
 
-
-
-
-
-I've been using the raspberry pi for about 4 years and never have I written a single post on it. Mostly because I'm only trying out things that I find on the internet.
-
-
-
-
-
-
-
-So this post is about turning your Rpi into a dedicated media centre or YouTube TV. (I know that there are tons of guides out there on the internet, but I've tried most of them and it just doesn't work without issues )
-
-
-
-
-
-
-
-My Hardware : [Raspberry Pi 3B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
-
-
-
-
-
-
-
-
-https://www.raspberrypi.org/homepage-9df4b/static/be658fef8c4d492bb6d85187f678cf89/a0db7/42a30d80d90dcfbde51468383beaa4c5cbefc962_raspberry-pi-3-hero-1-1571x1080.jpg
-
-
-
-
-
-
-
-
-Pinout : [https://pinout.xyz/#](https://pinout.xyz/#)
-
-
-
-
-
-
+**Pinout for reference** : [https://pinout.xyz/#](https://pinout.xyz/#)
 
 ## Why? 
-
-
-
-
-
-
-
 I have a SONY Bravia TV that is internet enabled and I have been watching YouTube on it for more than 5 years now. SONY kept pushing updates and updating the YouTube app to ensure compatibility whenever Google decided to make changes. If at all the app stopped working, factory resetting the device helped to fetch the latest updates. But recently, I've begun to see more occurrences of page not found errors. Also when it starts playing I can't access the settings to set the required video resolution.  
 I see all these as signs of discontinuing support for old YouTube clients. So I decided to put the Rpi to good use - to play YouTube videos and live streams.
 
-
-
-
-
-
-
-## 💿Top OS choices for media applications
-
-
-
-
-
-
-
+## 💿Top OS choices for media applications:
   * OSMC
   * LibreELEC
 
-
-
-
-
-
 After reading a lot of forum posts, I decided to go with installing OSMC - it apparently had more features and was more customizable than LibreELEC. It took a while to set everything up and update my library. This was how it looked then: 
-
-
-
-
-
-
-
 
 https://i.imgur.com/GHRwuy2.jpg?1.jpg
 
-
-
-
-
-
-
-
 Then I followed an online guide and installed the YouTube addon. I logged into my Google console and got all the API keys and fully signed in and also completed the 2 step device registration. Videos played fine then. Next time I decided to reboot and then when I opened the addon it was asking me to signin again, but the other options like 'My Recommendations' and locations based videos were all visible. Videos only played for 2 seconds and kept on buffering. Tweaking the cache settings didn't help. It took me two days to go through all the kodi osmc forums and try out different solutions. Nothing worked in my case. So I decided to scrap OSMC. I had no intentions of switching to LibreELEC as it too was only a lighter version of kodi.
-
-
-
-
-
-
 
 I've always used Raspberry Pi OS and the UI was too old school for a media centre. Additionally, I'd read about Ubuntu Mate playing YouTube better than Raspberry Pi OS and without heating up in some forums. In just a day, I was convinced that Ubuntu Mate was sluggish and had too many unnecessary applications preinstalled. I'm not sure if the substandard performance was because the latest Firefox didn't run well on Ubuntu, anyways having more than 5 tabs open literally made the RPi crawl. 
 
-
-
-
-
-
-
 ## YouTube on Raspberry Pi OS
-
-
-
-
-
 
 
 The next obvious choice was using the latest Raspberry Pi OS Buster with just the barebones desktop and no recommended software. (This is one thing I always hated about Raspberry Pi OS - filled with bloatware that one had to manually remove later). The latest lite package was just perfect.  
 
 
 
-
-
-
-
 Chromium browser came pre-installed and YouTube videos worked fine in it. Though, I don't think it's not going to throw up heating issues once continuous HD playback happens. This is mostly because the in-browser process is not hardware accelerated by the GPU. Using external players is the best way to go about achieving hardware acceleration for YouTube videos. Most tutorials on the internet refer to using youtube-dl and omxplayer. [YouTube-dl](https://github.com/ytdl-org/youtube-dl) to extract the videofile's link and [omxplayer ](https://www.raspberrypi.org/documentation/raspbian/applications/omxplayer.md)is the inbuilt commandline video player in Raspberry Pi OS. I tried all these. My issue was identical to the one someone posted on reddit - as shown below:
-
-
-
-
-
-
-
 
 https://www.reddit.com/r/raspberry_pi/comments/8jfl5n/how_do_i_play_a_youtube_live_stream_full_screen/
 
@@ -801,18 +679,7 @@ To run simply execute `kodi` on the terminal. I'll be using kodi to list all the
 Followed the instructions at the blynk.cc website to run a Blynk server on the Rpi. The NodeMCU connects to this server and runs the cooling fan of the pi when a connection is established.
 
 
-
-
-
-
-
 To be done: 
-
-
-
-
-
-
 
   * send IR commands using ESP8266 or Rpi
   * using lircd or IR functions directly from the ESP8266
