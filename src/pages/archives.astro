@@ -1,0 +1,88 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+const sortedPosts = allPosts.sort((a, b) =>
+	new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()
+);
+
+// Group posts by year
+const postsByYear = sortedPosts.reduce((acc, post) => {
+	const year = new Date(post.data.date).getFullYear();
+	if (!acc[year]) acc[year] = [];
+	acc[year].push(post);
+	return acc;
+}, {} as Record<number, typeof sortedPosts>);
+
+const years = Object.keys(postsByYear).map(Number).sort((a, b) => b - a);
+
+const formatDate = (date: Date) => {
+	return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+};
+---
+
+<BaseLayout title="Archives">
+	<section class="archives">
+		<h1>Archives</h1>
+		<p class="total-posts">{sortedPosts.length} posts total</p>
+
+		{years.map(year => (
+			<div class="year-section" id={`year-${year}`}>
+				<h2>{year}</h2>
+				<ul class="posts-list">
+					{postsByYear[year].map(post => (
+						<li>
+							<span class="date">{formatDate(new Date(post.data.date))}</span>
+							<a href={`/posts/${post.id}`}>{post.data.title}</a>
+						</li>
+					))}
+				</ul>
+			</div>
+		))}
+	</section>
+</BaseLayout>
+
+<style>
+	.archives h1 {
+		margin-bottom: 0.5rem;
+	}
+	.total-posts {
+		color: var(--text-muted);
+		margin-bottom: 2rem;
+	}
+	.year-section {
+		margin-bottom: 2.5rem;
+	}
+	.year-section h2 {
+		font-size: 1.5rem;
+		padding-bottom: 0.5rem;
+		border-bottom: 2px solid var(--accent);
+		margin-bottom: 1rem;
+	}
+	.posts-list {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+	.posts-list li {
+		display: flex;
+		gap: 1rem;
+		padding: 0.5rem 0;
+		border-bottom: 1px solid var(--border-color);
+	}
+	.posts-list li:last-child {
+		border-bottom: none;
+	}
+	.date {
+		color: var(--text-muted);
+		font-size: 0.9rem;
+		min-width: 70px;
+	}
+	.posts-list a {
+		color: var(--text-primary);
+	}
+	.posts-list a:hover {
+		color: var(--accent);
+	}
+</style>

@@ -1,0 +1,50 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Search" showSidebar={false}>
+	<section class="search-page">
+		<h1>Search</h1>
+		<div id="search"></div>
+	</section>
+</BaseLayout>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script is:inline src="/pagefind/pagefind-ui.js"></script>
+<script is:inline>
+	window.addEventListener('DOMContentLoaded', (event) => {
+		const pagefind = new PagefindUI({
+			element: '#search',
+			showSubResults: true,
+			showImages: false,
+		});
+
+		// Read query parameter and trigger search
+		const urlParams = new URLSearchParams(window.location.search);
+		const query = urlParams.get('q');
+		if (query) {
+			pagefind.triggerSearch(query);
+		}
+	});
+</script>
+
+<style>
+	.search-page {
+		max-width: 800px;
+		margin: 0 auto;
+	}
+	.search-page h1 {
+		margin-bottom: 1.5rem;
+	}
+</style>
+
+<style is:global>
+	.pagefind-ui__search-input {
+		font-size: 1rem !important;
+		padding: 0.75rem 1rem !important;
+		border-radius: 8px !important;
+	}
+	.pagefind-ui__result-link {
+		font-weight: 500 !important;
+	}
+</style>

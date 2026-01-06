@@ -1,0 +1,46 @@
+---
+import { DISQUS_SHORTNAME } from '../consts';
+
+interface Props {
+	slug: string;
+	title: string;
+}
+
+const { slug, title } = Astro.props;
+const pageUrl = new URL(`/posts/${slug}`, Astro.site).toString();
+---
+
+<section class="comments" id="comments">
+	<h3>Comments</h3>
+	<div id="disqus_thread"></div>
+</section>
+
+<script define:vars={{ DISQUS_SHORTNAME, pageUrl, slug, title }}>
+	var disqus_config = function () {
+		this.page.url = pageUrl;
+		this.page.identifier = slug;
+		this.page.title = title;
+	};
+
+	(function() {
+		var d = document, s = d.createElement('script');
+		s.src = 'https://' + DISQUS_SHORTNAME + '.disqus.com/embed.js';
+		s.setAttribute('data-timestamp', +new Date());
+		(d.head || d.body).appendChild(s);
+	})();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<style>
+	.comments {
+		margin-top: 3rem;
+		padding-top: 2rem;
+		border-top: 1px solid var(--border-color);
+	}
+	.comments h3 {
+		font-size: 1.25rem;
+		margin-bottom: 1.5rem;
+		color: var(--text-primary);
+	}
+</style>

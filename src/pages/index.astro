@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+
+// Get home page content
+const homePage = await getEntry('pages', 'home/home');
+const { Content: HomeContent } = homePage ? await render(homePage) : { Content: null };
+---
+
+<BaseLayout>
+	{HomeContent && (
+		<section class="home-content">
+			<div class="prose">
+				<HomeContent />
+			</div>
+		</section>
+	)}
+</BaseLayout>
+
+<style>
+	.home-content {
+		background: var(--bg-primary);
+		border: 1px solid var(--border-color);
+		border-radius: 8px;
+		padding: 2rem;
+	}
+	.home-content .prose {
+		line-height: 1.8;
+	}
+	.home-content .prose :global(h2) {
+		font-size: 1.5rem;
+		margin-top: 0;
+		margin-bottom: 1rem;
+		color: var(--text-primary);
+	}
+	.home-content .prose :global(h3) {
+		font-size: 1.25rem;
+		margin-top: 1.5rem;
+		margin-bottom: 0.75rem;
+	}
+	.home-content .prose :global(p) {
+		margin-bottom: 1rem;
+		color: var(--text-secondary);
+	}
+	.home-content .prose :global(em) {
+		font-style: italic;
+	}
+	.home-content .prose :global(strong) {
+		font-weight: 600;
+	}
+	.home-content .prose :global(a) {
+		color: var(--accent);
+	}
+</style>

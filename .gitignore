@@ -1,7 +1,9 @@
-# Hugo
-public/
-resources/
-.hugo_build.lock
+# Astro
+dist/
+.astro/
+
+# Dependencies
+node_modules/
 
 # OS
 .DS_Store
@@ -14,5 +16,23 @@ Thumbs.db
 *.swo
 *~
 
-# Local
-node_modules/
+# Build artifacts
+*.log
+
+# Local/temporary
+hugo-backup/
+src_backup
+
+# Agents
+.claude/
+.gemini/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*

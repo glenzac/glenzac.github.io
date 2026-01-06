@@ -1,0 +1,80 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import Sidebar from '../components/Sidebar.astro';
+import { SITE_TITLE, SITE_DESCRIPTION, GA_TRACKING_ID } from '../consts';
+
+interface Props {
+	title?: string;
+	description?: string;
+	showSidebar?: boolean;
+}
+
+const {
+	title = SITE_TITLE,
+	description = SITE_DESCRIPTION,
+	showSidebar = true
+} = Astro.props;
+
+const fullTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<BaseHead title={fullTitle} description={description} />
+		<!-- Google Analytics -->
+		<script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}></script>
+		<script define:vars={{ GA_TRACKING_ID }}>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', GA_TRACKING_ID);
+		</script>
+		<!-- Theme script (runs before render to prevent flash) -->
+		<script is:inline>
+			const theme = localStorage.getItem('theme') ||
+				(window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+			if (theme === 'dark') {
+				document.documentElement.classList.add('dark');
+			}
+		</script>
+	</head>
+	<body>
+		<Header />
+		<div class="page-wrapper">
+			<main class:list={[{ 'with-sidebar': showSidebar }]}>
+				<div class="content">
+					<slot />
+				</div>
+				{showSidebar && <Sidebar />}
+			</main>
+		</div>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.page-wrapper {
+		min-height: calc(100vh - 200px);
+	}
+	main {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding: 2rem 1.5rem;
+	}
+	main.with-sidebar {
+		display: flex;
+		gap: 2rem;
+	}
+	.content {
+		flex: 1;
+		min-width: 0;
+	}
+	@media (max-width: 1024px) {
+		main.with-sidebar {
+			flex-direction: column;
+		}
+	}
+</style>

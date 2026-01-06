@@ -1,0 +1,63 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+	const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+
+	// Get all unique tags
+	const tags = [...new Set(allPosts.flatMap(post => post.data.tags || []))];
+
+	return tags.map(tag => ({
+		params: { tag: tag.toLowerCase() },
+		props: {
+			tag,
+			posts: allPosts
+				.filter(post => post.data.tags?.map(t => t.toLowerCase()).includes(tag.toLowerCase()))
+				.sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()),
+		},
+	}));
+}
+
+const { tag, posts } = Astro.props;
+---
+
+<BaseLayout title={`${tag} - Tag`}>
+	<section class="tag-page">
+		<header class="page-header">
+			<h1>#{tag}</h1>
+			<p class="count">{posts.length} posts</p>
+		</header>
+		<div class="posts-grid">
+			{posts.map(post => (
+				<PostCard
+					title={post.data.title}
+					date={new Date(post.data.date)}
+					slug={post.id}
+					categories={post.data.categories}
+					cover={post.data.cover}
+					summary={post.data.summary || post.data.description}
+				/>
+			))}
+		</div>
+	</section>
+</BaseLayout>
+
+<style>
+	.page-header {
+		margin-bottom: 2rem;
+	}
+	.page-header h1 {
+		margin-bottom: 0.25rem;
+	}
+	.count {
+		color: var(--text-muted);
+		margin: 0;
+	}
+	.posts-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+		gap: 1.5rem;
+	}
+</style>

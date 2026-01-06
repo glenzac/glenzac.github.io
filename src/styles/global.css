@@ -1,0 +1,264 @@
+@import "tailwindcss";
+
+/* Custom Fonts */
+@font-face {
+	font-family: 'College Stencil';
+	src: url('/fonts/CollegeStencil.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* CSS Custom Properties */
+:root {
+	/* Fonts */
+	--font-title: 'College Stencil', Georgia, serif;
+
+	/* Colors - Light mode */
+	--accent: #3E69DC;
+	--accent-hover: #2a4fa3;
+	--coral: #EC3E52;
+
+	--bg-primary: #ffffff;
+	--bg-secondary: #f5f5f5;
+	--bg-tertiary: #eaeaea;
+
+	--text-primary: #1a1a1a;
+	--text-secondary: #646a70;
+	--text-muted: #8a8f95;
+
+	--border-color: #e5e5e5;
+	--code-bg: #f6f8fa;
+
+	--footer-bg: #6c6ea0;
+	--footer-text: #ffffff;
+
+	--box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* Dark mode */
+.dark {
+	--bg-primary: #121212;
+	--bg-secondary: #1e1e1e;
+	--bg-tertiary: #2c2c2c;
+
+	--text-primary: #ffffff;
+	--text-secondary: #e0e0e0;
+	--text-muted: #a0a0a0;
+
+	--border-color: #333333;
+	--code-bg: #1e1e1e;
+
+	--footer-bg: #1e1e1e;
+	--footer-text: #ffffff;
+
+	--box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+/* Base styles */
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+html {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+	scroll-behavior: smooth;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background: var(--bg-secondary);
+	color: var(--text-primary);
+	font-size: 16px;
+	line-height: 1.6;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+	margin: 0 0 0.5rem 0;
+	font-weight: 600;
+	line-height: 1.3;
+	color: var(--text-primary);
+}
+
+h1 { font-size: 2.25rem; }
+h2 { font-size: 1.75rem; }
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.25rem; }
+h5 { font-size: 1.1rem; }
+h6 { font-size: 1rem; }
+
+p {
+	margin: 0 0 1rem 0;
+}
+
+a {
+	color: var(--accent);
+	text-decoration: none;
+	transition: color 0.2s;
+}
+
+a:hover {
+	color: var(--accent-hover);
+}
+
+/* Images */
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+
+/* Code */
+code {
+	font-family: 'Fira Code', 'SF Mono', 'Consolas', monospace;
+	font-size: 0.9em;
+	background: var(--code-bg);
+	padding: 0.2em 0.4em;
+	border-radius: 4px;
+}
+
+pre {
+	background: var(--code-bg);
+	padding: 1rem;
+	border-radius: 8px;
+	overflow-x: auto;
+	margin: 1.5rem 0;
+}
+
+pre code {
+	background: none;
+	padding: 0;
+}
+
+/* Blockquotes */
+blockquote {
+	margin: 1.5rem 0;
+	padding: 0 0 0 1.5rem;
+	border-left: 4px solid var(--accent);
+	color: var(--text-secondary);
+	font-style: italic;
+}
+
+/* Lists */
+ul, ol {
+	margin: 0 0 1rem 0;
+	padding-left: 1.5rem;
+}
+
+li {
+	margin-bottom: 0.25rem;
+}
+
+/* Tables */
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 1.5rem 0;
+}
+
+th, td {
+	padding: 0.75rem;
+	text-align: left;
+	border-bottom: 1px solid var(--border-color);
+}
+
+th {
+	font-weight: 600;
+	background: var(--bg-secondary);
+}
+
+/* Horizontal rule */
+hr {
+	border: none;
+	border-top: 1px solid var(--border-color);
+	margin: 2rem 0;
+}
+
+/* Utility classes */
+.sr-only {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0, 0, 0, 0);
+	white-space: nowrap;
+	border: 0;
+}
+
+.font-title {
+	font-family: var(--font-title);
+	letter-spacing: 0.05em;
+}
+
+/* Pagefind search - override Tailwind reset */
+.pagefind-ui {
+	--pagefind-ui-scale: 1;
+	--pagefind-ui-primary: var(--accent);
+	--pagefind-ui-text: var(--text-primary);
+	--pagefind-ui-background: var(--bg-primary);
+	--pagefind-ui-border: var(--border-color);
+	--pagefind-ui-tag: var(--bg-secondary);
+	--pagefind-ui-border-width: 1px;
+	--pagefind-ui-border-radius: 8px;
+	--pagefind-ui-font: inherit;
+}
+
+.pagefind-ui__search-input {
+	appearance: none;
+	-webkit-appearance: none;
+	border: 1px solid var(--border-color) !important;
+	background: var(--bg-primary) !important;
+	color: var(--text-primary) !important;
+	height: auto !important;
+	padding: 0.75rem 1rem !important;
+	font-size: 1rem !important;
+}
+
+.pagefind-ui__search-clear {
+	appearance: none;
+	-webkit-appearance: none;
+	background: transparent !important;
+	border: none !important;
+	color: var(--accent) !important;
+	cursor: pointer;
+	padding: 0.5rem !important;
+	font-size: 0.875rem !important;
+}
+
+.pagefind-ui__search-clear:hover {
+	color: var(--accent-hover) !important;
+}
+
+.pagefind-ui__button {
+	appearance: none;
+	-webkit-appearance: none;
+	background: var(--accent) !important;
+	color: white !important;
+	border: none !important;
+	padding: 0.5rem 1rem !important;
+	border-radius: 6px !important;
+	cursor: pointer;
+	font-size: 0.875rem !important;
+}
+
+.pagefind-ui__button:hover {
+	background: var(--accent-hover) !important;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+	html {
+		font-size: 15px;
+	}
+
+	h1 { font-size: 1.75rem; }
+	h2 { font-size: 1.5rem; }
+	h3 { font-size: 1.25rem; }
+}
