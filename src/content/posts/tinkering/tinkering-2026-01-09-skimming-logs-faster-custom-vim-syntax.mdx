@@ -1,0 +1,51 @@
+---
+title: "Skimming Logs Faster: A Custom Vim Syntax for Verification Engineers"
+date: 2026-01-09
+categories:
+  - tinkering
+tags:
+  - vim
+  - productivity
+  - uvm
+  - verification
+cover:
+  alt: computer display code
+  image: "@assets/wp-content/uploads/2020/06/pexels-photo-2004161.jpeg"
+---
+import logVim from '/src/assets/includes/log.vim?raw';
+import { Code } from 'astro:components';
+
+As a verification engineer, I spend a significant amount of time digging through log files. UVM testbenches and simulations can generate massive logs, and finding the relevant information quickly is crucial for debugging. Standard text editors often treat these logs as plain text, making it hard to spot errors, warnings, or specific data points.
+
+To solve this, I created a custom Vim syntax file that highlights the most important parts of a log file.
+
+### The Syntax File
+
+Here is the `log.vim` file I use. It defines specific color highlighting for errors, warnings, success messages, timestamps, and UVM hierarchies.
+
+<Code code={logVim} lang="vim" />
+
+### Key Highlights
+
+This syntax file is designed to make specific patterns stand out:
+
+*   **Errors (Red)**: Any line containing `FATAL`, `ERROR`, `UVM_ERROR`, etc., is highlighted with the `Error` group (usually red). This makes failures impossible to miss as you scroll through a file.
+*   **Warnings (Distinct Color)**: Terms like `WARNING`, `RETRY`, or `UVM_WARNING` use the `WarningMsg` highlight.
+*   **Success (Green)**: Ideally, we want to see `PASS`, `SUCCESS`, or `UVM_INFO` confirming a test passed. These are linked to `DiffAdd` (often green).
+*   **Data Visibility**: Hex numbers (`0x...`) and standard digits are highlighted as `Number`, making it easier to read register values or addresses.
+*   **UVM Specifics**: UVM components like `uvm_test_top...` are highlighted as comments, allowing you to distinguish hierarchy paths from the rest of the message.
+
+### How to Use It
+
+1.  **Save the file**: Save the code block above as `log.vim`.
+2.  **Install the syntax**: Move the file to your Vim syntax directory:
+    ```bash
+    mkdir -p ~/.vim/syntax
+    mv log.vim ~/.vim/syntax/
+    ```
+3.  **Auto-detection**: Add the following line to your `~/.vimrc` to automatically apply this syntax to all `.log` files:
+    ```vim
+    au BufRead,BufNewFile *.log set filetype=log
+    ```
+
+Now, whenever you open a log file in Vim, it will be colorful and significantly easier to read!
