@@ -1,0 +1,90 @@
+---
+author: glenzac
+categories:
+  - "tinkering"
+cover:
+  alt: Terminal History Manager
+  image: "@assets/images/2026/tcsh_history_manager_cover.png"
+date: "2026-01-09T19:00:00+00:00"
+summary: "A robust solution for maintaining command history across multiple terminals and machines."
+tags:
+  - tcsh
+  - terminal
+  - productivity
+  - python
+  - verification
+title: Managing tcsh history across machines
+---
+
+If you work in an environment where you are constantly logging into different Linux machines, you know the struggle. You have a terminal open on Machine A, another on Machine B, and maybe a VNC session on Machine C. You run a complex command on Machine A, and the next day, you need that same command on Machine B. But it's gone.
+
+Or consider this scenario: You worked on a project a year ago. Now, the post-silicon efforts have started, and you desperately need to know the specific compilation flags or customized run commands you used back then. But your history file was overwritten months ago.
+
+The standard `tcsh` history mechanism isn't built for this modern, distributed workflow.
+
+## The Standard Fix (and why it fails)
+
+If you Google "preserve tcsh history multiple tabs", you'll likely find [this StackExchange thread](https://unix.stackexchange.com/questions/88838/preserve-tcsh-history-in-multiple-terminal-windows). The common advice is to use an alias like this:
+
+```tcsh
+alias precmd 'history -S; history -M'
+```
+
+This forces `tcsh` to save (`-S`) and merge (`-M`) history before every prompt. While this works in theory, in practice, it has major flaws:
+
+1.  **Race Conditions & Corruption**: When multiple terminals try to write to the `.history` file simultaneously (e.g., if you have a script launching multiple shells, or just happen to close two windows at once), the file often gets corrupted. I've had my history file turn into complete gibberish more times than I can count.
+2.  **Performance**: As your history grows (and you *want* it to grow to remember things from a year ago), the file gets huge. Merging a 100MB+ history file every time you open a terminal or run a command makes your shell sluggish. I've had new terminals take 5-10 seconds just to give me a prompt.
+
+## The Solution: A Dedicated History Manager
+
+Frustrated by lost commands and corrupted files, I decided to build a dedicated tool: **[tcsh_history_manager](https://github.com/glenzac/tcsh_history_manager)**.
+
+It's a Python-based utility designed specifically to solve these problems. It decouples the history *storage* from the shell itself.
+
+### How it Works
+
+Instead of relying on `tcsh`'s internal file handling, we pipe the history to a Python script that manages a structured database.
+
+```tcsh
+history | python3 /path/to/tcsh_history_manager.py collect --stdin
+```
+
+This script does a few smart things:
+
+*   **Atomic Writes**: It uses `fcntl` file locking to ensure that no matter how many terminals are trying to save history at once, the database never gets corrupted.
+*   **Structured Storage**: It uses JSON to store the commands, making it robust and portable.
+*   **Duplicate Detection**: It intelligently removes duplicates, so your history isn't filled with many instances of `ls -ltr`.
+*   **Noise Filtering**: You can configure it to ignore common, low-value commands like `cd`, `pwd`, `ls`, or `exit`.
+
+### Key Features
+
+1.  **Centralized Database**: You can point all your machines to a single history file (e.g., on a shared network drive), giving you a truly unified history across your entire compute farm.
+2.  **Powerful Search**: The tool comes with a built-in search mode. You can search by simple string or use Regex.
+    ```bash
+    # Find that command you ran last year involving some specific test switch '+FREQ'
+    tcsh_history_manager.py search "+FREQ"
+    
+    # regex search
+    tcsh_history_manager.py search -r "^make.*DEBUG"
+    ```
+3.  **Backups**: It automatically maintains backups, so even if something catastrophic happens to the filesystem, you can restore your precious history.
+
+## Installation and Setup
+
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/glenzac/tcsh_history_manager.git ~/projects/tcsh_history_manager
+    ```
+
+2.  Add the collection alias to your `~/.tcshrc`:
+    ```tcsh
+    # Adjust the path to where you cloned the repo
+    alias h_collect 'history | python3 ~/projects/tcsh_history_manager/tcsh_history_manager.py collect --stdin'
+    ```
+
+3.  (Optional) Create a search alias:
+    ```tcsh
+    alias h_search 'python3 ~/projects/tcsh_history_manager/tcsh_history_manager.py search'
+    ```
+
+Now, your history is safe, searchable, and available everywhere. No more guessing what flag you used for that compilation six months ago!
