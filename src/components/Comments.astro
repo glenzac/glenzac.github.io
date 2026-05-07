@@ -1,36 +1,56 @@
 ---
-import { DISQUS_SHORTNAME } from '../consts';
-
-interface Props {
-	slug: string;
-	title: string;
-}
-
-const { slug, title } = Astro.props;
-const pageUrl = new URL(`/posts/${slug}`, Astro.site).toString();
+import { GISCUS_REPO, GISCUS_REPO_ID, GISCUS_CATEGORY, GISCUS_CATEGORY_ID } from '../consts';
 ---
 
 <section class="comments" id="comments">
 	<h3>Comments</h3>
-	<div id="disqus_thread"></div>
+	<div class="giscus-container"
+		data-repo={GISCUS_REPO}
+		data-repo-id={GISCUS_REPO_ID}
+		data-category={GISCUS_CATEGORY}
+		data-category-id={GISCUS_CATEGORY_ID}
+	></div>
 </section>
 
-<script define:vars={{ DISQUS_SHORTNAME, pageUrl, slug, title }}>
-	var disqus_config = function () {
-		this.page.url = pageUrl;
-		this.page.identifier = slug;
-		this.page.title = title;
-	};
+<script is:inline>
+	function loadGiscus(theme) {
+		const container = document.querySelector('.giscus-container');
+		if (!container) return;
 
-	(function() {
-		var d = document, s = d.createElement('script');
-		s.src = 'https://' + DISQUS_SHORTNAME + '.disqus.com/embed.js';
-		s.setAttribute('data-timestamp', +new Date());
-		(d.head || d.body).appendChild(s);
-	})();
+		const script = document.createElement('script');
+		script.src = 'https://giscus.app/client.js';
+		script.setAttribute('data-repo', container.dataset.repo);
+		script.setAttribute('data-repo-id', container.dataset.repoId);
+		script.setAttribute('data-category', container.dataset.category);
+		script.setAttribute('data-category-id', container.dataset.categoryId);
+		script.setAttribute('data-mapping', 'pathname');
+		script.setAttribute('data-strict', '0');
+		script.setAttribute('data-reactions-enabled', '1');
+		script.setAttribute('data-emit-metadata', '0');
+		script.setAttribute('data-input-position', 'bottom');
+		script.setAttribute('data-theme', theme);
+		script.setAttribute('data-lang', 'en');
+		script.setAttribute('data-loading', 'lazy');
+		script.crossOrigin = 'anonymous';
+		script.async = true;
+		container.appendChild(script);
+	}
+
+	const isDark = document.documentElement.classList.contains('dark');
+	loadGiscus(isDark ? 'dark' : 'light');
+
+	// Keep giscus in sync when theme is toggled
+	document.getElementById('theme-toggle')?.addEventListener('click', () => {
+		const isDark = document.documentElement.classList.contains('dark');
+		const iframe = document.querySelector('iframe.giscus-frame');
+		if (iframe) {
+			iframe.contentWindow?.postMessage(
+				{ giscus: { setConfig: { theme: isDark ? 'dark' : 'light' } } },
+				'https://giscus.app'
+			);
+		}
+	});
 </script>
-
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 <style>
 	.comments {
