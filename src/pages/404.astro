@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Page Not Found" showSidebar={false}>
+	<section class="not-found">
+		<h1>404</h1>
+		<p>This page doesn't exist or has been moved.</p>
+		<div class="links">
+			<a href="/">Home</a>
+			<a href="/archives">Archives</a>
+			<a href="/search">Search</a>
+		</div>
+	</section>
+</BaseLayout>
+
+<style>
+	.not-found {
+		text-align: center;
+		padding: 4rem 2rem;
+	}
+	.not-found h1 {
+		font-size: 6rem;
+		font-weight: 700;
+		color: var(--accent);
+		margin: 0 0 1rem 0;
+		line-height: 1;
+	}
+	.not-found p {
+		font-size: 1.25rem;
+		color: var(--text-secondary);
+		margin-bottom: 2rem;
+	}
+	.links {
+		display: flex;
+		justify-content: center;
+		gap: 1.5rem;
+	}
+	.links a {
+		color: var(--accent);
+		font-weight: 500;
+	}
+	.links a:hover {
+		color: var(--accent-hover);
+	}
+</style>

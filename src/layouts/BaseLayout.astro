@@ -3,7 +3,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import Sidebar from '../components/Sidebar.astro';
-import { SITE_TITLE, SITE_DESCRIPTION, GA_TRACKING_ID } from '../consts';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 
 interface Props {
 	title?: string;
@@ -24,22 +24,6 @@ const fullTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
 <html lang="en">
 	<head>
 		<BaseHead title={fullTitle} description={description} />
-		<!-- Google Analytics -->
-		<script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}></script>
-		<script define:vars={{ GA_TRACKING_ID }}>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
-			gtag('config', GA_TRACKING_ID);
-		</script>
-		<!-- Theme script (runs before render to prevent flash) -->
-		<script is:inline>
-			const theme = localStorage.getItem('theme') ||
-				(window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-			if (theme === 'dark') {
-				document.documentElement.classList.add('dark');
-			}
-		</script>
 	</head>
 	<body>
 		<Header />
