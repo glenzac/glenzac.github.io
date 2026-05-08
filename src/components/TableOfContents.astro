@@ -1,0 +1,96 @@
+---
+interface Heading {
+	depth: number;
+	slug: string;
+	text: string;
+}
+
+interface Props {
+	headings: Heading[];
+}
+
+const { headings } = Astro.props;
+const toc = headings.filter(h => h.depth === 2 || h.depth === 3);
+---
+
+{toc.length >= 3 && (
+	<nav class="toc" aria-label="Table of contents">
+		<button class="toc-toggle" aria-expanded="true" aria-controls="toc-list">
+			<span>Table of Contents</span>
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<polyline points="6 9 12 15 18 9"></polyline>
+			</svg>
+		</button>
+		<ol id="toc-list">
+			{toc.map(h => (
+				<li class:list={[{ 'toc-h3': h.depth === 3 }]}>
+					<a href={`#${h.slug}`}>{h.text}</a>
+				</li>
+			))}
+		</ol>
+	</nav>
+)}
+
+<script is:inline>
+	const toggle = document.querySelector('.toc-toggle');
+	const list = document.getElementById('toc-list');
+	if (toggle && list) {
+		toggle.addEventListener('click', () => {
+			const expanded = toggle.getAttribute('aria-expanded') === 'true';
+			toggle.setAttribute('aria-expanded', String(!expanded));
+			list.hidden = expanded;
+		});
+	}
+</script>
+
+<style>
+	.toc {
+		background: var(--bg-primary);
+		border: 1px solid var(--border-color);
+		border-radius: 8px;
+		margin-bottom: 2rem;
+		overflow: hidden;
+	}
+	.toc-toggle {
+		width: 100%;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 0.75rem 1rem;
+		background: none;
+		border: none;
+		cursor: pointer;
+		font-size: 0.9rem;
+		font-weight: 600;
+		color: var(--text-primary);
+		text-align: left;
+	}
+	.toc-toggle svg {
+		flex-shrink: 0;
+		transition: transform 0.2s;
+	}
+	.toc-toggle[aria-expanded="false"] svg {
+		transform: rotate(-90deg);
+	}
+	#toc-list {
+		list-style: none;
+		margin: 0;
+		padding: 0 1rem 0.75rem;
+		counter-reset: toc;
+	}
+	#toc-list li {
+		margin-bottom: 0.35rem;
+	}
+	#toc-list li.toc-h3 {
+		padding-left: 1rem;
+	}
+	#toc-list a {
+		color: var(--text-secondary);
+		font-size: 0.875rem;
+		text-decoration: none;
+		transition: color 0.2s;
+	}
+	#toc-list a:hover {
+		color: var(--accent);
+	}
+</style>

@@ -17,6 +17,7 @@ export const NAV_LINKS = [
 	{ href: "/", label: "Home" },
 	{ href: "/archives", label: "Archives" },
 	{ href: "/search", label: "Search" },
+	{ href: "/about", label: "About" },
 	{ href: "/categories/opinion", label: "Opinion" },
 	{ href: "/categories/tinkering", label: "Tinkering" },
 	{ href: "/categories/highlights", label: "Highlights" },
