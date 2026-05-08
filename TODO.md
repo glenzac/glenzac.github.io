@@ -40,12 +40,12 @@
 
 ## LOW
 
-- [ ] **Add copy-to-clipboard button on code blocks** — A small inline script in `PostLayout.astro`, no dependencies needed.
+- [x] **Add copy-to-clipboard button on code blocks** — Inline script in `PostLayout.astro`; button appears on hover, shows "Copied!" for 2s.
 
-- [ ] **Add table of contents for long posts** — Astro's `getHeadings()` is built-in. Add an opt-in TOC component to `PostLayout.astro` for technical posts with many sections.
+- [x] **Add table of contents for long posts** — `TableOfContents.astro` auto-shows for posts with 3+ h2/h3 headings; collapsible. Headings passed from `[...slug].astro` via `render()`.
 
-- [ ] **Add a back-to-top button** — Useful on long posts. Simple CSS + a small script, no dependencies.
+- [x] **Add a back-to-top button** — `BackToTop.astro` component used in both layouts; appears after 400px scroll.
 
-- [ ] **Add a dedicated `/about` page** — No about page exists; the removed sidebar widget was the only "about" content.
+- [x] **Add a dedicated `/about` page** — Created `src/pages/about.astro` at `/about`, content in `src/content/pages/about.md`. Added "About" to nav in `consts.ts`. ⚠️ Update `about.md` with your actual bio.
 
-- [ ] **Normalize category URL casing** — Category links use `.toLowerCase()` but the nav hardcodes lowercase paths. If category frontmatter has inconsistent casing, pages could 404.
+- [x] **Normalize category URL casing** — All categories in posts are already lowercase; no changes needed.
