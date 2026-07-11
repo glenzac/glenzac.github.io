@@ -8,11 +8,15 @@
 </button>
 
 <script is:inline>
-	const btn = document.getElementById('back-to-top');
+	// Re-query the button each time: view-transition swaps replace the element.
 	window.addEventListener('scroll', () => {
-		btn.classList.toggle('visible', window.scrollY > 400);
+		document.getElementById('back-to-top')?.classList.toggle('visible', window.scrollY > 400);
 	}, { passive: true });
-	btn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+	document.addEventListener('click', (e) => {
+		if (e.target.closest?.('#back-to-top')) {
+			window.scrollTo({ top: 0, behavior: 'smooth' });
+		}
+	});
 </script>
 
 <style>

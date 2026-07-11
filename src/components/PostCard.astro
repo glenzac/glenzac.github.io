@@ -12,11 +12,11 @@ interface Props {
 		alt?: string;
 	};
 	summary?: string;
+	readingTime?: number;
 }
 
-const { title, date, slug, categories = [], cover, summary } = Astro.props;
+const { title, date, slug, categories = [], cover, summary, readingTime } = Astro.props;
 
-// Calculate reading time (rough estimate)
 const formatDate = (date: Date) => {
 	return date.toLocaleDateString('en-US', {
 		year: 'numeric',
@@ -24,18 +24,36 @@ const formatDate = (date: Date) => {
 		day: 'numeric',
 	});
 };
+
+// Deterministic gradient for posts without a cover image.
+const hash = [...slug].reduce((acc, ch) => (acc * 31 + ch.charCodeAt(0)) >>> 0, 0);
+const hue = hash % 360;
+const placeholderStyle = `background: linear-gradient(135deg, hsl(${hue}, 55%, 42%), hsl(${(hue + 45) % 360}, 60%, 28%));`;
 ---
 
 <article class="post-card">
 	<a href={`/posts/${slug}`} class="post-link">
-		{cover && (
-			<div class="post-image">
-				<Image src={cover.image} alt={cover.alt || title} width={800} height={450} loading="lazy" />
+		{cover ? (
+			<div class="post-image" transition:name={`post-cover-${slug}`}>
+				<Image
+					src={cover.image}
+					alt={cover.alt || title}
+					widths={[320, 480, 640, 800]}
+					sizes="(max-width: 768px) calc(100vw - 3rem), 420px"
+					width={800}
+					height={450}
+					loading="lazy"
+				/>
+			</div>
+		) : (
+			<div class="post-image post-placeholder" style={placeholderStyle} aria-hidden="true">
+				<span class="placeholder-initial">{title.trim().charAt(0).toUpperCase()}</span>
 			</div>
 		)}
 		<div class="post-content">
 			<div class="post-meta">
 				<time datetime={date.toISOString()}>{formatDate(date)}</time>
+				{readingTime && <span class="reading-time">{readingTime} min read</span>}
 				{categories.length > 0 && (
 					<span class="categories">
 						{categories.slice(0, 2).map((cat, i) => (
@@ -82,12 +100,28 @@ const formatDate = (date: Date) => {
 	.post-card:hover .post-image img {
 		transform: scale(1.05);
 	}
+	.post-placeholder {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.placeholder-initial {
+		font-family: 'College Stencil', Georgia, serif;
+		font-size: 4rem;
+		color: rgba(255, 255, 255, 0.85);
+		text-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+		transition: transform 0.3s;
+	}
+	.post-card:hover .placeholder-initial {
+		transform: scale(1.1);
+	}
 	.post-content {
 		padding: 1.25rem;
 	}
 	.post-meta {
 		display: flex;
-		gap: 1rem;
+		flex-wrap: wrap;
+		gap: 0.35rem 1rem;
 		font-size: 0.8rem;
 		color: var(--text-muted);
 		margin-bottom: 0.5rem;
@@ -97,7 +131,7 @@ const formatDate = (date: Date) => {
 		text-transform: capitalize;
 	}
 	.post-title {
-		font-size: 1.25rem;
+		font-size: 1.15rem;
 		font-weight: 600;
 		color: var(--text-primary);
 		margin: 0 0 0.5rem 0;
@@ -112,7 +146,7 @@ const formatDate = (date: Date) => {
 		margin: 0;
 		line-height: 1.6;
 		display: -webkit-box;
-		-webkit-line-clamp: 2;
+		-webkit-line-clamp: 3;
 		-webkit-box-orient: vertical;
 		overflow: hidden;
 	}

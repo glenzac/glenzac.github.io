@@ -12,7 +12,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script is:inline src="/pagefind/pagefind-ui.js"></script>
 <script is:inline>
-	window.addEventListener('DOMContentLoaded', (event) => {
+	// astro:page-load fires on initial load and after client-side navigations,
+	// once the swapped-in page's scripts (incl. pagefind-ui.js) have run.
+	document.addEventListener('astro:page-load', () => {
+		const el = document.getElementById('search');
+		if (!el || el.hasChildNodes() || typeof PagefindUI === 'undefined') return;
+
 		const pagefind = new PagefindUI({
 			element: '#search',
 			showSubResults: true,

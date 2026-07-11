@@ -3,6 +3,7 @@ export const SITE_TITLE = "glenzac";
 export const SITE_DESCRIPTION = "The personal website of Glen Zachariah";
 export const SITE_AUTHOR = "Glen Zachariah";
 export const GA_TRACKING_ID = "G-LER30LW0ED";
+export const POSTS_PER_PAGE = 12;
 
 // Giscus comments — repo ID is fixed; fill in GISCUS_CATEGORY and
 // GISCUS_CATEGORY_ID after enabling GitHub Discussions on the repo

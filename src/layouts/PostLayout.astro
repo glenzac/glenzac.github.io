@@ -65,7 +65,7 @@ const jsonLd = {
 		<div class="page-wrapper">
 			<main>
 				<article class="post">
-						<div class="hero-image">
+						<div class="hero-image" transition:name={`post-cover-${slug}`}>
 							{cover && (
 								<Image
 									src={cover.image}
@@ -350,20 +350,24 @@ const jsonLd = {
 </style>
 
 <script is:inline>
-	document.querySelectorAll('.prose pre').forEach(pre => {
-		const btn = document.createElement('button');
-		btn.className = 'copy-btn';
-		btn.textContent = 'Copy';
-		btn.addEventListener('click', async () => {
-			const code = pre.querySelector('code')?.innerText ?? pre.innerText;
-			await navigator.clipboard.writeText(code);
-			btn.textContent = 'Copied!';
-			btn.classList.add('copied');
-			setTimeout(() => {
-				btn.textContent = 'Copy';
-				btn.classList.remove('copied');
-			}, 2000);
+	// Re-runs after every client-side navigation (and on initial load).
+	document.addEventListener('astro:page-load', () => {
+		document.querySelectorAll('.prose pre').forEach(pre => {
+			if (pre.querySelector('.copy-btn')) return;
+			const btn = document.createElement('button');
+			btn.className = 'copy-btn';
+			btn.textContent = 'Copy';
+			btn.addEventListener('click', async () => {
+				const code = pre.querySelector('code')?.innerText ?? pre.innerText;
+				await navigator.clipboard.writeText(code);
+				btn.textContent = 'Copied!';
+				btn.classList.add('copied');
+				setTimeout(() => {
+					btn.textContent = 'Copy';
+					btn.classList.remove('copied');
+				}, 2000);
+			});
+			pre.appendChild(btn);
 		});
-		pre.appendChild(btn);
 	});
 </script>

@@ -36,20 +36,25 @@ import { GISCUS_REPO, GISCUS_REPO_ID, GISCUS_CATEGORY, GISCUS_CATEGORY_ID } from
 		container.appendChild(script);
 	}
 
-	const isDark = document.documentElement.classList.contains('dark');
-	loadGiscus(isDark ? 'dark' : 'light');
-
-	// Keep giscus in sync when theme is toggled
-	document.getElementById('theme-toggle')?.addEventListener('click', () => {
-		const isDark = document.documentElement.classList.contains('dark');
-		const iframe = document.querySelector('iframe.giscus-frame');
-		if (iframe) {
-			iframe.contentWindow?.postMessage(
-				{ giscus: { setConfig: { theme: isDark ? 'dark' : 'light' } } },
-				'https://giscus.app'
-			);
+	// Load on initial page load and after every client-side navigation
+	// (the view-transition swap replaces the container with an empty one).
+	document.addEventListener('astro:page-load', () => {
+		const container = document.querySelector('.giscus-container');
+		if (container && !container.hasChildNodes()) {
+			const isDark = document.documentElement.classList.contains('dark');
+			loadGiscus(isDark ? 'dark' : 'light');
 		}
 	});
+
+	// Keep giscus in sync with the site theme (covers the toggle button and
+	// any other source of the .dark class change).
+	new MutationObserver(() => {
+		const isDark = document.documentElement.classList.contains('dark');
+		document.querySelector('iframe.giscus-frame')?.contentWindow?.postMessage(
+			{ giscus: { setConfig: { theme: isDark ? 'dark' : 'light' } } },
+			'https://giscus.app'
+		);
+	}).observe(document.documentElement, { attributes: true, attributeFilter: ['class'] });
 </script>
 
 <style>
