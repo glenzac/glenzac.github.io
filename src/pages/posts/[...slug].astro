@@ -9,12 +9,31 @@ export async function getStaticPaths() {
 		new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()
 	);
 
+	// Related posts: shared tags weigh double shared categories.
+	const related = (post) => {
+		const tags = new Set((post.data.tags ?? []).map((t) => t.toLowerCase()));
+		const cats = new Set((post.data.categories ?? []).map((c) => c.toLowerCase()));
+		return sorted
+			.filter((other) => other.id !== post.id)
+			.map((other) => ({
+				post: other,
+				score:
+					(other.data.tags ?? []).filter((t) => tags.has(t.toLowerCase())).length * 2 +
+					(other.data.categories ?? []).filter((c) => cats.has(c.toLowerCase())).length,
+			}))
+			.filter(({ score }) => score > 0)
+			.sort((a, b) => b.score - a.score || new Date(b.post.data.date).valueOf() - new Date(a.post.data.date).valueOf())
+			.slice(0, 3)
+			.map(({ post }) => post);
+	};
+
 	const pages = sorted.map((post, index) => ({
 		params: { slug: postSlug(post.id) },
 		props: {
 			post,
 			prevPost: sorted[index + 1] ?? null,
 			nextPost: sorted[index - 1] ?? null,
+			relatedPosts: related(post),
 		},
 	}));
 
@@ -30,7 +49,7 @@ export async function getStaticPaths() {
 	return [...pages, ...redirects];
 }
 
-const { post, prevPost, nextPost, redirectTo } = Astro.props;
+const { post, prevPost, nextPost, relatedPosts, redirectTo } = Astro.props;
 const rendered = redirectTo ? null : await render(post);
 const Content = rendered?.Content;
 ---
@@ -52,6 +71,7 @@ const Content = rendered?.Content;
 	<PostLayout
 		title={post.data.title}
 		date={new Date(post.data.date)}
+		updated={post.data.updated ? new Date(post.data.updated) : undefined}
 		slug={postSlug(post.id)}
 		categories={post.data.categories}
 		tags={post.data.tags}
@@ -59,6 +79,7 @@ const Content = rendered?.Content;
 		description={post.data.summary || post.data.description}
 		prevPost={prevPost}
 		nextPost={nextPost}
+		relatedPosts={relatedPosts}
 		headings={rendered?.headings ?? []}
 	>
 		{Content && <Content />}

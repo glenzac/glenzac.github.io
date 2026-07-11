@@ -9,13 +9,17 @@ import ArchivedComments from '../components/ArchivedComments.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import BackToTop from '../components/BackToTop.astro';
 import TableOfContents from '../components/TableOfContents.astro';
+import PostCard from '../components/PostCard.astro';
 import { SITE_TITLE, SITE_AUTHOR } from '../consts';
 import type { ImageMetadata } from 'astro';
+import type { CollectionEntry } from 'astro:content';
 import { postSlug } from '../utils/postSlug';
+import { readingTime as calcReadingTime } from '../utils/readingTime';
 
 interface Props {
 	title: string;
 	date: Date;
+	updated?: Date;
 	slug: string;
 	categories?: string[];
 	tags?: string[];
@@ -26,10 +30,11 @@ interface Props {
 	description?: string;
 	prevPost?: { id: string; data: { title: string } } | null;
 	nextPost?: { id: string; data: { title: string } } | null;
+	relatedPosts?: CollectionEntry<'posts'>[];
 	headings?: { depth: number; slug: string; text: string }[];
 }
 
-const { title, date, slug, categories = [], tags = [], cover, description = '', prevPost, nextPost, headings = [] } = Astro.props;
+const { title, date, updated, slug, categories = [], tags = [], cover, description = '', prevPost, nextPost, relatedPosts = [], headings = [] } = Astro.props;
 
 const content = await Astro.slots.render('default');
 const wordCount = content.split(/\s+/).length;
@@ -44,7 +49,7 @@ const jsonLd = {
 	headline: title,
 	description: description || title,
 	datePublished: date.toISOString(),
-	dateModified: date.toISOString(),
+	dateModified: (updated ?? date).toISOString(),
 	author: { '@type': 'Person', name: SITE_AUTHOR },
 	publisher: { '@type': 'Person', name: SITE_AUTHOR },
 	url: canonicalURL,
@@ -57,6 +62,7 @@ const jsonLd = {
 	<head>
 		<BaseHead title={fullTitle} description={description || title} image={cover?.image} ogType="article" />
 		<meta property="article:published_time" content={date.toISOString()} />
+		{updated && <meta property="article:modified_time" content={updated.toISOString()} />}
 		<meta property="article:author" content={SITE_AUTHOR} />
 		<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 	</head>
@@ -81,6 +87,12 @@ const jsonLd = {
 							<FormattedDate date={date} />
 							<span class="separator">·</span>
 							<span class="reading-time">{readingTime} min read</span>
+							{updated && (
+								<>
+									<span class="separator">·</span>
+									<span class="updated">Updated <FormattedDate date={updated} /></span>
+								</>
+							)}
 						</div>
 						<h1>{title}</h1>
 						{categories.length > 0 && (
@@ -124,6 +136,24 @@ const jsonLd = {
 								)}
 							</div>
 						</nav>
+					)}
+					{relatedPosts.length > 0 && (
+						<section class="related-posts">
+							<h3>You might also like</h3>
+							<div class="related-grid">
+								{relatedPosts.map(related => (
+									<PostCard
+										title={related.data.title}
+										date={new Date(related.data.date)}
+										slug={postSlug(related.id)}
+										categories={related.data.categories}
+										cover={related.data.cover}
+										summary={related.data.summary || related.data.description}
+										readingTime={calcReadingTime(related.body ?? '')}
+									/>
+								))}
+							</div>
+						</section>
 					)}
 					<ArchivedComments slug={slug} />
 					<Comments slug={slug} title={title} />
@@ -296,6 +326,24 @@ const jsonLd = {
 		background: var(--accent);
 		color: white;
 	}
+	.related-posts {
+		margin-top: 2.5rem;
+		padding-top: 1.5rem;
+		border-top: 1px solid var(--border-color);
+	}
+	.related-posts h3 {
+		font-size: 1.25rem;
+		margin-bottom: 1.25rem;
+		color: var(--text-primary);
+	}
+	.related-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+		gap: 1.25rem;
+	}
+	.prose :global(img) {
+		cursor: zoom-in;
+	}
 	.post-nav {
 		display: flex;
 		justify-content: space-between;
@@ -371,3 +419,73 @@ const jsonLd = {
 		});
 	});
 </script>
+
+<script is:inline>
+	// Click-to-zoom lightbox for post-body images. Delegated on document so it
+	// survives view-transition swaps; overlay is created once and reused.
+	(() => {
+		if (window.__lightboxInit) return;
+		window.__lightboxInit = true;
+
+		let overlay = null;
+		const close = () => {
+			overlay?.classList.remove('open');
+			document.body.style.overflow = '';
+		};
+
+		document.addEventListener('click', (e) => {
+			const img = e.target.closest?.('.prose img');
+			if (!img) return;
+			if (img.closest('a')) return; // linked images keep their link behaviour
+			if (!overlay) {
+				overlay = document.createElement('div');
+				overlay.className = 'lightbox-overlay';
+				overlay.innerHTML = '<img alt="">';
+				overlay.addEventListener('click', close);
+				document.body.appendChild(overlay);
+			}
+			const zoomed = overlay.querySelector('img');
+			zoomed.src = img.currentSrc || img.src;
+			zoomed.alt = img.alt || '';
+			overlay.classList.add('open');
+			document.body.style.overflow = 'hidden';
+		});
+
+		document.addEventListener('keydown', (e) => {
+			if (e.key === 'Escape') close();
+		});
+		// The swap removes the overlay from the new document; reset our handle.
+		document.addEventListener('astro:after-swap', () => {
+			overlay = null;
+			document.body.style.overflow = '';
+		});
+	})();
+</script>
+
+<style is:global>
+	.lightbox-overlay {
+		position: fixed;
+		inset: 0;
+		background: rgba(0, 0, 0, 0.85);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		z-index: 200;
+		opacity: 0;
+		pointer-events: none;
+		transition: opacity 0.2s;
+		cursor: zoom-out;
+		padding: 2rem;
+	}
+	.lightbox-overlay.open {
+		opacity: 1;
+		pointer-events: auto;
+	}
+	.lightbox-overlay img {
+		max-width: 100%;
+		max-height: 100%;
+		object-fit: contain;
+		border-radius: 4px;
+		box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+	}
+</style>

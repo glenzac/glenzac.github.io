@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
 import { getCollection } from 'astro:content';
 import { postSlug } from '../../utils/postSlug';
+import { readingTime } from '../../utils/readingTime';
 
 export async function getStaticPaths() {
 	const allPosts = await getCollection('posts', ({ data }) => !data.draft);
@@ -39,6 +40,7 @@ const { category, posts } = Astro.props;
 					categories={post.data.categories}
 					cover={post.data.cover}
 					summary={post.data.summary || post.data.description}
+					readingTime={readingTime(post.body ?? '')}
 				/>
 			))}
 		</div>
