@@ -1,15 +1,43 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { postSlug } from '../utils/postSlug';
+
+const posts = await getCollection('posts', ({ data }) => !data.draft);
+const recentPosts = posts
+	.sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf())
+	.slice(0, 5);
 ---
 
 <BaseLayout title="Page Not Found" showSidebar={false}>
 	<section class="not-found">
 		<h1>404</h1>
 		<p>This page doesn't exist or has been moved.</p>
+
+		<form class="search-form" action="/search" method="get">
+			<input
+				type="search"
+				name="q"
+				placeholder="Search the blog instead…"
+				aria-label="Search the blog"
+			/>
+			<button type="submit">Search</button>
+		</form>
+
 		<div class="links">
 			<a href="/">Home</a>
 			<a href="/archives">Archives</a>
-			<a href="/search">Search</a>
+		</div>
+
+		<div class="recent">
+			<h2>Or read something recent</h2>
+			<ul>
+				{recentPosts.map(post => (
+					<li>
+						<a href={`/posts/${postSlug(post.id)}`}>{post.data.title}</a>
+					</li>
+				))}
+			</ul>
 		</div>
 	</section>
 </BaseLayout>
@@ -17,10 +45,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 <style>
 	.not-found {
 		text-align: center;
-		padding: 4rem 2rem;
+		padding: 3rem 2rem;
+		max-width: 600px;
+		margin: 0 auto;
 	}
 	.not-found h1 {
-		font-size: 6rem;
+		font-family: 'College Stencil', Georgia, serif;
+		font-size: 7rem;
 		font-weight: 700;
 		color: var(--accent);
 		margin: 0 0 1rem 0;
@@ -31,16 +62,74 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 		color: var(--text-secondary);
 		margin-bottom: 2rem;
 	}
+	.search-form {
+		display: flex;
+		gap: 0.5rem;
+		margin-bottom: 2rem;
+	}
+	.search-form input {
+		flex: 1;
+		padding: 0.75rem 1rem;
+		border: 1px solid var(--border-color);
+		border-radius: 8px;
+		background: var(--bg-primary);
+		color: var(--text-primary);
+		font-size: 1rem;
+	}
+	.search-form input:focus {
+		outline: 2px solid var(--accent);
+		border-color: transparent;
+	}
+	.search-form button {
+		padding: 0.75rem 1.5rem;
+		background: var(--accent);
+		color: white;
+		border: none;
+		border-radius: 8px;
+		font-size: 1rem;
+		font-weight: 500;
+		cursor: pointer;
+	}
+	.search-form button:hover {
+		background: var(--accent-hover);
+	}
 	.links {
 		display: flex;
 		justify-content: center;
 		gap: 1.5rem;
+		margin-bottom: 3rem;
 	}
 	.links a {
 		color: var(--accent);
 		font-weight: 500;
 	}
-	.links a:hover {
-		color: var(--accent-hover);
+	.recent {
+		text-align: left;
+	}
+	.recent h2 {
+		font-size: 1.1rem;
+		color: var(--text-primary);
+		margin-bottom: 1rem;
+		padding-bottom: 0.5rem;
+		border-bottom: 2px solid var(--accent);
+	}
+	.recent ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+	.recent li {
+		padding: 0.5rem 0;
+		border-bottom: 1px solid var(--border-color);
+	}
+	.recent li:last-child {
+		border-bottom: none;
+	}
+	.recent a {
+		color: var(--text-primary);
+		text-decoration: none;
+	}
+	.recent a:hover {
+		color: var(--accent);
 	}
 </style>

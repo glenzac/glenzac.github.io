@@ -38,7 +38,7 @@ I could use the classic : Good, Average, Bad. But this hardly does justice to th
 
 I then came across [The Feelings Circle](https://thechalkboardmag.com/the-feelings-circle-chart-emotional-communication/) :
 
-https://media.thechalkboardmag.com@assets/wp-content/uploads/2018/04/29212018/feelings-wheel-explained.jpg
+https://media.thechalkboardmag.com/wp-content/uploads/2018/04/29212018/feelings-wheel-explained.jpg
 
 This looked perfect. I could use the categories in the innermost circle to categorize the general feeling I had about the day.
 
