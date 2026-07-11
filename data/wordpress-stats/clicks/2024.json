@@ -1,0 +1,1746 @@
+{
+ "date": "2024-12-31",
+ "days": {
+  "2024-01-01": {
+   "clicks": [
+    {
+     "icon": null,
+     "url": null,
+     "name": "drive.google.com",
+     "views": 760,
+     "children": [
+      {
+       "url": "https://drive.google.com/open?id=1iwnLhuqCglDixIUDfQU2IDphx5zZn1KB",
+       "name": "drive.google.com/open?id=1iwnLhuqCglDixIUDfQU2IDphx5zZn1KB",
+       "views": 327
+      },
+      {
+       "url": "https://drive.google.com/open?id=1xrgt_RNGtGreaA8Z371iloxJJ-D4e_Ann7G26KgT4YI",
+       "name": "drive.google.com/open?id=1xrgt_RNGtGreaA8Z371iloxJJ-D4e_Ann7G26KgT4YI",
+       "views": 247
+      },
+      {
+       "url": "https://drive.google.com/open?id=1FERhSDfLk0BAQM4dIjtxtb51GHkY55OZ",
+       "name": "drive.google.com/open?id=1FERhSDfLk0BAQM4dIjtxtb51GHkY55OZ",
+       "views": 71
+      },
+      {
+       "url": "https://drive.google.com/open?id=1Vjoqpe2VLiG-Dh8-j3T4roIhGmbSqOek",
+       "name": "drive.google.com/open?id=1Vjoqpe2VLiG-Dh8-j3T4roIhGmbSqOek",
+       "views": 66
+      },
+      {
+       "url": "https://drive.google.com/open?id=1SmVk-UKjU5Txz7n4XtXaLR8sn5X_m8Hd",
+       "name": "drive.google.com/open?id=1SmVk-UKjU5Txz7n4XtXaLR8sn5X_m8Hd",
+       "views": 15
+      },
+      {
+       "url": "https://drive.google.com/open?id=1H9TMdvzQbodYp-KvaYcD_jdl-GM3h0sv",
+       "name": "drive.google.com/open?id=1H9TMdvzQbodYp-KvaYcD_jdl-GM3h0sv",
+       "views": 10
+      },
+      {
+       "url": "https://drive.google.com/open?id=1Y4Tmg_Hab5k2O6HNuWMNP2K-eRkw4oZO",
+       "name": "drive.google.com/open?id=1Y4Tmg_Hab5k2O6HNuWMNP2K-eRkw4oZO",
+       "views": 8
+      },
+      {
+       "url": "https://drive.google.com/open?id=1Jzop1DJHNJYrhrkWfAgfsLzyc-h-l0OZ",
+       "name": "drive.google.com/open?id=1Jzop1DJHNJYrhrkWfAgfsLzyc-h-l0OZ",
+       "views": 6
+      },
+      {
+       "url": "https://drive.google.com/open?id=1yXKxjsWxHYU5TE74-5EYB8yabKiaWvr0",
+       "name": "drive.google.com/open?id=1yXKxjsWxHYU5TE74-5EYB8yabKiaWvr0",
+       "views": 5
+      },
+      {
+       "url": "https://drive.google.com/open?id=1FsUaYmfV0Y9yE3v5EtJO_upz_ZUR1hSX",
+       "name": "drive.google.com/open?id=1FsUaYmfV0Y9yE3v5EtJO_upz_ZUR1hSX",
+       "views": 2
+      },
+      {
+       "url": "https://drive.google.com/open?id=1uCUaU2mk7VcQup6YhM6q4ebGAMd_2iem",
+       "name": "drive.google.com/open?id=1uCUaU2mk7VcQup6YhM6q4ebGAMd_2iem",
+       "views": 2
+      },
+      {
+       "url": "https://drive.google.com/open?id=1d10An-pY24Ijau1mH0oj2jXm6JyqX9PZ",
+       "name": "drive.google.com/open?id=1d10An-pY24Ijau1mH0oj2jXm6JyqX9PZ",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/3aeb002460381c6f258e8395d3026f571f0d9a76488dcd837639b13aed316560?s=48",
+     "url": null,
+     "name": "github.com",
+     "views": 224,
+     "children": [
+      {
+       "url": "https://github.com/c-labpl/qrs_detector",
+       "name": "github.com/c-labpl/qrs_detector",
+       "views": 34
+      },
+      {
+       "url": "https://github.com/KChen89/QRS-detection",
+       "name": "github.com/KChen89/QRS-detection",
+       "views": 31
+      },
+      {
+       "url": "https://github.com/kosachevds/qrs_detector/tree/master/python",
+       "name": "github.com/kosachevds/qrs_detector/tree/master/python",
+       "views": 24
+      },
+      {
+       "url": "https://github.com/OpenTimer/OpenTimer",
+       "name": "github.com/OpenTimer/OpenTimer",
+       "views": 22
+      },
+      {
+       "url": "https://github.com/kosachevds/qrs_detector",
+       "name": "github.com/kosachevds/qrs_detector",
+       "views": 13
+      },
+      {
+       "url": "https://github.com/DusanKostic/QRSdetection",
+       "name": "github.com/DusanKostic/QRSdetection",
+       "views": 12
+      },
+      {
+       "url": "https://github.com/rafaelmmoreira/PanTompkinsQRS",
+       "name": "github.com/rafaelmmoreira/PanTompkinsQRS",
+       "views": 12
+      },
+      {
+       "url": "https://github.com/hneemann/Digital",
+       "name": "github.com/hneemann/Digital",
+       "views": 12
+      },
+      {
+       "url": "https://github.com/truongnmt/DeepECG",
+       "name": "github.com/truongnmt/DeepECG",
+       "views": 9
+      },
+      {
+       "url": "https://github.com/zadam/trilium",
+       "name": "github.com/zadam/trilium",
+       "views": 8
+      },
+      {
+       "url": "https://github.com/go-shiori/shiori",
+       "name": "github.com/go-shiori/shiori",
+       "views": 6
+      },
+      {
+       "url": "https://github.com/ruohoruotsi/Butterworth-Filter-Design",
+       "name": "github.com/ruohoruotsi/Butterworth-Filter-Design",
+       "views": 6
+      },
+      {
+       "url": "https://github.com/glenzac/raspberrypi-tv",
+       "name": "github.com/glenzac/raspberrypi-tv",
+       "views": 5
+      },
+      {
+       "url": "https://github.com/aburguera/QRS_DETECT",
+       "name": "github.com/aburguera/QRS_DETECT",
+       "views": 5
+      },
+      {
+       "url": "https://github.com/HangsikShin/QRS-Detection/tree/master/Simple-and-Robust-Realtime-QRS-Detection-Algorithm-based-on-Spatiotemporal-Characteristic-of-the-QRS-Complex",
+       "name": "github.com/HangsikShin/QRS-Detection/tree/master/Simple-and-Robust-Realtime-QRS-Detection-Algorithm-based-on-Spatiotemporal-Characteristic-of-the-QRS-Complex",
+       "views": 5
+      },
+      {
+       "url": "https://github.com/andystroz/ecgSignalProcessing",
+       "name": "github.com/andystroz/ecgSignalProcessing",
+       "views": 4
+      },
+      {
+       "url": "https://github.com/marianpetruk/ECG_analysis",
+       "name": "github.com/marianpetruk/ECG_analysis",
+       "views": 4
+      },
+      {
+       "url": "https://github.com/ytdl-org/youtube-dl",
+       "name": "github.com/ytdl-org/youtube-dl",
+       "views": 3
+      },
+      {
+       "url": "https://github.com/hooman650/BioSigKit",
+       "name": "github.com/hooman650/BioSigKit",
+       "views": 3
+      },
+      {
+       "url": "https://github.com/vinniefalco/DSPFilters",
+       "name": "github.com/vinniefalco/DSPFilters",
+       "views": 3
+      },
+      {
+       "url": "https://github.com/Jermolene/TiddlyDesktop/releases",
+       "name": "github.com/Jermolene/TiddlyDesktop/releases",
+       "views": 2
+      },
+      {
+       "url": "https://github.com/glenzac",
+       "name": "github.com/glenzac",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "i.imgur.com",
+     "views": 62,
+     "children": [
+      {
+       "url": "https://i.imgur.com/FNTfSTP.jpg",
+       "name": "i.imgur.com/FNTfSTP.jpg",
+       "views": 24
+      },
+      {
+       "url": "https://i.imgur.com/wR8jr6h.jpg",
+       "name": "i.imgur.com/wR8jr6h.jpg",
+       "views": 9
+      },
+      {
+       "url": "https://i.imgur.com/2OX3l47.jpg",
+       "name": "i.imgur.com/2OX3l47.jpg",
+       "views": 5
+      },
+      {
+       "url": "https://i.imgur.com/5G290g3.jpg",
+       "name": "i.imgur.com/5G290g3.jpg",
+       "views": 4
+      },
+      {
+       "url": "https://i.imgur.com/GHRwuy2.jpg?1.jpg",
+       "name": "i.imgur.com/GHRwuy2.jpg?1.jpg",
+       "views": 3
+      },
+      {
+       "url": "https://i.imgur.com/5jnYh7C.jpg",
+       "name": "i.imgur.com/5jnYh7C.jpg",
+       "views": 3
+      },
+      {
+       "url": "https://i.imgur.com/h0BpU5Z.jpg",
+       "name": "i.imgur.com/h0BpU5Z.jpg",
+       "views": 2
+      },
+      {
+       "url": "https://i.imgur.com/0xH0hxK.jpg",
+       "name": "i.imgur.com/0xH0hxK.jpg",
+       "views": 2
+      },
+      {
+       "url": "https://i.imgur.com/ysz0VVq.jpeg",
+       "name": "i.imgur.com/ysz0VVq.jpeg",
+       "views": 2
+      },
+      {
+       "url": "https://i.imgur.com/03wPqAr.jpg",
+       "name": "i.imgur.com/03wPqAr.jpg",
+       "views": 1
+      },
+      {
+       "url": "https://i.imgur.com/tHcnTl3.jpg",
+       "name": "i.imgur.com/tHcnTl3.jpg",
+       "views": 1
+      },
+      {
+       "url": "https://i.imgur.com/vwYmQ87.jpg",
+       "name": "i.imgur.com/vwYmQ87.jpg",
+       "views": 1
+      },
+      {
+       "url": "https://i.imgur.com/iJ7yYCa.jpg",
+       "name": "i.imgur.com/iJ7yYCa.jpg",
+       "views": 1
+      },
+      {
+       "url": "https://i.imgur.com/uxZnB2q.jpg",
+       "name": "i.imgur.com/uxZnB2q.jpg",
+       "views": 1
+      },
+      {
+       "url": "https://i.imgur.com/ZXWm9ar.jpeg",
+       "name": "i.imgur.com/ZXWm9ar.jpeg",
+       "views": 1
+      },
+      {
+       "url": "https://i.imgur.com/ZLmnvN4.jpg",
+       "name": "i.imgur.com/ZLmnvN4.jpg",
+       "views": 1
+      },
+      {
+       "url": "https://i.imgur.com/MHC5AjA.jpg",
+       "name": "i.imgur.com/MHC5AjA.jpg",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "forums.ni.com",
+     "views": 61,
+     "children": [
+      {
+       "url": "https://forums.ni.com/t5/Multisim-and-Ultiboard/simulating-ecg-signal-on-multisim/td-p/1121584",
+       "name": "forums.ni.com/t5/Multisim-and-Ultiboard/simulating-ecg-signal-on-multisim/td-p/1121584",
+       "views": 46
+      },
+      {
+       "url": "https://forums.ni.com/t5/Projects-Products/Free-6-Month-Evaluation-of-LabVIEW-Student-Edition-for-at-home/ta-p/3497362",
+       "name": "forums.ni.com/t5/Projects-Products/Free-6-Month-Evaluation-of-LabVIEW-Student-Edition-for-at-home/ta-p/3497362",
+       "views": 15
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://docs.google.com/spreadsheets/d/146w_0uU9As0id8H1MLw_fddu173FlqVm8nAkZ5s5otE/edit?usp=sharing",
+     "name": "docs.google.com/spreadsheets/d/146w_0uU9As0id8H1MLw_fddu173FlqVm8nAkZ5s5otE/edit?usp=sharing",
+     "views": 59,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.ni.com",
+     "views": 49,
+     "children": [
+      {
+       "url": "http://www.ni.com/example/30925/en/",
+       "name": "ni.com/example/30925/en/",
+       "views": 48
+      },
+      {
+       "url": "http://www.ni.com/multisim/",
+       "name": "ni.com/multisim/",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "opencircuitdesign.com",
+     "views": 46,
+     "children": [
+      {
+       "url": "http://opencircuitdesign.com/qflow/index.html",
+       "name": "opencircuitdesign.com/qflow/index.html",
+       "views": 14
+      },
+      {
+       "url": "http://opencircuitdesign.com/magic/",
+       "name": "opencircuitdesign.com/magic/",
+       "views": 11
+      },
+      {
+       "url": "http://opencircuitdesign.com/netgen/index.html",
+       "name": "opencircuitdesign.com/netgen/index.html",
+       "views": 10
+      },
+      {
+       "url": "http://opencircuitdesign.com/qrouter/index.html",
+       "name": "opencircuitdesign.com/qrouter/index.html",
+       "views": 6
+      },
+      {
+       "url": "http://opencircuitdesign.com/irsim/index.html",
+       "name": "opencircuitdesign.com/irsim/index.html",
+       "views": 5
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://e2e.ti.com/support/amplifiers/f/14/p/248858/871282",
+     "name": "e2e.ti.com/support/amplifiers/f/14/p/248858/871282",
+     "views": 43,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "go.skimresources.com",
+     "views": 36,
+     "children": [
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=300&xuuid=235b71150f16758f904104067dc45460&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=0dead3a2bed3e035993f01082c10738f",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=300&xuuid=235b71150f16758f904104067dc45460&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=0dead3a2bed3e035993f01082c10738f",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=360&xuuid=a6c58cd8e5a02a87980519ec94129adc&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=40df6c5b22d53b631ffb8279ae982fc9",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=360&xuuid=a6c58cd8e5a02a87980519ec94129adc&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=40df6c5b22d53b631ffb8279ae982fc9",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=360&xuuid=cfbf582d4653142a2838cc08813e129e&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=6e71bf2cd6b84ce71a8c454585b2215b",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=360&xuuid=cfbf582d4653142a2838cc08813e129e&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=6e71bf2cd6b84ce71a8c454585b2215b",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=360&xuuid=99b43b3a774c93119b4d3a6d3e520bf4&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=59cae91c11e1ac2fc315da66ae393914",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=360&xuuid=99b43b3a774c93119b4d3a6d3e520bf4&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=59cae91c11e1ac2fc315da66ae393914",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=-330&xuuid=d64e24d185bfc2d5211808cbeda276b4&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=7a14dcc97059e023a4cab917f5cd0d08",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=-330&xuuid=d64e24d185bfc2d5211808cbeda276b4&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=7a14dcc97059e023a4cab917f5cd0d08",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=-330&xuuid=d64e24d185bfc2d5211808cbeda276b4&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=96ff8253455564bdde6c4a788ff993b4",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=-330&xuuid=d64e24d185bfc2d5211808cbeda276b4&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=96ff8253455564bdde6c4a788ff993b4",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=300&xuuid=5181fa727ecd2933e626ad063ca42007&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=d9e0efc944090606a1db6e690f4fc30a",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=300&xuuid=5181fa727ecd2933e626ad063ca42007&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=d9e0efc944090606a1db6e690f4fc30a",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=360&xuuid=34a314981209ac702ec3a94eefdb4c49&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=7d81bb3c364037752b76fba2bb4c9c54",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=360&xuuid=34a314981209ac702ec3a94eefdb4c49&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=7d81bb3c364037752b76fba2bb4c9c54",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2023%2F12%2F31%2Fbuilding-a-daily-mood-tracker-in-google-sheets%2F&url=https%3A%2F%2Fmedia.thechalkboardmag.com%2Fwp-content%2Fuploads%2F2018%2F04%2F29212018%2Ffeelings-wheel-explained.jpg&xs=1&xtz=360&xuuid=68f6e6a4a888a7401b3365fb26f49aa9&xcust=8982&cci=b3171b801e29f46fcea4e0a709e8f2ef",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2023%2F12%2F31%2Fbuilding-a-daily-mood-tracker-in-google-sheets%2F&url=https%3A%2F%2Fmedia.thechalkboardmag.com%2Fwp-content%2Fuploads%2F2018%2F04%2F29212018%2Ffeelings-wheel-explained.jpg&xs=1&xtz=360&xuuid=68f6e6a4a888a7401b3365fb26f49aa9&xcust=8982&cci=b3171b801e29f46fcea4e0a709e8f2ef",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2018%2F11%2F09%2Fecg-sources-for-pspice-tina-multisim%2F&url=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1xrgt_RNGtGreaA8Z371iloxJJ-D4e_Ann7G26KgT4YI&xs=1&xtz=-480&xuuid=141086a2472a1181bd2a3840d186a1be&xcust=8982&cci=fbba1b6774c8c0842facb4f65228ec12",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2018%2F11%2F09%2Fecg-sources-for-pspice-tina-multisim%2F&url=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1xrgt_RNGtGreaA8Z371iloxJJ-D4e_Ann7G26KgT4YI&xs=1&xtz=-480&xuuid=141086a2472a1181bd2a3840d186a1be&xcust=8982&cci=fbba1b6774c8c0842facb4f65228ec12",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2019%2F04%2F23%2Fecg-analog-front-end-design%2F&url=https%3A%2F%2Fmedcraveonline.com%2FIJBSBE%2FIJBSBE-02-00032&xs=1&xtz=240&xuuid=8557a5ecb95a48d91a5e72035d5a433e&xcust=8982&cci=34dfa797573f7313e2186e36dc4a667f",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2019%2F04%2F23%2Fecg-analog-front-end-design%2F&url=https%3A%2F%2Fmedcraveonline.com%2FIJBSBE%2FIJBSBE-02-00032&xs=1&xtz=240&xuuid=8557a5ecb95a48d91a5e72035d5a433e&xcust=8982&cci=34dfa797573f7313e2186e36dc4a667f",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2018%2F11%2F09%2Fecg-sources-for-pspice-tina-multisim%2F&url=https%3A%2F%2Fe2e.ti.com%2Fsupport%2Famplifiers%2Ff%2F14%2Fp%2F248858%2F871282&xs=1&xtz=-330&xuuid=00e1cbc63131361330871fbcab901222&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=7c63d7e287b7eb1aba6ce4560aaba95a",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2018%2F11%2F09%2Fecg-sources-for-pspice-tina-multisim%2F&url=https%3A%2F%2Fe2e.ti.com%2Fsupport%2Famplifiers%2Ff%2F14%2Fp%2F248858%2F871282&xs=1&xtz=-330&xuuid=00e1cbc63131361330871fbcab901222&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=7c63d7e287b7eb1aba6ce4560aaba95a",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=240&xuuid=1d3a6bba3308aaddf0a80a8b17f4c525&xcust=8982&cci=dff059ad66be9fceafeb743a8eb8d548",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=240&xuuid=1d3a6bba3308aaddf0a80a8b17f4c525&xcust=8982&cci=dff059ad66be9fceafeb743a8eb8d548",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=240&xuuid=583a0e65a163258c83f7714c63a52e8d&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=559ff5f430be0cd54ca69b8267794d4f",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=240&xuuid=583a0e65a163258c83f7714c63a52e8d&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=559ff5f430be0cd54ca69b8267794d4f",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=240&xuuid=9433860110ed715b59b81ca4c3b84903&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=5cbebb9bb2a27f7c12d68d827b7d92fd",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=240&xuuid=9433860110ed715b59b81ca4c3b84903&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=5cbebb9bb2a27f7c12d68d827b7d92fd",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2020%2F09%2F24%2Fhow-to-get-syntax-highlighting-in-a-pdf%2F&url=https%3A%2F%2Fextensions.libreoffice.org%2Fen%2Fextensions%2Fshow%2Fcode-highlighter&xs=1&xtz=-330&xuuid=367507ad95eecad1d2d04a8bd6f7cf8f&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=03da97742353b32f6d6507a84db768ea",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2020%2F09%2F24%2Fhow-to-get-syntax-highlighting-in-a-pdf%2F&url=https%3A%2F%2Fextensions.libreoffice.org%2Fen%2Fextensions%2Fshow%2Fcode-highlighter&xs=1&xtz=-330&xuuid=367507ad95eecad1d2d04a8bd6f7cf8f&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=03da97742353b32f6d6507a84db768ea",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F%23%3A%7E%3Atext%3DSE%2520is%2520short%2520for%2520Key%2Cmicrowave%2520has%2520switched%2520itself%2520off.&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=0&xuuid=a6cf012a3ff81581e50b059b4faf3ed0&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=ad5345491aaf69e2e3b5c38b3f601b4a",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F%23%3A%7E%3Atext%3DSE%2520is%2520short%2520for%2520Key%2Cmicrowave%2520has%2520switched%2520itself%2520off.&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=0&xuuid=a6cf012a3ff81581e50b059b4faf3ed0&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=ad5345491aaf69e2e3b5c38b3f601b4a",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2019%2F04%2F23%2Fecg-analog-front-end-design%2F&url=http%3A%2F%2Fwww.cypress.com%2Ffile%2F106956%2Fdownload&xs=1&xtz=-330&xuuid=8f0ffeef2155f16ad8bf4abec92c2982&xcust=8982&cci=35004e691bc837746b458b02812295d0",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2019%2F04%2F23%2Fecg-analog-front-end-design%2F&url=http%3A%2F%2Fwww.cypress.com%2Ffile%2F106956%2Fdownload&xs=1&xtz=-330&xuuid=8f0ffeef2155f16ad8bf4abec92c2982&xcust=8982&cci=35004e691bc837746b458b02812295d0",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2019%2F04%2F23%2Fecg-analog-front-end-design%2F&url=http%3A%2F%2Fwww.cypress.com%2Ffile%2F106956%2Fdownload&xs=1&xtz=-330&xuuid=b2ba49c3c25230cff92361025446e9a6&xcust=8982&xjsf=other_click__auxclick%20%5B2%5D",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2019%2F04%2F23%2Fecg-analog-front-end-design%2F&url=http%3A%2F%2Fwww.cypress.com%2Ffile%2F106956%2Fdownload&xs=1&xtz=-330&xuuid=b2ba49c3c25230cff92361025446e9a6&xcust=8982&xjsf=other_click__auxclick%20%5B2%5D",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=-120&xuuid=b886ae0a76467cafb26cc0edd6c98212&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=dfea6a57671e39cb3756506200105171",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=-120&xuuid=b886ae0a76467cafb26cc0edd6c98212&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=dfea6a57671e39cb3756506200105171",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=-330&xuuid=1c6e1848a1566bdb2ab8440d567e6e98&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=e38fa6d76a29dc4d1ff7ad533de3237e",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=-330&xuuid=1c6e1848a1566bdb2ab8440d567e6e98&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=e38fa6d76a29dc4d1ff7ad533de3237e",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F%23&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=240&xuuid=1afc81dd12fe8e52843b087fd9c66c22&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=89303d7ecc181a6b7cc12e7b64048742",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F%23&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=240&xuuid=1afc81dd12fe8e52843b087fd9c66c22&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=89303d7ecc181a6b7cc12e7b64048742",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=180&xuuid=9c747530cc5e42f721122a41ce1e105d&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=19df205f4192bef68f43bcc0a63474cc",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=180&xuuid=9c747530cc5e42f721122a41ce1e105d&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=19df205f4192bef68f43bcc0a63474cc",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F%23&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=240&xuuid=e1f7d7ff2906153dc4c2cb529621cf97&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=d2352356826fb87de11a7e94584953fe",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F%23&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=240&xuuid=e1f7d7ff2906153dc4c2cb529621cf97&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=d2352356826fb87de11a7e94584953fe",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.0&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=240&xuuid=d38ca0fe104257df8873b508ed1c1369&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=7e977c3c140b6c7c41059756b0094836",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.0&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=240&xuuid=d38ca0fe104257df8873b508ed1c1369&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=7e977c3c140b6c7c41059756b0094836",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.5.0&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2018%2F11%2F09%2Fecg-sources-for-pspice-tina-multisim%2F&url=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1xrgt_RNGtGreaA8Z371iloxJJ-D4e_Ann7G26KgT4YI&xs=1&xtz=-480&xuuid=b3d1d22ece1bca9a5634e1a9fb8e590c&xcust=8982&cci=028d389c760111283f1240b551f4953a",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.5.0&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2018%2F11%2F09%2Fecg-sources-for-pspice-tina-multisim%2F&url=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1xrgt_RNGtGreaA8Z371iloxJJ-D4e_Ann7G26KgT4YI&xs=1&xtz=-480&xuuid=b3d1d22ece1bca9a5634e1a9fb8e590c&xcust=8982&cci=028d389c760111283f1240b551f4953a",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.5.0&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=-180&xuuid=2edcd8b4f213af3f97439f0f136a8cbb&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=9e8a644e3baedaeb867a75ee3f7b4ff8",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.5.0&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=-180&xuuid=2edcd8b4f213af3f97439f0f136a8cbb&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=9e8a644e3baedaeb867a75ee3f7b4ff8",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2018%2F11%2F09%2Fecg-sources-for-pspice-tina-multisim%2F&url=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1xrgt_RNGtGreaA8Z371iloxJJ-D4e_Ann7G26KgT4YI&xs=1&xtz=-60&xuuid=f350c06871deccefd353de14a0be675f&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=b2cf57441835eefa83b2d5edca5af414",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2018%2F11%2F09%2Fecg-sources-for-pspice-tina-multisim%2F&url=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1xrgt_RNGtGreaA8Z371iloxJJ-D4e_Ann7G26KgT4YI&xs=1&xtz=-60&xuuid=f350c06871deccefd353de14a0be675f&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=b2cf57441835eefa83b2d5edca5af414",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2018%2F11%2F09%2Fecg-sources-for-pspice-tina-multisim%2F&url=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1xrgt_RNGtGreaA8Z371iloxJJ-D4e_Ann7G26KgT4YI&xs=1&xtz=-60&xuuid=f350c06871deccefd353de14a0be675f&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=dc0e719daea494919d80f6c34764e4d8",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2018%2F11%2F09%2Fecg-sources-for-pspice-tina-multisim%2F&url=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1xrgt_RNGtGreaA8Z371iloxJJ-D4e_Ann7G26KgT4YI&xs=1&xtz=-60&xuuid=f350c06871deccefd353de14a0be675f&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=dc0e719daea494919d80f6c34764e4d8",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2020%2F06%2F09%2Fjiofi-wifi-dongle-range-extender%2F&url=https%3A%2F%2Fi.imgur.com%2FFNTfSTP.jpg&xs=1&xtz=-330&xuuid=632800eb075ecf1f5c9330e6a86167d4&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=bb345640b28ea2c6d5ad1a534eef90c7",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2020%2F06%2F09%2Fjiofi-wifi-dongle-range-extender%2F&url=https%3A%2F%2Fi.imgur.com%2FFNTfSTP.jpg&xs=1&xtz=-330&xuuid=632800eb075ecf1f5c9330e6a86167d4&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=bb345640b28ea2c6d5ad1a534eef90c7",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2018%2F11%2F09%2Fecg-sources-for-pspice-tina-multisim%2F&url=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1FERhSDfLk0BAQM4dIjtxtb51GHkY55OZ&xs=1&xtz=300&xuuid=d1d71e75e38e600b670030cebe3946d6&xcust=8982&cci=f4e13021771f2c38d61d8bb59b9e66fa",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2018%2F11%2F09%2Fecg-sources-for-pspice-tina-multisim%2F&url=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1FERhSDfLk0BAQM4dIjtxtb51GHkY55OZ&xs=1&xtz=300&xuuid=d1d71e75e38e600b670030cebe3946d6&xcust=8982&cci=f4e13021771f2c38d61d8bb59b9e66fa",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=480&xuuid=02003343ff320dfdd71e77cc93349d90&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=119df0c4f36212e8c26740c5d88d3ecf",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=480&xuuid=02003343ff320dfdd71e77cc93349d90&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=119df0c4f36212e8c26740c5d88d3ecf",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2018%2F08%2F21%2Fits-a-dvd-player-this-week%2F&url=https%3A%2F%2Fwww.instructables.com%2Fid%2FParts-to-Salvage-From-a-DVDCD-Player%2F&xs=1&xtz=-330&xuuid=428de25ad88e14f2790dd76df340f781&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=ea0492469f454ea3ef890e8bc756004f",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2018%2F08%2F21%2Fits-a-dvd-player-this-week%2F&url=https%3A%2F%2Fwww.instructables.com%2Fid%2FParts-to-Salvage-From-a-DVDCD-Player%2F&xs=1&xtz=-330&xuuid=428de25ad88e14f2790dd76df340f781&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=ea0492469f454ea3ef890e8bc756004f",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F06%2F21%2Flist-of-open-source-vlsi-eda-tools%2F&url=http%3A%2F%2Fopencircuitdesign.com%2Fqrouter%2Findex.html&xs=1&xtz=-330&xuuid=74ee276ca75bfaaa8c74b8ae1775f56a&xcust=8982&cci=963953d3b867a863998f10d7f56c948d",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F06%2F21%2Flist-of-open-source-vlsi-eda-tools%2F&url=http%3A%2F%2Fopencircuitdesign.com%2Fqrouter%2Findex.html&xs=1&xtz=-330&xuuid=74ee276ca75bfaaa8c74b8ae1775f56a&xcust=8982&cci=963953d3b867a863998f10d7f56c948d",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F06%2F21%2Flist-of-open-source-vlsi-eda-tools%2F&url=http%3A%2F%2Fvlsicad.eecs.umich.edu%2FBK%2FSlots%2Fcache%2Fer.cs.ucla.edu%2FDragon%2F&xs=1&xtz=-330&xuuid=74ee276ca75bfaaa8c74b8ae1775f56a&xcust=8982&cci=e949b487e1726d460ebb2c320c62f314",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F06%2F21%2Flist-of-open-source-vlsi-eda-tools%2F&url=http%3A%2F%2Fvlsicad.eecs.umich.edu%2FBK%2FSlots%2Fcache%2Fer.cs.ucla.edu%2FDragon%2F&xs=1&xtz=-330&xuuid=74ee276ca75bfaaa8c74b8ae1775f56a&xcust=8982&cci=e949b487e1726d460ebb2c320c62f314",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F06%2F21%2Flist-of-open-source-vlsi-eda-tools%2F&url=http%3A%2F%2Fwww.toped.org.uk%2F&xs=1&xtz=-330&xuuid=74ee276ca75bfaaa8c74b8ae1775f56a&xcust=8982&cci=5166c6cd18e1dc25c68bd95eca620ccd",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F06%2F21%2Flist-of-open-source-vlsi-eda-tools%2F&url=http%3A%2F%2Fwww.toped.org.uk%2F&xs=1&xtz=-330&xuuid=74ee276ca75bfaaa8c74b8ae1775f56a&xcust=8982&cci=5166c6cd18e1dc25c68bd95eca620ccd",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "http://jiofi.local.html/",
+     "name": "jiofi.local.html",
+     "views": 27,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "vlsicad.eecs.umich.edu",
+     "views": 23,
+     "children": [
+      {
+       "url": "http://vlsicad.eecs.umich.edu/BK/Slots/cache/er.cs.ucla.edu/Dragon/",
+       "name": "vlsicad.eecs.umich.edu/BK/Slots/cache/er.cs.ucla.edu/Dragon/",
+       "views": 16
+      },
+      {
+       "url": "http://vlsicad.eecs.umich.edu/BK/FGR/",
+       "name": "vlsicad.eecs.umich.edu/BK/FGR/",
+       "views": 7
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "sourceforge.net",
+     "views": 18,
+     "children": [
+      {
+       "url": "https://sourceforge.net/projects/xschem/",
+       "name": "sourceforge.net/projects/xschem/",
+       "views": 15
+      },
+      {
+       "url": "https://sourceforge.net/projects/gtkwave/",
+       "name": "sourceforge.net/projects/gtkwave/",
+       "views": 3
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://klayout.de/",
+     "name": "klayout.de",
+     "views": 17,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "en.wikipedia.org",
+     "views": 17,
+     "children": [
+      {
+       "url": "https://en.wikipedia.org/wiki/Recency_bias",
+       "name": "en.wikipedia.org/wiki/Recency_bias",
+       "views": 4
+      },
+      {
+       "url": "https://en.wikipedia.org/wiki/Logisim",
+       "name": "en.wikipedia.org/wiki/Logisim",
+       "views": 2
+      },
+      {
+       "url": "https://en.wikipedia.org/wiki/Electric_(software)",
+       "name": "en.wikipedia.org/wiki/Electric_(software)",
+       "views": 1
+      },
+      {
+       "url": "https://en.wikipedia.org/wiki/GNU_Circuit_Analysis_Package",
+       "name": "en.wikipedia.org/wiki/GNU_Circuit_Analysis_Package",
+       "views": 1
+      },
+      {
+       "url": "https://en.wikipedia.org/wiki/KTechLab",
+       "name": "en.wikipedia.org/wiki/KTechLab",
+       "views": 1
+      },
+      {
+       "url": "https://en.wikipedia.org/wiki/Logic_Friday",
+       "name": "en.wikipedia.org/wiki/Logic_Friday",
+       "views": 1
+      },
+      {
+       "url": "https://en.wikipedia.org/wiki/Ngspice",
+       "name": "en.wikipedia.org/wiki/Ngspice",
+       "views": 1
+      },
+      {
+       "url": "https://en.wikipedia.org/wiki/Oregano_(software)",
+       "name": "en.wikipedia.org/wiki/Oregano_(software)",
+       "views": 1
+      },
+      {
+       "url": "https://en.wikipedia.org/wiki/Quite_Universal_Circuit_Simulator",
+       "name": "en.wikipedia.org/wiki/Quite_Universal_Circuit_Simulator",
+       "views": 1
+      },
+      {
+       "url": "https://en.wikipedia.org/wiki/Sandia_National_Laboratories#Open-source_software",
+       "name": "en.wikipedia.org/wiki/Sandia_National_Laboratories#Open-source_software",
+       "views": 1
+      },
+      {
+       "url": "https://en.wikipedia.org/wiki/Delta_modulation",
+       "name": "en.wikipedia.org/wiki/Delta_modulation",
+       "views": 1
+      },
+      {
+       "url": "https://en.wikipedia.org/wiki/Anki_(software)",
+       "name": "en.wikipedia.org/wiki/Anki_(software)",
+       "views": 1
+      },
+      {
+       "url": "https://en.wikipedia.org/wiki/Charlieplexing",
+       "name": "en.wikipedia.org/wiki/Charlieplexing",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://www.staticfreesoft.com/index.html",
+     "name": "staticfreesoft.com/index.html",
+     "views": 16,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://media.thechalkboardmag.com/wp-content/uploads/2018/04/29212018/feelings-wheel-explained.jpg",
+     "name": "media.thechalkboardmag.com/wp-content/uploads/2018/04/29212018/feelings-wheel-explained.jpg",
+     "views": 15,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://esim.fossee.in/home",
+     "name": "esim.fossee.in/home",
+     "views": 15,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.cypress.com",
+     "views": 15,
+     "children": [
+      {
+       "url": "http://www.cypress.com/file/106956/download",
+       "name": "cypress.com/file/106956/download",
+       "views": 8
+      },
+      {
+       "url": "http://www.cypress.com/file/139956/download",
+       "name": "cypress.com/file/139956/download",
+       "views": 6
+      },
+      {
+       "url": "http://www.cypress.com/documentation/application-notes/an64846-getting-started-capsense",
+       "name": "cypress.com/documentation/application-notes/an64846-getting-started-capsense",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "http://www.clifford.at/yosys/",
+     "name": "clifford.at/yosys/",
+     "views": 14,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.msec.it/blog/?page_id=11",
+     "name": "msec.it/blog/?page_id=11",
+     "views": 14,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://thechalkboardmag.com/the-feelings-circle-chart-emotional-communication/",
+     "name": "thechalkboardmag.com/the-feelings-circle-chart-emotional-communication/",
+     "views": 13,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://iverilog.icarus.com/",
+     "name": "iverilog.icarus.com",
+     "views": 13,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.cburch.com/logisim/",
+     "name": "cburch.com/logisim/",
+     "views": 13,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/4aef029061bea5b852a2f8099385a67df96230675cd9d40b33756d1b232e6212?s=48",
+     "url": null,
+     "name": "www.edn.com",
+     "views": 13,
+     "children": [
+      {
+       "url": "https://www.edn.com/design/integrated-circuit-design/4312523/Create-a-DAC-from-a-microcontroller-s-ADC",
+       "name": "edn.com/design/integrated-circuit-design/4312523/Create-a-DAC-from-a-microcontroller-s-ADC",
+       "views": 7
+      },
+      {
+       "url": "https://www.edn.com/design/analog/4337128/Make-a-DAC-with-a-microcontroller-s-PWM-timer",
+       "name": "edn.com/design/analog/4337128/Make-a-DAC-with-a-microcontroller-s-PWM-timer",
+       "views": 6
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "http://ngspice.sourceforge.net/",
+     "name": "ngspice.sourceforge.net",
+     "views": 12,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://irplus-remote.github.io/",
+     "name": "irplus-remote.github.io",
+     "views": 12,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://dd-wrt.com/",
+     "name": "dd-wrt.com",
+     "views": 11,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.veripool.org/verilator/",
+     "name": "veripool.org/verilator/",
+     "views": 11,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.analog.com/designtools/en/filterwizard/",
+     "name": "analog.com/designtools/en/filterwizard/",
+     "views": 11,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.medteq.info/med/ECGFilters",
+     "name": "medteq.info/med/ECGFilters",
+     "views": 11,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/c266e947b27953d5d56801cbe1e3d7c9fa3b003d58de59000469927a944b3eb9?s=48",
+     "url": null,
+     "name": "www.eevblog.com",
+     "views": 11,
+     "children": [
+      {
+       "url": "https://www.eevblog.com/forum/projects/ecg-front-end-design/",
+       "name": "eevblog.com/forum/projects/ecg-front-end-design/",
+       "views": 8
+      },
+      {
+       "url": "https://www.eevblog.com/",
+       "name": "eevblog.com",
+       "views": 3
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://gist.github.com/powerswitch/79e91f8f2d5f311f0734438726b63486",
+     "name": "gist.github.com/powerswitch/79e91f8f2d5f311f0734438726b63486",
+     "views": 10,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/d515ac8f2696affb0b81cae0f6377c7edd9f7621c7ac1e3159450cd32b434e66?s=48",
+     "url": "https://wordpress.com/start/?ref=marketing_bar",
+     "name": "wordpress.com/start/?ref=marketing_bar",
+     "views": 10,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www-soc.lip6.fr/equipe-cian/logiciels/tasyagle/",
+     "name": "www-soc.lip6.fr/equipe-cian/logiciels/tasyagle/",
+     "views": 10,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://z3t0.github.io/Arduino-IRremote/",
+     "name": "z3t0.github.io/Arduino-IRremote/",
+     "views": 10,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.ti.com",
+     "views": 10,
+     "children": [
+      {
+       "url": "http://www.ti.com/lit/an/sbaa160a/sbaa160a.pdf",
+       "name": "ti.com/lit/an/sbaa160a/sbaa160a.pdf",
+       "views": 6
+      },
+      {
+       "url": "http://www.ti.com/design-tools/signal-chain-design/webench-filters.html",
+       "name": "ti.com/design-tools/signal-chain-design/webench-filters.html",
+       "views": 1
+      },
+      {
+       "url": "http://www.ti.com/general/docs/litabsmultiplefilelist.tsp?literatureNumber=sloa093",
+       "name": "ti.com/general/docs/litabsmultiplefilelist.tsp?literatureNumber=sloa093",
+       "views": 1
+      },
+      {
+       "url": "http://www.ti.com/lit/an/slyt173/slyt173.pdf",
+       "name": "ti.com/lit/an/slyt173/slyt173.pdf",
+       "views": 1
+      },
+      {
+       "url": "https://www.ti.com/europe/downloads/Choose%20the%20right%20data%20converter%20for%20your%20application.pdf",
+       "name": "ti.com/europe/downloads/Choose%20the%20right%20data%20converter%20for%20your%20application.pdf",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "WordPress.com Media ",
+     "views": 10,
+     "children": [
+      {
+       "url": "https://glenzac.files.wordpress.com/2021/06/pypdf.png",
+       "name": "glenzac.files.wordpress.com/2021/06/pypdf.png",
+       "views": 6
+      },
+      {
+       "url": "https://glenzac.files.wordpress.com/2021/07/microwave.jpg",
+       "name": "glenzac.files.wordpress.com/2021/07/microwave.jpg",
+       "views": 2
+      },
+      {
+       "url": "https://glenzac.files.wordpress.com/2021/04/trilium-1.png",
+       "name": "glenzac.files.wordpress.com/2021/04/trilium-1.png",
+       "views": 2
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://www.resilio.com/",
+     "name": "resilio.com",
+     "views": 9,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://physionet.org/cgi-bin/atm/ATM",
+     "name": "physionet.org/cgi-bin/atm/ATM",
+     "views": 9,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://cardinalpeak.com/blog/a-c-class-to-implement-low-pass-high-pass-and-band-pass-filters/",
+     "name": "cardinalpeak.com/blog/a-c-class-to-implement-low-pass-high-pass-and-band-pass-filters/",
+     "views": 9,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.logiccircuit.org/",
+     "name": "logiccircuit.org",
+     "views": 8,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.toped.org.uk/",
+     "name": "toped.org.uk",
+     "views": 8,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.mathworks.com/matlabcentral/fileexchange/45840-complete-pan-tompkins-implementation-ecg-qrs-detector",
+     "name": "mathworks.com/matlabcentral/fileexchange/45840-complete-pan-tompkins-implementation-ecg-qrs-detector",
+     "views": 8,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://cppsim.com/",
+     "name": "cppsim.com",
+     "views": 7,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=2ahUKEwjM48yw2PbcAhVLO48KHRvnBC8QFjAAegQICRAC&amp;url=http%3A%2F%2Fread.pudn.com%2Fdownloads166%2Fdoc%2Fproject%2F763821%2FET6202-en.pdf&amp;usg=AOvVaw3xVzjXsPiGN3OKTF3ODzf_",
+     "name": "google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjM48yw2PbcAhVLO48KHRvnBC8QFjAAegQICRAC&url=http%3A%2F%2Fread.pudn.com%2Fdownloads166%2Fdoc%2Fproject%2F763821%2FET6202-en.pdf&usg=AOvVaw3xVzjXsPiGN3OKTF3ODzf_",
+     "views": 7,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://openwrt.org/",
+     "name": "openwrt.org",
+     "views": 6,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://engineerslabs.com/2012/01/ecg-circuit-analysis-and-design-simulation-by-multisim/",
+     "name": "engineerslabs.com/2012/01/ecg-circuit-analysis-and-design-simulation-by-multisim/",
+     "views": 6,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://chipvault.sourceforge.net/",
+     "name": "chipvault.sourceforge.net",
+     "views": 6,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.rejetto.com/hfs/?f=intro",
+     "name": "rejetto.com/hfs/?f=intro",
+     "views": 6,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "pypi.org",
+     "views": 6,
+     "children": [
+      {
+       "url": "https://pypi.org/project/PyPDF2/",
+       "name": "pypi.org/project/PyPDF2/",
+       "views": 4
+      },
+      {
+       "url": "https://pypi.org/project/buku/",
+       "name": "pypi.org/project/buku/",
+       "views": 2
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://www.libreoffice.org/discover/writer/",
+     "name": "libreoffice.org/discover/writer/",
+     "views": 5,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://extensions.libreoffice.org/en/extensions/show/code-highlighter",
+     "name": "extensions.libreoffice.org/en/extensions/show/code-highlighter",
+     "views": 5,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.manualslib.com/download/987399/Philips-Dvp3126k.html",
+     "name": "manualslib.com/download/987399/Philips-Dvp3126k.html",
+     "views": 4,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://batteryuniversity.com/learn/article/charging_lithium_ion_batteries",
+     "name": "batteryuniversity.com/learn/article/charging_lithium_ion_batteries",
+     "views": 4,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://xyce.sandia.gov/",
+     "name": "xyce.sandia.gov",
+     "views": 4,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://create.arduino.cc/projecthub/Arduino_Scuola/build-a-simple-dac-for-your-arduino-4c00bd",
+     "name": "create.arduino.cc/projecthub/Arduino_Scuola/build-a-simple-dac-for-your-arduino-4c00bd",
+     "views": 4,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://aquila-dsp.org/",
+     "name": "aquila-dsp.org",
+     "views": 4,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://spuc.sourceforge.net/",
+     "name": "spuc.sourceforge.net",
+     "views": 4,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/9fbdb3cd501c9c79e860ff5092870489fc8b5482905a024ff05004296c8af722?s=48",
+     "url": null,
+     "name": "glenzac.wordpress.com",
+     "views": 4,
+     "children": [
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2023/12/image.png",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2023/12/image.png",
+       "views": 1
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/07/microwave.jpg",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/07/microwave.jpg",
+       "views": 1
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/04/trilium-1.png",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/04/trilium-1.png",
+       "views": 1
+      },
+      {
+       "url": "https://glenzac.wordpress.com/",
+       "name": "glenzac.wordpress.com",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/eab2706b5fbf21f5f71afccd9b6ba9b43189ea8e1d9c6c2350e8dbcefbd714a7?s=48",
+     "url": null,
+     "name": "gravatar.com",
+     "views": 4,
+     "children": [
+      {
+       "url": "https://gravatar.com/denisjohnson35",
+       "name": "gravatar.com/denisjohnson35",
+       "views": 1
+      },
+      {
+       "url": "https://gravatar.com/jess2807",
+       "name": "gravatar.com/jess2807",
+       "views": 1
+      },
+      {
+       "url": "https://gravatar.com/nivethaak",
+       "name": "gravatar.com/nivethaak",
+       "views": 1
+      },
+      {
+       "url": "https://gravatar.com/outdoorsgetawaysales",
+       "name": "gravatar.com/outdoorsgetawaysales",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://pimylifeup.com/raspberrypi-hdmi-cec/",
+     "name": "pimylifeup.com/raspberrypi-hdmi-cec/",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf",
+     "name": "mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/b2213008f44f68731f22ff50ee359e9fc09c06c219fb1d6d587754812b5be2a1?s=48",
+     "url": "https://automattic.com/cookies/",
+     "name": "automattic.com/cookies/",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://obsidian.md/",
+     "name": "obsidian.md",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://pinout.xyz/#",
+     "name": "pinout.xyz/#",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www-users.cs.york.ac.uk/~fisher/mkfilter/",
+     "name": "www-users.cs.york.ac.uk/~fisher/mkfilter/",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.instructables.com",
+     "views": 3,
+     "children": [
+      {
+       "url": "https://www.instructables.com/id/Parts-to-Salvage-From-a-DVDCD-Player/",
+       "name": "instructables.com/id/Parts-to-Salvage-From-a-DVDCD-Player/",
+       "views": 2
+      },
+      {
+       "url": "http://www.instructables.com/id/ATtiny8545-POV-Display/",
+       "name": "instructables.com/id/ATtiny8545-POV-Display/",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.raspberrypi.org",
+     "views": 3,
+     "children": [
+      {
+       "url": "https://www.raspberrypi.org/documentation/configuration/raspi-config.md",
+       "name": "raspberrypi.org/documentation/configuration/raspi-config.md",
+       "views": 2
+      },
+      {
+       "url": "https://www.raspberrypi.org/products/raspberry-pi-3-model-b/",
+       "name": "raspberrypi.org/products/raspberry-pi-3-model-b/",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.physionet.org",
+     "views": 3,
+     "children": [
+      {
+       "url": "https://www.physionet.org/",
+       "name": "physionet.org",
+       "views": 1
+      },
+      {
+       "url": "https://www.physionet.org/physiotools/ecgsyn/",
+       "name": "physionet.org/physiotools/ecgsyn/",
+       "views": 1
+      },
+      {
+       "url": "https://www.physionet.org/physiotools/matlab/ECGwaveGen/",
+       "name": "physionet.org/physiotools/matlab/ECGwaveGen/",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "http://www.chipquik.com/store/product_info.php?products_id=480001",
+     "name": "chipquik.com/store/product_info.php?products_id=480001",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.youtube.com/watch?v=pFz1S5NVfRg&amp;list=PLIOkqhZiy83F8KPvHejA4ujvAfwJYpAtP",
+     "name": "youtube.com/watch?v=pFz1S5NVfRg&list=PLIOkqhZiy83F8KPvHejA4ujvAfwJYpAtP",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://apps.ankiweb.net/",
+     "name": "apps.ankiweb.net",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://medcraveonline.com/IJBSBE/IJBSBE-02-00032",
+     "name": "medcraveonline.com/IJBSBE/IJBSBE-02-00032",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.ifixit.com/",
+     "name": "ifixit.com",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://autohotkey.com/board/topic/6949-script-for-latex/",
+     "name": "autohotkey.com/board/topic/6949-script-for-latex/",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.ejwoo.com/uploads/2/5/4/0/25400517/ecg_qrs_detection.pdf",
+     "name": "ejwoo.com/uploads/2/5/4/0/25400517/ecg_qrs_detection.pdf",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://casio.ledudu.com/pockets.asp?type=1894&amp;lg=eng",
+     "name": "casio.ledudu.com/pockets.asp?type=1894&lg=eng",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://napchart.com/",
+     "name": "napchart.com",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://sestevenson.wordpress.com/implementation-of-fir-filtering-in-c-part-1/",
+     "name": "sestevenson.wordpress.com/implementation-of-fir-filtering-in-c-part-1/",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://ibnishak.github.io/Timimi/",
+     "name": "ibnishak.github.io/Timimi/",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.fftw.org/",
+     "name": "fftw.org",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://play.google.com/store/apps/details?id=com.jetpack.android&amp;referrer=utm_source%3Dwordpress.com%26utm_medium%3Dwebsite%26utm_campaign%3Dimage-landing-page-new",
+     "name": "play.google.com/store/apps/details?id=com.jetpack.android&referrer=utm_source%3Dwordpress.com%26utm_medium%3Dwebsite%26utm_campaign%3Dimage-landing-page-new",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "ubuntu-mate.community",
+     "views": 2,
+     "children": [
+      {
+       "url": "https://ubuntu-mate.community/t/controlling-raspberry-pi-with-tv-remote-using-hdmi-cec/4250",
+       "name": "ubuntu-mate.community/t/controlling-raspberry-pi-with-tv-remote-using-hdmi-cec/4250",
+       "views": 1
+      },
+      {
+       "url": "https://ubuntu-mate.community/t/controlling-raspberry-pi-with-tv-remote-using-hdmi-cec/4250/4",
+       "name": "ubuntu-mate.community/t/controlling-raspberry-pi-with-tv-remote-using-hdmi-cec/4250/4",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "paid.outbrain.com",
+     "views": 2,
+     "children": [
+      {
+       "url": "https://paid.outbrain.com/network/redir?p=DSIdq5ecFcJVJCUrG4zrO2lKsv2FXjJKjwy-1mUbzd0kyRqcuI5sHi3nqcNdBuxJH4BRb8_teeVWnTH09voTbN-RRSm19HUutBBt7fIXRC2GbGWp4xWBUhM1Uj7tv4stsDaKgy6VMCVD6DQdMjzUAc9_zdaIRUMUYtpLGCE9DV6b1M_RNTs0zmpSU4o7Mqwtl10S374Lz7sspzs6s9A4W3VaksFTNt6cJO6QbQok4upKYIEncGdw8ERXp190Z7AUidMXTRTnq-jeyitv-8d5NE21yDIrtaZANcpr-auMkW8cNpEEtiDhiyCvkQnQdQYIROlK2dAQCnvKaQvjiZBZDG0R8yPempsZnsuy-zzVY6CF6lJfCFcRx3m3cBCP6w8pVXQD9GX-b76q017CuGPP0hNB713ifzSoGog-KV-DlXj3KZFQwkI4Too04T1yQuUC8W_e4LsBMeZHgotn3TcDmtuwk-ff06dKtU-9F1mFRuYp8iZUeKxQQ6FY8il1dsTCLK_STwUI_cnLrzfKdXKwy04CckxtbEvLKGmt-J9eI0aP4nxHvskBDXSmkxpEnVwj7TB-_vaGS7wzvuKqQ9wAxe3tVQoOt3Rj_kImPD8D7EKwDmDkUwcJuCIDq9sK4438kIDPPMHqyWvAKRI0WSzzvl-1aSM7Cp70vcj8bNOaNna-jXVxyX2Yy6_XpLep5wWL8LB-6G-RSjMIueAEvXTE9YUPh_0ftTsNalVoWtI2nz9T4rJCOtYxcAYM0jXOhfzyIzuMdiDOHnUPDr717ZHUdYhYPvmUlOve6Etahq4YpbYFFkZ7ibyosrEEj2_ddWaOGT5lbF0WctM1FW4N7ikhsrz7Mj-mJoL6MCM0PtOpOSZXLEIBkLRUKjFu2u04jRdrBoZGIegy_JY2udvgOCqES11AlTfFrEJuq7qxuWGlpoCNo69FuCWGZKj92V_Jcm-IP2ZlzlC2RE8CYBNX5dsI5Kfrlhr0Q8OdLFiqNsls-KI8JVkd7Ly3JaAdLZH8KALE_XD4J8M9hqjobwAkbMQhDteQ0BdlvHKj0Tp42KNktPUyduz6MGXGSqP-EvtVHUiD70qXVXg0_0fJYuYp9l-msc3E-nWDSKYmTLXFRUtzzjTwJ3RKqIpTLzN9FUfiKLksziO6mgLbg3bm0Rvx0cjPH5ehiZ_ZiJRrIKFMhNhqQKIPi-g_6EQOO96ztNaEEH4H&c=18a53e7&v=4",
+       "name": "paid.outbrain.com/network/redir?p=DSIdq5ecFcJVJCUrG4zrO2lKsv2FXjJKjwy-1mUbzd0kyRqcuI5sHi3nqcNdBuxJH4BRb8_teeVWnTH09voTbN-RRSm19HUutBBt7fIXRC2GbGWp4xWBUhM1Uj7tv4stsDaKgy6VMCVD6DQdMjzUAc9_zdaIRUMUYtpLGCE9DV6b1M_RNTs0zmpSU4o7Mqwtl10S374Lz7sspzs6s9A4W3VaksFTNt6cJO6QbQok4upKYIEncGdw8ERXp190Z7AUidMXTRTnq-jeyitv-8d5NE21yDIrtaZANcpr-auMkW8cNpEEtiDhiyCvkQnQdQYIROlK2dAQCnvKaQvjiZBZDG0R8yPempsZnsuy-zzVY6CF6lJfCFcRx3m3cBCP6w8pVXQD9GX-b76q017CuGPP0hNB713ifzSoGog-KV-DlXj3KZFQwkI4Too04T1yQuUC8W_e4LsBMeZHgotn3TcDmtuwk-ff06dKtU-9F1mFRuYp8iZUeKxQQ6FY8il1dsTCLK_STwUI_cnLrzfKdXKwy04CckxtbEvLKGmt-J9eI0aP4nxHvskBDXSmkxpEnVwj7TB-_vaGS7wzvuKqQ9wAxe3tVQoOt3Rj_kImPD8D7EKwDmDkUwcJuCIDq9sK4438kIDPPMHqyWvAKRI0WSzzvl-1aSM7Cp70vcj8bNOaNna-jXVxyX2Yy6_XpLep5wWL8LB-6G-RSjMIueAEvXTE9YUPh_0ftTsNalVoWtI2nz9T4rJCOtYxcAYM0jXOhfzyIzuMdiDOHnUPDr717ZHUdYhYPvmUlOve6Etahq4YpbYFFkZ7ibyosrEEj2_ddWaOGT5lbF0WctM1FW4N7ikhsrz7Mj-mJoL6MCM0PtOpOSZXLEIBkLRUKjFu2u04jRdrBoZGIegy_JY2udvgOCqES11AlTfFrEJuq7qxuWGlpoCNo69FuCWGZKj92V_Jcm-IP2ZlzlC2RE8CYBNX5dsI5Kfrlhr0Q8OdLFiqNsls-KI8JVkd7Ly3JaAdLZH8KALE_XD4J8M9hqjobwAkbMQhDteQ0BdlvHKj0Tp42KNktPUyduz6MGXGSqP-EvtVHUiD70qXVXg0_0fJYuYp9l-msc3E-nWDSKYmTLXFRUtzzjTwJ3RKqIpTLzN9FUfiKLksziO6mgLbg3bm0Rvx0cjPH5ehiZ_ZiJRrIKFMhNhqQKIPi-g_6EQOO96ztNaEEH4H&c=18a53e7&v=4",
+       "views": 1
+      },
+      {
+       "url": "https://paid.outbrain.com/network/redir?p=lMWbxK1GQyYukmNnUWHPioNZ-7oGDk3fpZO75Xg-6dInu0oaFBaVFxlaKZjyIZ7Z1U4ksP09mINucLTCZrLVJBl0j9L0nZLGAU_W_dRqZuoptKZ2BTQm9md7I4H3oqXMH0XozFKLAGfycZPaSD04TMYjEmhKwfxxwLyhAN313N795XMhhc0Ga9sBjudn5CBX0IgyI83sWO5xCkvZmxwzScRd2d8z5frpZuYAHxqfuRS52k2IPoFGYLWeQcASi1d79DrHhd3whckGmO1PEt-KNlCqUA3wu67kaaHMUAily3b1XawPPd5oH-LBQn0QceLc5z9ViwhELdleq_JGPPVQj6osO7sLXImwpr-fmzkck-2ccgIW4dzh5ytLIKscSgYN1MzgEob5F9TLK5EyuN-UlYpOu0nVgkvfLgmrVe0a0fYbyrx_px8t7SbxpHmpKnOFwx0hXgKinBw7EXwbIzeaKxbavTMh4K15090iisS7iCSrziNbwhKdHyFuoZkLjNKnbzwWE_pV2f5B14sbLhxcsWTPD0qprH2CmRFyOyNV1-N_ZZgCJKqKcMBWi99qWH5s45L97AutBF_O5WwstKLCOAii_ha_KgvtXuFvfWWS1p8NFTTsrYDtEuKtFG94m9cnbo4_Oa5HVJGmE_ARUEdyUeUoOXXhsAlZn6KZFkDgJBfJ0n4509KP-nzuUjkOu6YnzKKYiJZovqToOihg_PLfILIZ9mBf3mex31zHdxGnaopevHqNcPVhcVaFxHUOyaK-kzcxq-9PPdgWVGeZHoNwRyGKoDjI_AJ-PHYuVuIcKtLjGTnqJPLiu1SwmY4429zVct-3OEjUqo0yhOaIl9y6bspEVSdKphgNrr8O7ZzMlmqLGr28NAql-sbKW5O5cvqoc4RYAjGI0NFNORWa1OqVrn1GRTqYrzrIN1J2Mu4wfNOUAvvf9cNbE4tnJSw_TA2_NN09x7dtiaHSGb3n8rJSbNIUZrYmsjpdH-dLXPXYiMM-J5Yt5mIqydnU53Ip-oxxLNB3atJJju75bDcBT0wig8wGWL_OfO4xcvx3NVbd1Wc0RIcPppMdlYgCUnSHF2OpZANzAZmhtb_9PtHGXZM4sHmSJlVuBVHfV907lqmYA1OdEe8ocusVPLJWHuVw6KXcJntG6V_ifYZfYmLbGdiNUPpq_0sX7uX2jp656ZiwEo1N5V_BfVILk_kXD7G3TGV7&c=8a547202&v=4",
+       "name": "paid.outbrain.com/network/redir?p=lMWbxK1GQyYukmNnUWHPioNZ-7oGDk3fpZO75Xg-6dInu0oaFBaVFxlaKZjyIZ7Z1U4ksP09mINucLTCZrLVJBl0j9L0nZLGAU_W_dRqZuoptKZ2BTQm9md7I4H3oqXMH0XozFKLAGfycZPaSD04TMYjEmhKwfxxwLyhAN313N795XMhhc0Ga9sBjudn5CBX0IgyI83sWO5xCkvZmxwzScRd2d8z5frpZuYAHxqfuRS52k2IPoFGYLWeQcASi1d79DrHhd3whckGmO1PEt-KNlCqUA3wu67kaaHMUAily3b1XawPPd5oH-LBQn0QceLc5z9ViwhELdleq_JGPPVQj6osO7sLXImwpr-fmzkck-2ccgIW4dzh5ytLIKscSgYN1MzgEob5F9TLK5EyuN-UlYpOu0nVgkvfLgmrVe0a0fYbyrx_px8t7SbxpHmpKnOFwx0hXgKinBw7EXwbIzeaKxbavTMh4K15090iisS7iCSrziNbwhKdHyFuoZkLjNKnbzwWE_pV2f5B14sbLhxcsWTPD0qprH2CmRFyOyNV1-N_ZZgCJKqKcMBWi99qWH5s45L97AutBF_O5WwstKLCOAii_ha_KgvtXuFvfWWS1p8NFTTsrYDtEuKtFG94m9cnbo4_Oa5HVJGmE_ARUEdyUeUoOXXhsAlZn6KZFkDgJBfJ0n4509KP-nzuUjkOu6YnzKKYiJZovqToOihg_PLfILIZ9mBf3mex31zHdxGnaopevHqNcPVhcVaFxHUOyaK-kzcxq-9PPdgWVGeZHoNwRyGKoDjI_AJ-PHYuVuIcKtLjGTnqJPLiu1SwmY4429zVct-3OEjUqo0yhOaIl9y6bspEVSdKphgNrr8O7ZzMlmqLGr28NAql-sbKW5O5cvqoc4RYAjGI0NFNORWa1OqVrn1GRTqYrzrIN1J2Mu4wfNOUAvvf9cNbE4tnJSw_TA2_NN09x7dtiaHSGb3n8rJSbNIUZrYmsjpdH-dLXPXYiMM-J5Yt5mIqydnU53Ip-oxxLNB3atJJju75bDcBT0wig8wGWL_OfO4xcvx3NVbd1Wc0RIcPppMdlYgCUnSHF2OpZANzAZmhtb_9PtHGXZM4sHmSJlVuBVHfV907lqmYA1OdEe8ocusVPLJWHuVw6KXcJntG6V_ifYZfYmLbGdiNUPpq_0sX7uX2jp656ZiwEo1N5V_BfVILk_kXD7G3TGV7&c=8a547202&v=4",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://penzu.com/",
+     "name": "penzu.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/68c1e55b7e7549913f34030a5f0d49a94613b05469ac21f5eea1e6cb32cd5eb7?s=48",
+     "url": "https://linkedin.com/",
+     "name": "LinkedIn",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.twitter.com/glenzac",
+     "name": "twitter.com/glenzac",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://tasview.com/",
+     "name": "tasview.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.goodreads.com/review/show/2441504989?utm_medium=api&amp;utm_source=custom_widget",
+     "name": "goodreads.com/review/show/2441504989?utm_medium=api&utm_source=custom_widget",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.onenote.com/",
+     "name": "onenote.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.microchip.com/developmenttools/ProductDetails/filterlabdesignsoftware",
+     "name": "microchip.com/developmenttools/ProductDetails/filterlabdesignsoftware",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://everycircuit.com/",
+     "name": "everycircuit.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.circuitlab.com/",
+     "name": "circuitlab.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.insidegadgets.com/",
+     "name": "insidegadgets.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://yihua-gz.com/",
+     "name": "yihua-gz.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.nirsoft.net/utils/wifi_information_view.html",
+     "name": "nirsoft.net/utils/wifi_information_view.html",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://in.rsdelivers.com/product/rs-pro//rs-pro-conductive-paint-5-g/1239911",
+     "name": "in.rsdelivers.com/product/rs-pro//rs-pro-conductive-paint-5-g/1239911",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://forum.xda-developers.com/android/apps-games/root-battery-charge-limit-t3557002",
+     "name": "forum.xda-developers.com/android/apps-games/root-battery-charge-limit-t3557002",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.gettoby.com/",
+     "name": "gettoby.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://getsharex.com/",
+     "name": "getsharex.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://syncthing.net/",
+     "name": "syncthing.net",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.notion.so/",
+     "name": "notion.so",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.ganssle.com/",
+     "name": "ganssle.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://liquidsdr.org/",
+     "name": "liquidsdr.org",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.iowahills.com/A7ExampleCodePage.html",
+     "name": "iowahills.com/A7ExampleCodePage.html",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.metageek.com/",
+     "name": "metageek.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+     "name": "creativecommons.org/licenses/by-nc-sa/4.0",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://ecgguru.com/https://ekg.academy/https://en.ecgpedia.org/https://ecg.utah.edu/https://ecgwaves.com/ecg-normal-p-wave-qrs-complex-st-segment-t-wave-j-point/https://ecglibrary.com/ecghome.php",
+     "name": "ecglibrary.com/ecghome.php",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.popularmechanics.com/science/tips/a584/2569841/",
+     "name": "popularmechanics.com/science/tips/a584/2569841/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://laverna.cc/",
+     "name": "laverna.cc",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://afrotechmods.com/tutorials/",
+     "name": "afrotechmods.com/tutorials/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://circuit-zone.com/",
+     "name": "circuit-zone.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.arduinoos.com/",
+     "name": "arduinoos.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.avrbeginners.net/",
+     "name": "avrbeginners.net",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://tangentsoft.net/",
+     "name": "tangentsoft.net",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.allaboutcircuits.com/",
+     "name": "allaboutcircuits.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.baldengineer.com/",
+     "name": "baldengineer.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/13148dd23a6072856a6a71c468467012b536cfeea2ce472105d3deef3063e86b?s=48",
+     "url": "https://www.jeremyblum.com/",
+     "name": "jeremyblum.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.open-electronics.org/",
+     "name": "open-electronics.org",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://riot-optimizer.com/",
+     "name": "riot-optimizer.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.veracrypt.fr/en/Home.html",
+     "name": "veracrypt.fr/en/Home.html",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://tinyjpg.com/",
+     "name": "tinyjpg.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://datasheets.maximintegrated.com/en/ds/ICL7660-MAX1044.pdf",
+     "name": "datasheets.maximintegrated.com/en/ds/ICL7660-MAX1044.pdf",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://polyphasic.net/",
+     "name": "polyphasic.net",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://notepad-plus-plus.org/",
+     "name": "notepad-plus-plus.org",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.robots.ox.ac.uk/~gari/teaching/cdt/A3/readings/ECG/Pan+Tompkins.pdf",
+     "name": "robots.ox.ac.uk/~gari/teaching/cdt/A3/readings/ECG/Pan+Tompkins.pdf",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://atomberg.com/",
+     "name": "atomberg.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.autohotkey.com/",
+     "name": "autohotkey.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://web.archive.org/web/20140715094146/http://psych.princeton.edu/psychology/research/todorov/pdf/Willis%26Todorov-PsychScience.pdf",
+     "name": "psych.princeton.edu/psychology/research/todorov/pdf/Willis%26Todorov-PsychScience.pdf",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://electronics.stackexchange.com/questions/79307/what-are-the-ways-to-make-a-dual-power-supply-from-a-single-voltage-source",
+     "name": "electronics.stackexchange.com/questions/79307/what-are-the-ways-to-make-a-dual-power-supply-from-a-single-voltage-source",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.udemy.com/course/automate/",
+     "name": "udemy.com/course/automate/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.electrobob.com/",
+     "name": "electrobob.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://reibot.org/",
+     "name": "reibot.org",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://wiki.dd-wrt.com/wiki/index.php/Client_Bridge",
+     "name": "wiki.dd-wrt.com/wiki/index.php/Client_Bridge",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.reddit.com/r/Anki/comments/cpb1rs/anki_latex_helper_using_autohotkey/",
+     "name": "reddit.com/r/Anki/comments/cpb1rs/anki_latex_helper_using_autohotkey/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.samsung.com/nz/support/model/MW103H/XSA/#link",
+     "name": "samsung.com/nz/support/model/MW103H/XSA/#link",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://lawsie.github.io/guizero/about/",
+     "name": "lawsie.github.io/guizero/about/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/verilog.min.js",
+     "name": "cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/verilog.min.js",
+     "views": 1,
+     "children": null
+    }
+   ],
+   "other_clicks": 0,
+   "total_clicks": 1970
+  }
+ },
+ "period": "year"
+}

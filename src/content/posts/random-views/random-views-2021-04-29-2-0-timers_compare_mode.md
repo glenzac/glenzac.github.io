@@ -16,13 +16,13 @@ title: 2.0 Timers_Compare_Mode
 ---
 Timers are specific hardware that is used to well run timers! The **MSP430F5529** has several timers as shown in the figure below:
 
-https://i.imgur.com/ZXWm9ar.jpeg
+![](@assets/images/2021/ZXWm9ar.jpeg)
 
 Also do read the text at the lower half of the above image. We will learn about Capture/Compare Registers soon. So there are three types of Timer\_A in the **MSP430F5529**.
 
 ## Timer Nomenclature
 
-https://i.imgur.com/H5gvL6B.jpg
+![](@assets/images/2021/H5gvL6B.jpg)
 
 The convention followed for naming the timers are shown on the left. You can use the 'short name' as the prefix while writing values to the specific registers. This applies only to the Timer\_A block as the other blocks only have one timer instance.
 
@@ -32,27 +32,27 @@ In this post we'll cover everything that is needed to understand timers with Tim
 
 The following block diagram is directly taken from the user's guide and **shows only one half of the Timer Block**(Compare mode only). The other part will be discussed in the next post.
 
-https://i.imgur.com/H2FwvrT.jpeg
+![](@assets/images/2021/H2FwvrT.jpeg)
 
 If you covered the [last lesson](/2020/07/14/understanding-the-clocks/) the inputs to this Timer Block will be obvious. First thing to do then is select the required clock signal using the **TASSEL** MUX this is followed by two stages of dividers (note that Timers have additional dividers). The input signal is divided based on the bits set in the **ID** and **IDEX** register. **TAxR** is the 16-bit timer/counter register that increments or decrements (based on the mode) with every rising/falling edge of the input signal. It can have values from `0x0000 ` to `0xFFFF`.
 
 **TAxR** may be cleared by setting the **TACLR** bit. The Timer has the following modes of operation:
 
-https://i.imgur.com/ZkeM2LR.jpg
+![](@assets/images/2021/ZkeM2LR.jpg)
 
 In the continuous mode ( **MC** = 10) the timer runs repeatedly and every time it reaches 0xFFFF (or 0FFFFh) it overflows and goes back to 0x0000 this sets an Interrupt flag **TAIFG**. We can use this ISR to run some quick tasks periodically. Now, what if we don't want to wait till 0xFFFF for it overflow and generate an interrupt to do our tasks? What if the time it takes to overflow is too long?
 
 In this case we can use the **TAxCCR0** or the Timer A Capture/Compare register 0.
 
-https://i.imgur.com/3BqivOE.jpg
+![](@assets/images/2021/3BqivOE.jpg)
 
 In the Up mode ( **MC** = 01) the timer counts up to the value present in **TAxCCR0** then it resets back to zero and sets the **CCIFG** interrupt flag. **Note:** The **TAxCCR0 CCIFG** interrupt flag is set when the timer counts to the **TAxCCR0** value.The **TAIFG** interrupt flag is set when the timer counts from **TAxCCR0** to zero.
 
-https://i.imgur.com/MxtaF2Z.jpg
+![](@assets/images/2021/MxtaF2Z.jpg)
 
 In the Up/Down mode (MC = 11) which can be visualized as follows:
 
-https://i.imgur.com/DhuQREp.jpeg
+![](@assets/images/2021/DhuQREp.jpeg)
 
 In up/down mode,the **TAxCCR0 CCIFG** interrupt flag and the **TAIFG** interrupt flag are set only once during a period, separated by one-half the timer period.The **TAxCCR0 CCIFG** interrupt flag is set when the timer counts from `TAxCCR0-1` to `TAxCCR0`, and **TAIFG** is set when the timer completes counting down from `0001h ` to `0000h`.
 
@@ -63,11 +63,11 @@ you write to the counter register directly. For example, writing “0” to the 
 
 Now let's look at the appropriate registers and bits we need to set to start our timer:
 
-https://i.imgur.com/DhMmJI5.jpeg
+![](@assets/images/2021/DhMmJI5.jpeg)
 
 All of the registers have been covered in detail above. If you were observant enough you might have noticed that you don't see IDEX in any of the registers. In fact it comes in another register called the **TAxEX0**(Timer\_Ax Expansion 0 Register).
 
-https://i.imgur.com/conKkEm.jpeg
+![](@assets/images/2021/conKkEm.jpeg)
 
 The odd divider values allow for a wide range of timer frequencies to be set. This makes the Timers on the MSP430 very flexible for different use cases.
 
@@ -83,7 +83,7 @@ The **TAxCCR0 CCIFG** flag has the highest Timer\_A interrupt priority and has a
 
 For all other **TAxCCRn** registers flags and for the **TAIFG** flag we have a separate **TAxIV** interrupt vector as shown below:
 
-https://i.imgur.com/moPoAmK.jpg
+![](@assets/images/2021/moPoAmK.jpg)
 
 ## Coding time!
 

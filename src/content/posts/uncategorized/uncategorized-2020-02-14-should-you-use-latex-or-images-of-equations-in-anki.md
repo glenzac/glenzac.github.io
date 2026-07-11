@@ -39,7 +39,7 @@ Download this script from [here](/2019/08/12/anki-latex-helper-using-autohotkey)
 ## Why should you use images:
 
 - when you're running short of time and LaTeX seems to be too difficult
-- I use images when I need to [annotate my equations or draw arrows to show relations](https://i.imgur.com/aVtu5k8.jpg) ( I use OneNote for that)
+- I use images when I need to [annotate my equations or draw arrows to show relations](/images/aVtu5k8.jpg) ( I use OneNote for that)
 - when you have access to all equations in uniform fonts
 - if you don't mind the repeated process of blurring images/deleting sections when you're make a lot of cards (Note: [Image Occlusion](https://ankiweb.net/shared/info/1374772155) is still in alpha for Anki 2.1 :( but nevertheless it works okay )
 - If you are sure you won't be editing cards later

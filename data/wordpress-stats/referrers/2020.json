@@ -1,0 +1,1144 @@
+{
+ "date": "2020-12-31",
+ "days": {
+  "2020-01-01": {
+   "groups": [
+    {
+     "group": "Search Engines",
+     "name": "Search Engines",
+     "icon": "https://wordpress.com/i/stats/search-engine.png",
+     "total": 6452,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "Google Search",
+       "icon": "https://secure.gravatar.com/blavatar/426d27def7eef69afd58ab5280173a02e50c3a2f9d0b9ebce3fb453a69af2b44?s=48",
+       "views": 6237,
+       "children": [
+        {
+         "name": "google.com",
+         "url": "http://www.google.com/",
+         "icon": null,
+         "views": 5630
+        },
+        {
+         "name": "google.co.in",
+         "url": "http://www.google.co.in",
+         "icon": "https://secure.gravatar.com/blavatar/f7d2f9ca6cb89c6439b88ef868e8e07a88335a95df414895e958efea8e7e4386?s=48",
+         "views": 68
+        },
+        {
+         "name": "google.de",
+         "url": "http://www.google.de",
+         "icon": "https://secure.gravatar.com/blavatar/17b3cdc0e348185de9755487806eabfa7e2e4e0a6e559dd461763b5c85563337?s=48",
+         "views": 50
+        },
+        {
+         "name": "google.co.uk",
+         "url": "http://www.google.co.uk",
+         "icon": "https://secure.gravatar.com/blavatar/eec379281f896cce1b061b4cbe5cf398fb74f3606d031ea4afe06bbbf44d6940?s=48",
+         "views": 42
+        },
+        {
+         "name": "google.it",
+         "url": "http://www.google.it",
+         "icon": "https://secure.gravatar.com/blavatar/1e69aebfd6b45ffe986167d8b3d666e51737a420fbfc1d048125368baf80fdb0?s=48",
+         "views": 36
+        },
+        {
+         "name": "google.com/search",
+         "url": "http://www.google.com/search",
+         "icon": null,
+         "views": 33
+        },
+        {
+         "name": "google.fr",
+         "url": "http://www.google.fr",
+         "icon": "https://secure.gravatar.com/blavatar/caaa329f2c37d70ea5e762d3416bf21dc67158fb486a74f76b5e6fa9fdc357f4?s=48",
+         "views": 21
+        },
+        {
+         "name": "google.com.tr",
+         "url": "http://www.google.com.tr",
+         "icon": "https://secure.gravatar.com/blavatar/ac23ca579e66f7fe370f4f4dd0437db2b6ac2d9195ea688b43a529223e56640a?s=48",
+         "views": 20
+        },
+        {
+         "name": "google.com.hk",
+         "url": "http://www.google.com.hk",
+         "icon": "https://secure.gravatar.com/blavatar/8acdcb1de80fe40c222f54ceb28878407e0319a948c4728cd80984dab30f9b92?s=48",
+         "views": 20
+        },
+        {
+         "name": "google.pl",
+         "url": "http://www.google.pl",
+         "icon": "https://secure.gravatar.com/blavatar/191a90414f346d44755b12a9a0cade00c0251b9de40a9284d08d010225139357?s=48",
+         "views": 19
+        },
+        {
+         "name": "google.ru",
+         "url": "http://www.google.ru",
+         "icon": "https://secure.gravatar.com/blavatar/3a6877247293754acd8af4eb1167c2526c72d75c9ba7f9e163063f18581bf30b?s=48",
+         "views": 19
+        },
+        {
+         "name": "google.co.kr",
+         "url": "http://www.google.co.kr",
+         "icon": "https://secure.gravatar.com/blavatar/1cb7fd0991617c12065b4b31e950f5dd24cdb27f80cdca9f00c9cfa65d7d2d45?s=48",
+         "views": 17
+        },
+        {
+         "name": "google.com.sg",
+         "url": "http://www.google.com.sg",
+         "icon": "https://secure.gravatar.com/blavatar/90f3a073b168d5377b07c3e62bd77de4a9d0198b8217a5b6624a2100b6a764e6?s=48",
+         "views": 16
+        },
+        {
+         "name": "google.co.jp",
+         "url": "http://www.google.co.jp",
+         "icon": "https://secure.gravatar.com/blavatar/71c665c14ea20038772e2f90b2270b54d09788b8eb1e7655ce2517276dbaa9aa?s=48",
+         "views": 15
+        },
+        {
+         "name": "google.nl",
+         "url": "http://www.google.nl",
+         "icon": "https://secure.gravatar.com/blavatar/750769a6e2b22ecc2a39ad85a2535ea1d5d15103e48b96d8938149f444439590?s=48",
+         "views": 14
+        },
+        {
+         "name": "google.com.au",
+         "url": "http://www.google.com.au",
+         "icon": "https://secure.gravatar.com/blavatar/9096d15059b3d095ac1ffdae21b4b0775d11bd8bad5a56e9614359e17b68d0b4?s=48",
+         "views": 14
+        },
+        {
+         "name": "google.ro",
+         "url": "http://www.google.ro",
+         "icon": "https://secure.gravatar.com/blavatar/1b7035962368701095ffbad19fc1dd009558f0f8d401c2a4aa711821025b7c1e?s=48",
+         "views": 13
+        },
+        {
+         "name": "google.ca",
+         "url": "http://www.google.ca",
+         "icon": "https://secure.gravatar.com/blavatar/f42e7cd63a28799f4f8eb88939c0ca4cba3264680940ae6092f8fecdb80f80f1?s=48",
+         "views": 12
+        },
+        {
+         "name": "google.com.br",
+         "url": "http://www.google.com.br",
+         "icon": "https://secure.gravatar.com/blavatar/fded33baa8a3f59958fe1e33160ed20c70de3ab2cb5b618f29431366498eb268?s=48",
+         "views": 12
+        },
+        {
+         "name": "google.be",
+         "url": "http://www.google.be",
+         "icon": "https://secure.gravatar.com/blavatar/5d3b6754c41fa7cedc093df027dd9eef01c13966e497975868c24482f6b9515a?s=48",
+         "views": 11
+        },
+        {
+         "name": "google.com.mx",
+         "url": "http://www.google.com.mx",
+         "icon": "https://secure.gravatar.com/blavatar/6a0f6d947331e5bdf322d629422e9beca98f5706dda8aef26a268d37bb8e06f9?s=48",
+         "views": 11
+        },
+        {
+         "name": "google.hu",
+         "url": "http://www.google.hu",
+         "icon": "https://secure.gravatar.com/blavatar/1d0f1d0943a47d2be7c4c3c913961c1e7ad2aab782cf5a1e29547f48f6d4cfd8?s=48",
+         "views": 11
+        },
+        {
+         "name": "google.co.id",
+         "url": "http://www.google.co.id",
+         "icon": "https://secure.gravatar.com/blavatar/b2f7500cb6e3e4b3cdc7284a58d95f487b5bc770ea12b8e8144595bc0e26a117?s=48",
+         "views": 11
+        },
+        {
+         "name": "google.com.tw",
+         "url": "http://www.google.com.tw",
+         "icon": "https://secure.gravatar.com/blavatar/aa032ec83e5ebbed34bf341b680bca77528d12df2fb89d4ab8d1224fdbfa76f8?s=48",
+         "views": 10
+        },
+        {
+         "name": "google.es",
+         "url": "http://www.google.es",
+         "icon": "https://secure.gravatar.com/blavatar/c3c38fc9b5b8d8b7b07534c77a3caa599119283fc387fda6fd871d36ceb96aea?s=48",
+         "views": 10
+        },
+        {
+         "name": "google.pt",
+         "url": "http://www.google.pt",
+         "icon": "https://secure.gravatar.com/blavatar/00984ca652007ec636d546d6f3b4945a9c587239c6545a47679e1d94eac3fe3d?s=48",
+         "views": 10
+        },
+        {
+         "name": "google.se",
+         "url": "http://www.google.se",
+         "icon": "https://secure.gravatar.com/blavatar/315f93671578576e75b3e5c9f5ab95ea9bfa72488a146e9b13d94573801e4496?s=48",
+         "views": 8
+        },
+        {
+         "name": "google.com.my",
+         "url": "http://www.google.com.my",
+         "icon": "https://secure.gravatar.com/blavatar/e59f785967cab721d65d542ced146857cbcbc45b4ee28026e5296204776d142a?s=48",
+         "views": 8
+        },
+        {
+         "name": "google.at",
+         "url": "http://www.google.at",
+         "icon": "https://secure.gravatar.com/blavatar/76dd4bfb5ec1b9f86d985c7bb22a5da114c9423c8c158ee55e06d267935ecbb5?s=48",
+         "views": 6
+        },
+        {
+         "name": "google.cz",
+         "url": "http://www.google.cz",
+         "icon": "https://secure.gravatar.com/blavatar/5db3846ca3c980212b8b7bba64fdf5b51a09fbd8ff6998a0842292f63fc3b9ed?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.com.ua",
+         "url": "http://www.google.com.ua",
+         "icon": "https://secure.gravatar.com/blavatar/683bd265e5f6d364a5ed0688884b205bf2bc714a02f201ce4d4f1e9642613ce0?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.no",
+         "url": "http://www.google.no",
+         "icon": "https://secure.gravatar.com/blavatar/4feda4fa59d660129df8590fd5b9a6031b6d003887a52238a4db3e76f88210a3?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.dk",
+         "url": "http://www.google.dk",
+         "icon": "https://secure.gravatar.com/blavatar/ad8c614e9501a21abc6408e072baf5ef16e5c591ee98195791fc7d505859b0c9?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.hr",
+         "url": "http://www.google.hr",
+         "icon": "https://secure.gravatar.com/blavatar/0dffb232fc6361d8ebd5094b03ba92db6f25e321e74e55c78a41dd6234db4a6b?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.jo",
+         "url": "http://www.google.jo",
+         "icon": "https://secure.gravatar.com/blavatar/b99fd4006beca1090e16b8d810e00f447fcfe98130c538d25c347e0535a3fd99?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.co.za",
+         "url": "http://www.google.co.za",
+         "icon": "https://secure.gravatar.com/blavatar/39c895eb65faae75c8f7dcf29fbb43e5205b16f01de4bca1ab57de0f31cf2b02?s=48",
+         "views": 3
+        },
+        {
+         "name": "google.ch",
+         "url": "http://www.google.ch",
+         "icon": "https://secure.gravatar.com/blavatar/0ec278c23bc3706a36761c8a51ca6b866b3b4100ef14ebbfbe55ee3366d678bf?s=48",
+         "views": 3
+        },
+        {
+         "name": "google.lv",
+         "url": "http://www.google.lv",
+         "icon": "https://secure.gravatar.com/blavatar/579f00b678335f535e0415c50afc0c570b86440ffcb960ec9faa672e6ce369da?s=48",
+         "views": 3
+        },
+        {
+         "name": "google.dz",
+         "url": "http://www.google.dz",
+         "icon": null,
+         "views": 3
+        },
+        {
+         "name": "google.com.pk",
+         "url": "http://www.google.com.pk",
+         "icon": "https://secure.gravatar.com/blavatar/8ed0d9642ca84fa505bf3e43a5cddc2866fe28311482c1c513c0f29fbcab51b0?s=48",
+         "views": 3
+        },
+        {
+         "name": "google.co.th",
+         "url": "http://www.google.co.th",
+         "icon": "https://secure.gravatar.com/blavatar/52c122ed9ebfa3ef15928f89046079e12ca6dbe58fa5d4f268a013d71188a10a?s=48",
+         "views": 3
+        },
+        {
+         "name": "google.com.ph",
+         "url": "http://www.google.com.ph",
+         "icon": "https://secure.gravatar.com/blavatar/dcb45be063827be567ae37629fcee9484412e7195cd31866e5357d81bcdffc9d?s=48",
+         "views": 3
+        },
+        {
+         "name": "google.com.vn",
+         "url": "http://www.google.com.vn",
+         "icon": "https://secure.gravatar.com/blavatar/953e78737d4e17e88eb77ed715820662c9ee80baec5a86378bcf197f2a7d2ea7?s=48",
+         "views": 2
+        },
+        {
+         "name": "google.fi",
+         "url": "http://www.google.fi",
+         "icon": "https://secure.gravatar.com/blavatar/ee3c90960ec27a29e2286bd88b1657878f757c41e7174dede8fc445896522dc7?s=48",
+         "views": 2
+        },
+        {
+         "name": "google.com.pr",
+         "url": "http://www.google.com.pr",
+         "icon": "https://secure.gravatar.com/blavatar/4f978bb1ffdc963b55802b321f649e201167c4074ea57d8dce332359af8859cc?s=48",
+         "views": 2
+        },
+        {
+         "name": "google.ro/search",
+         "url": "http://www.google.ro/search",
+         "icon": null,
+         "views": 2
+        },
+        {
+         "name": "google.de/search",
+         "url": "http://www.google.de/search",
+         "icon": null,
+         "views": 1
+        },
+        {
+         "name": "google.com.co",
+         "url": "http://www.google.com.co",
+         "icon": "https://secure.gravatar.com/blavatar/4a2606606be99dcb35fd4b9c2aaaa8c541fb1b1ae4a90969510ba103ef37329b?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.co.nz",
+         "url": "http://www.google.co.nz",
+         "icon": "https://secure.gravatar.com/blavatar/a2e4e210bbd7773544d3f1ea1fae0450eb38cbe77d3483d59af46f5fc0621475?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.com.qa",
+         "url": "http://www.google.com.qa",
+         "icon": "https://secure.gravatar.com/blavatar/d000aa0538fcd8650c77c7c65ef3e52e9d44c7268d46eaeb9668017ea362b574?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.sk",
+         "url": "http://www.google.sk",
+         "icon": "https://secure.gravatar.com/blavatar/a57416731364f47b819abf5d98d408b8929a596fe1425ed2e483ff583832f16e?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.co.il",
+         "url": "http://www.google.co.il",
+         "icon": "https://secure.gravatar.com/blavatar/8c535b37eb3ad3f6a7a5d0ae6eb28df89c186fca1c8a1cd6d0b4ed7ff97a1fe5?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.ge",
+         "url": "http://www.google.ge",
+         "icon": "https://secure.gravatar.com/blavatar/7d6c73faf7e7c2d0903f6dc428f9dc47df6031ff2117df708de3a502d03c0292?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.gr",
+         "url": "http://www.google.gr",
+         "icon": "https://secure.gravatar.com/blavatar/446d5023c45e169f973e8726f320a5997b302ca76e10d36430ddbde8da228a27?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.co.ma",
+         "url": "http://www.google.co.ma",
+         "icon": "https://secure.gravatar.com/blavatar/fdc1dd7e0c8d04dc485dc8dd6abb1af2b078453cb618f1183afde5b4f2731537?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.ae",
+         "url": "http://www.google.ae",
+         "icon": "https://secure.gravatar.com/blavatar/34525520695d675059a411d9da390fc3fa620d8fdaf15ab75cceaf0ed7d8981a?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.com.pe",
+         "url": "http://www.google.com.pe",
+         "icon": "https://secure.gravatar.com/blavatar/db042492a233dc5faccb6057714b66617b51bd353a67d8cbdde2d71c71b4eb58?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.co.ve",
+         "url": "http://www.google.co.ve",
+         "icon": "https://secure.gravatar.com/blavatar/0f142a300fc3f9c1ae88508dc2dc292b137e52596e5373fbd3a84753553e3f7b?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.com.eg",
+         "url": "http://www.google.com.eg",
+         "icon": "https://secure.gravatar.com/blavatar/7da8511de5a47fb0fc5420eaf6cb07e6de3e8ac5c2f947fe6aa40552e9cbfa27?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.lt",
+         "url": "http://www.google.lt",
+         "icon": "https://secure.gravatar.com/blavatar/15278fefcdf8214bb1ca3bde1aaa4537571782ad1c3dbab125a07bce23d63646?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.si",
+         "url": "http://www.google.si",
+         "icon": "https://secure.gravatar.com/blavatar/48212a77f114fd4b1982e8caca6a314e96c29cfafdf96a97ec5933289eedc9ae?s=48",
+         "views": 1
+        },
+        {
+         "name": "cse.google.com/search",
+         "url": "http://cse.google.com/search",
+         "icon": null,
+         "views": 1
+        },
+        {
+         "name": "google.co.in/search",
+         "url": "http://www.google.co.in/search",
+         "icon": null,
+         "views": 1
+        }
+       ]
+      },
+      {
+       "name": "Bing",
+       "icon": "https://secure.gravatar.com/blavatar/3c77f261a156a5308fee53720276395ef78d2e7367e4225a3d3d93f4accd1dd3?s=48",
+       "views": 102,
+       "children": [
+        {
+         "name": "bing.com",
+         "url": "https://www.bing.com/",
+         "icon": "https://secure.gravatar.com/blavatar/5f44044454ef448148dfbb951dc486368bf530c870c5059054da5f7138927c7e?s=48",
+         "views": 78
+        },
+        {
+         "name": "bing.com",
+         "url": "http://www.bing.com",
+         "icon": "https://secure.gravatar.com/blavatar/5f44044454ef448148dfbb951dc486368bf530c870c5059054da5f7138927c7e?s=48",
+         "views": 24
+        }
+       ]
+      },
+      {
+       "name": "duckduckgo.com",
+       "url": "https://duckduckgo.com/",
+       "icon": null,
+       "views": 73
+      },
+      {
+       "name": "Yahoo Search",
+       "icon": "https://secure.gravatar.com/blavatar/0a2eb9a2f7af2ab8ef3c3b9279fdd12f2b2b9b400311064a7222b8a313efeec6?s=48",
+       "views": 20,
+       "children": [
+        {
+         "name": "search.yahoo.com",
+         "url": "https://search.yahoo.com/",
+         "icon": "https://secure.gravatar.com/blavatar/da585ac2478c22ef50cc06f1e909da83906b841c4862098f1bb046bf6930f1d0?s=48",
+         "views": 8
+        },
+        {
+         "name": "in.search.yahoo.com",
+         "url": "https://in.search.yahoo.com/",
+         "icon": null,
+         "views": 5
+        },
+        {
+         "name": "r.search.yahoo.com/_ylt=AwrExdwl.59fD3cAGaOjzbkF;_ylu=c2VjA2ZwLWF0dHJpYgRzbGsDcnVybA--/RV=2/RE=1604348837/RO=11/RU=https%3a%2f%2fglenzac.wordpress.com%2f2019%2f05%2f17%2fgenerating-ecg-eeg-signals-with-a-microcontroller%2f/RK=2/RS=r1ycD.2PUwZnMe1fI9NF2KSG8DA-",
+         "url": "https://r.search.yahoo.com/_ylt=AwrExdwl.59fD3cAGaOjzbkF;_ylu=c2VjA2ZwLWF0dHJpYgRzbGsDcnVybA--/RV=2/RE=1604348837/RO=11/RU=https%3a%2f%2fglenzac.wordpress.com%2f2019%2f05%2f17%2fgenerating-ecg-eeg-signals-with-a-microcontroller%2f/RK=2/RS=r1ycD.2PUwZnMe1fI9NF2KSG8DA-",
+         "icon": null,
+         "views": 1
+        },
+        {
+         "name": "r.search.yahoo.com/_ylt=AwrxiDYIUYBfQQsAA0y7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Nj/RV=2/RE=1602273673/RO=10/RU=https%3a%2f%2fglenzac.wordpress.com%2f2020%2f06%2f09%2fjiofi-wifi-dongle-range-extender%2f%23%3a~%3atext%3d%2520JioFi%2520WiFi%2520dongle%2520range%2520extender%2520%25201%2cv3%2520WiFi%2520router%2520that%2520I%2520will...%2520More%2520/RK=2/RS=4dNB61ltSDU47ZlxrkN5r0QbGLw-",
+         "url": "https://r.search.yahoo.com/_ylt=AwrxiDYIUYBfQQsAA0y7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Nj/RV=2/RE=1602273673/RO=10/RU=https%3a%2f%2fglenzac.wordpress.com%2f2020%2f06%2f09%2fjiofi-wifi-dongle-range-extender%2f%23%3a~%3atext%3d%2520JioFi%2520WiFi%2520dongle%2520range%2520extender%2520%25201%2cv3%2520WiFi%2520router%2520that%2520I%2520will...%2520More%2520/RK=2/RS=4dNB61ltSDU47ZlxrkN5r0QbGLw-",
+         "icon": null,
+         "views": 1
+        },
+        {
+         "name": "tw.search.yahoo.com",
+         "url": "https://tw.search.yahoo.com/",
+         "icon": null,
+         "views": 1
+        },
+        {
+         "name": "uk.search.yahoo.com",
+         "url": "https://uk.search.yahoo.com/",
+         "icon": null,
+         "views": 1
+        },
+        {
+         "name": "search.yahoo.co.jp",
+         "url": "https://search.yahoo.co.jp/",
+         "icon": null,
+         "views": 1
+        },
+        {
+         "name": "ca.search.yahoo.com",
+         "url": "https://ca.search.yahoo.com/",
+         "icon": null,
+         "views": 1
+        },
+        {
+         "name": "ro.search.yahoo.com",
+         "url": "https://ro.search.yahoo.com/",
+         "icon": null,
+         "views": 1
+        }
+       ]
+      },
+      {
+       "name": "myway.com",
+       "icon": null,
+       "views": 8,
+       "children": [
+        {
+         "name": "int.search.myway.com",
+         "url": "http://int.search.myway.com",
+         "icon": null,
+         "views": 6
+        },
+        {
+         "name": "int.search.myway.com",
+         "url": "https://int.search.myway.com/",
+         "icon": null,
+         "views": 2
+        }
+       ]
+      },
+      {
+       "name": "Yandex",
+       "url": "https://yandex.ru/",
+       "icon": null,
+       "views": 4
+      },
+      {
+       "name": "Ask.com",
+       "icon": "https://secure.gravatar.com/blavatar/f3cbb44598437ac6c4ccf07572fa8567b7fa6aab3646c2a64017d39b4f5307c1?s=48",
+       "views": 4,
+       "children": [
+        {
+         "name": "nortonsafe.search.ask.com",
+         "url": "http://nortonsafe.search.ask.com",
+         "icon": null,
+         "views": 2
+        },
+        {
+         "name": "int.search.tb.ask.com/search/GGweb.jhtml?n=7866ec5e&p2=%5ECAM%5Exdm251%5ETTAB03%5Ein&ptb=CC3B5174-18CA-4970-842C-A009B4751550&qs&si=29590084324&ss=sub&st=sb&tpr=sbt&enc=2&ts=1594647051337&searchfor=IvBpe57ddwXwbIvPuMtjy_3u8q2b00m65qkuq9qgmpJjwnBEvhXn6ceFRkFNITh_pZd8gHAQXfL2bKQNZZR0vPD3eQfuPyD7g7HHQ_vU1PPlPrhkC8PS48xNNt8jTrW2d8ZyNAkWSYE_dkcqeCEmg9ZF8TbW6mlFcMPXd8YLDC-6XriMV27XftRbWl9eexTLUTJKpFJhpTYh0NG699SuFM4L7gtR0Z2YpAxuLQ-pDH4I5nxTNtqR37JDCuNbvy9j2nsaSKaRNlmaYfuwubWXYRDNY7qD8fO4wIo4VjE70_rOEgyNTcmwdFz1GUOTL8vPvE2XLQPfNpNwwLEvW7BTXA&pn=2&ots=1594647071441",
+         "url": "https://int.search.tb.ask.com/search/GGweb.jhtml?n=7866ec5e&p2=%5ECAM%5Exdm251%5ETTAB03%5Ein&ptb=CC3B5174-18CA-4970-842C-A009B4751550&qs&si=29590084324&ss=sub&st=sb&tpr=sbt&enc=2&ts=1594647051337&searchfor=IvBpe57ddwXwbIvPuMtjy_3u8q2b00m65qkuq9qgmpJjwnBEvhXn6ceFRkFNITh_pZd8gHAQXfL2bKQNZZR0vPD3eQfuPyD7g7HHQ_vU1PPlPrhkC8PS48xNNt8jTrW2d8ZyNAkWSYE_dkcqeCEmg9ZF8TbW6mlFcMPXd8YLDC-6XriMV27XftRbWl9eexTLUTJKpFJhpTYh0NG699SuFM4L7gtR0Z2YpAxuLQ-pDH4I5nxTNtqR37JDCuNbvy9j2nsaSKaRNlmaYfuwubWXYRDNY7qD8fO4wIo4VjE70_rOEgyNTcmwdFz1GUOTL8vPvE2XLQPfNpNwwLEvW7BTXA&pn=2&ots=1594647071441",
+         "icon": null,
+         "views": 1
+        },
+        {
+         "name": "int.search.tb.ask.com/search/GGmain.jhtml?n=78675dac&p2=%5EBZD%5Exdm278%5ETTAB03%5Ein&ptb=DA8E9E4A-6FB4-465A-B587-FDF99F653497&qs&si=31263278786&ss=sub&st=sb&tpr=sbb&enc=2&searchfor=UnQUZ5OSVqDzeTNLg3zUFnCPK2Wptf9UaRzr0xVdwc93J-UAg3zSKvd7dHu7E1eG5h_hHKl1tk4sc5X1sUfDXoKv8Jha_v74dcdgUkoiv0VSI3oJLOb9TDIC9v48gt86gDloozpcv3N6KDH5iV9cGuZGIbh5QFFKTKkwJh5KCvr26WOxuchM9nc4HzrC3i-f5L-r9e7ztz1ANkk1hobNCLTF_km5MIgJ_M1wnTgC9DPrZjZjpCTSfSm2O1eDImiR5W9xPR4eJRHeLnHuArb6MKNXlnBnNjqKV7VEx_9QhcOdXoXBjaTT3zPglIShmLRXusvhmI8xozdaHoIPjocuPw&ts=1588143072658",
+         "url": "https://int.search.tb.ask.com/search/GGmain.jhtml?n=78675dac&p2=%5EBZD%5Exdm278%5ETTAB03%5Ein&ptb=DA8E9E4A-6FB4-465A-B587-FDF99F653497&qs&si=31263278786&ss=sub&st=sb&tpr=sbb&enc=2&searchfor=UnQUZ5OSVqDzeTNLg3zUFnCPK2Wptf9UaRzr0xVdwc93J-UAg3zSKvd7dHu7E1eG5h_hHKl1tk4sc5X1sUfDXoKv8Jha_v74dcdgUkoiv0VSI3oJLOb9TDIC9v48gt86gDloozpcv3N6KDH5iV9cGuZGIbh5QFFKTKkwJh5KCvr26WOxuchM9nc4HzrC3i-f5L-r9e7ztz1ANkk1hobNCLTF_km5MIgJ_M1wnTgC9DPrZjZjpCTSfSm2O1eDImiR5W9xPR4eJRHeLnHuArb6MKNXlnBnNjqKV7VEx_9QhcOdXoXBjaTT3zPglIShmLRXusvhmI8xozdaHoIPjocuPw&ts=1588143072658",
+         "icon": null,
+         "views": 1
+        }
+       ]
+      },
+      {
+       "name": "Google Image Search",
+       "url": "http://www.google.com/imgres",
+       "icon": "https://secure.gravatar.com/blavatar/b338a8227418d64438b6dbff44b1b7bc89248a91a3ced99dfa3744aaa3d1759d?s=48",
+       "views": 2
+      },
+      {
+       "name": "Google Mobile",
+       "url": "http://www.google.com/m",
+       "icon": "https://secure.gravatar.com/blavatar/5b45d856857c944c98c1d230c6e945f29f54afb01b0a1c0886d914ab0f6ea06e?s=48",
+       "views": 1
+      },
+      {
+       "name": "mysearch.com",
+       "url": "http://search.mysearch.com/web?apn_ptnrs=%5ECDE&apn_uid=7c9a16dd-fbd2-4ece-ab42-6121999a2234&dateOfInstall=2019-09-07&gct=ds&lang=en&o=APN12066&psv&shad&trgb=CR&tpr=2&enc=2&q=C0MQ2au8xKfW19y2D2_s3Cn-nRRDvYB7jGyevAXe-dn6lH6Bt5nsybumyj1-KpyPFqwsAcRfJXYlbsJh5oHIpB0Fkp5iMtIjok3lkbreyli8ZBRsM5-WdrncZtfx6lRdfs9jqQ9dK-3bOVBI5p4M-XiFwTqd7pIPWWZHWKyszuDleiyuOc8eFj9r4plWK2lA8xOIOpLaZurwtaVttnm739mj5EZrBG3Cr4WJdbZ1c-mmuqaZMUbjUn0Pqru8A4q8-WJLlYpoMmOZWXJSjc6VP6eXpSjt-9I0pyIJnSdzgkx0aJiaDcL5KsB8G5oGBu-AX2TrxIY6Ildtr7Bn3WZhFA&ts=1578127090192",
+       "icon": null,
+       "views": 1
+      }
+     ]
+    },
+    {
+     "group": "msec.it",
+     "name": "msec.it",
+     "icon": null,
+     "total": 200,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "msec.it/blog/dukto/",
+       "url": "https://www.msec.it/blog/dukto/",
+       "views": 153
+      },
+      {
+       "name": "msec.it",
+       "url": "https://www.msec.it/",
+       "views": 46
+      },
+      {
+       "name": "msec.it/blog/dukto/comment-page-22/",
+       "url": "https://www.msec.it/blog/dukto/comment-page-22/",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "group": "instructables.com",
+     "name": "instructables.com",
+     "icon": null,
+     "total": 184,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "instructables.com/id/Li-ion-battery-charging/",
+       "url": "https://www.instructables.com/id/Li-ion-battery-charging/",
+       "views": 183
+      },
+      {
+       "name": "instructables.com",
+       "url": "https://www.instructables.com/",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "group": "WordPress.com Reader",
+     "name": "WordPress.com Reader",
+     "url": "https://wordpress.com/reader/",
+     "icon": "https://secure.gravatar.com/blavatar/c5ba929e1803dd1d2865d53b671e5d0a1f64071ecd9d720d7377dce63fdab0a2?s=48",
+     "total": 56,
+     "follow_data": null,
+     "results": {
+      "views": 56
+     }
+    },
+    {
+     "group": "com.google.android.googlequicksearchbox",
+     "name": "com.google.android.googlequicksearchbox",
+     "icon": null,
+     "total": 54,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "com.google.android.googlequicksearchbox",
+       "url": "http://android-app://com.google.android.googlequicksearchbox/",
+       "views": 53
+      },
+      {
+       "name": "com.google.android.googlequicksearchbox",
+       "url": "http://android-app://com.google.android.googlequicksearchbox",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "group": "reddit.com",
+     "name": "Reddit",
+     "icon": "https://secure.gravatar.com/blavatar/90ce957778d13b453b7416c943e1720b3379d7c77814c6b70028cbbf7aecb644?s=48",
+     "total": 30,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "reddit.com",
+       "url": "https://www.reddit.com/",
+       "views": 26
+      },
+      {
+       "name": "reddit.com/r/Anki/comments/fdd565/im_making_a_handheld_device_just_to_do_anki/",
+       "url": "https://www.reddit.com/r/Anki/comments/fdd565/im_making_a_handheld_device_just_to_do_anki/",
+       "views": 4
+      }
+     ]
+    },
+    {
+     "group": "glenzac-wordpress-com.cdn.ampproject.org",
+     "name": "glenzac-wordpress-com.cdn.ampproject.org",
+     "icon": null,
+     "total": 27,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/11/09/ecg-sources-for-pspice-tina-multisim/amp/?amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/11/09/ecg-sources-for-pspice-tina-multisim/amp/?amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D",
+       "views": 5
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/11/09/ecg-sources-for-pspice-tina-multisim/amp/?amp_js_v=0.1&usqp=mq331AQHKAFQArABIA%3D%3D",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/11/09/ecg-sources-for-pspice-tina-multisim/amp/?amp_js_v=0.1&usqp=mq331AQHKAFQArABIA%3D%3D",
+       "views": 2
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/08/21/its-a-dvd-player-this-week/amp/?amp_js_v=0.1&usqp=mq331AQCKAE%3D",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/08/21/its-a-dvd-player-this-week/amp/?amp_js_v=0.1&usqp=mq331AQCKAE%3D",
+       "views": 2
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/03/31/getting-started-with-the-cy8ckit-043-psoc-4-m-series-prototyping-kit/amp/?amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/03/31/getting-started-with-the-cy8ckit-043-psoc-4-m-series-prototyping-kit/amp/?amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D",
+       "views": 2
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2020/05/26/youtube-tv-using-the-raspberry-pi-on-raspbian-with-hdmi-cec/amp/?amp_js_v=0.1&usqp=mq331AQHKAFQArABIA%3D%3D",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2020/05/26/youtube-tv-using-the-raspberry-pi-on-raspbian-with-hdmi-cec/amp/?amp_js_v=0.1&usqp=mq331AQHKAFQArABIA%3D%3D",
+       "views": 2
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2019/04/11/ecg-qrs-detection-c-python-matlab-code/amp/?amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2019/04/11/ecg-qrs-detection-c-python-matlab-code/amp/?amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D",
+       "views": 2
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/11/09/ecg-sources-for-pspice-tina-multisim/amp/?usqp=mq331AQFKAGwASA%3D&amp_js_v=0.1",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/11/09/ecg-sources-for-pspice-tina-multisim/amp/?usqp=mq331AQFKAGwASA%3D&amp_js_v=0.1",
+       "views": 2
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/09/20/making-a-li-ion-battery-charger/amp/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/09/20/making-a-li-ion-battery-charger/amp/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D",
+       "views": 2
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/",
+       "views": 1
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/05/28/using-ammonia-sensor-mq135-to-detect-foul-smelling-toilets/amp/?amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/05/28/using-ammonia-sensor-mq135-to-detect-foul-smelling-toilets/amp/?amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D",
+       "views": 1
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2019/04/23/ecg-analog-front-end-design/amp/?amp_js_v=0.1&usqp=mq331AQCKAE%3D",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2019/04/23/ecg-analog-front-end-design/amp/?amp_js_v=0.1&usqp=mq331AQCKAE%3D",
+       "views": 1
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/09/20/making-a-li-ion-battery-charger/amp/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQIKAGwASDYAQE%3D",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/09/20/making-a-li-ion-battery-charger/amp/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQIKAGwASDYAQE%3D",
+       "views": 1
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/09/20/making-a-li-ion-battery-charger/amp/?amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/09/20/making-a-li-ion-battery-charger/amp/?amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D",
+       "views": 1
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2020/02/04/laptop-hinge-repair-guide/amp/?amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2020/02/04/laptop-hinge-repair-guide/amp/?amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D",
+       "views": 1
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/11/09/ecg-sources-for-pspice-tina-multisim/amp/?usqp=mq331AQIKAGwASDAAQE%3D&amp_js_v=0.1",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/11/09/ecg-sources-for-pspice-tina-multisim/amp/?usqp=mq331AQIKAGwASDAAQE%3D&amp_js_v=0.1",
+       "views": 1
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2019/08/01/ecg-heart-rate-monitor-using-particle-photon/amp/?amp_js_v=0.1&usqp=mq331AQCKAE%3D",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2019/08/01/ecg-heart-rate-monitor-using-particle-photon/amp/?amp_js_v=0.1&usqp=mq331AQCKAE%3D",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "group": "facebook.com",
+     "name": "Facebook",
+     "url": "http://facebook.com/",
+     "icon": "https://secure.gravatar.com/blavatar/31193328f8e21dfb6c99f322d22d7b0b508778e64ffbba86e52293379031b874?s=48",
+     "total": 22,
+     "follow_data": null,
+     "results": {
+      "views": 22
+     }
+    },
+    {
+     "group": "youtube.com",
+     "name": "youtube.com",
+     "icon": null,
+     "total": 17,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "youtube.com",
+       "url": "https://www.youtube.com/",
+       "views": 16
+      },
+      {
+       "name": "youtube.com/watch?v=bwcr25334J8",
+       "url": "https://www.youtube.com/watch?v=bwcr25334J8",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "group": "l.messenger.com",
+     "name": "l.messenger.com",
+     "url": "https://l.messenger.com/",
+     "icon": null,
+     "total": 14,
+     "follow_data": null,
+     "results": {
+      "views": 14
+     }
+    },
+    {
+     "group": "ecosia.org",
+     "name": "ecosia.org",
+     "url": "https://www.ecosia.org/",
+     "icon": null,
+     "total": 13,
+     "follow_data": null,
+     "results": {
+      "views": 13
+     }
+    },
+    {
+     "group": "www-instructables-com.cdn.ampproject.org",
+     "name": "www-instructables-com.cdn.ampproject.org",
+     "icon": null,
+     "total": 12,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "www-instructables-com.cdn.ampproject.org/c/s/www.instructables.com/Li-ion-battery-charging/?amp_page=true",
+       "url": "https://www-instructables-com.cdn.ampproject.org/c/s/www.instructables.com/Li-ion-battery-charging/?amp_page=true",
+       "views": 3
+      },
+      {
+       "name": "www-instructables-com.cdn.ampproject.org/v/s/www.instructables.com/Li-ion-battery-charging/?amp_page=true&amp_js_v=0.1",
+       "url": "https://www-instructables-com.cdn.ampproject.org/v/s/www.instructables.com/Li-ion-battery-charging/?amp_page=true&amp_js_v=0.1",
+       "views": 3
+      },
+      {
+       "name": "www-instructables-com.cdn.ampproject.org/v/s/www.instructables.com/Li-ion-battery-charging/?amp_page=true&amp_js_v=0.1&usqp=mq331AQHKAFQArABIA%3D%3D",
+       "url": "https://www-instructables-com.cdn.ampproject.org/v/s/www.instructables.com/Li-ion-battery-charging/?amp_page=true&amp_js_v=0.1&usqp=mq331AQHKAFQArABIA%3D%3D",
+       "views": 2
+      },
+      {
+       "name": "www-instructables-com.cdn.ampproject.org/v/s/www.instructables.com/Li-ion-battery-charging/?amp_page=true&amp_js_v=0.1&usqp=mq331AQCKAE%3D",
+       "url": "https://www-instructables-com.cdn.ampproject.org/v/s/www.instructables.com/Li-ion-battery-charging/?amp_page=true&amp_js_v=0.1&usqp=mq331AQCKAE%3D",
+       "views": 1
+      },
+      {
+       "name": "www-instructables-com.cdn.ampproject.org/v/s/www.instructables.com/Li-ion-battery-charging/?amp_page=true&usqp=mq331AQFKAGwASA%3D&amp_js_v=0.1",
+       "url": "https://www-instructables-com.cdn.ampproject.org/v/s/www.instructables.com/Li-ion-battery-charging/?amp_page=true&usqp=mq331AQFKAGwASA%3D&amp_js_v=0.1",
+       "views": 1
+      },
+      {
+       "name": "www-instructables-com.cdn.ampproject.org/v/s/www.instructables.com/Simulated-ECG-Signal-Acquisition-Using-LTSpice/?amp_page=true&usqp=mq331AQFKAGwASA%3D&amp_js_v=0.1",
+       "url": "https://www-instructables-com.cdn.ampproject.org/v/s/www.instructables.com/Simulated-ECG-Signal-Acquisition-Using-LTSpice/?amp_page=true&usqp=mq331AQFKAGwASA%3D&amp_js_v=0.1",
+       "views": 1
+      },
+      {
+       "name": "www-instructables-com.cdn.ampproject.org/v/s/www.instructables.com/Li-ion-battery-charging/?amp_page=true&amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D",
+       "url": "https://www-instructables-com.cdn.ampproject.org/v/s/www.instructables.com/Li-ion-battery-charging/?amp_page=true&amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "group": "startpage.com",
+     "name": "startpage.com",
+     "icon": null,
+     "total": 8,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "startpage.com",
+       "url": "https://www.startpage.com/",
+       "views": 7
+      },
+      {
+       "name": "startpage.com",
+       "url": "https://startpage.com/",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "group": "mail.google.com",
+     "name": "Gmail",
+     "icon": null,
+     "total": 6,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "mail.google.com",
+       "url": "https://mail.google.com/",
+       "views": 3
+      },
+      {
+       "name": "mail.google.com/mail/u/0/?ogbl",
+       "url": "https://mail.google.com/mail/u/0/?ogbl",
+       "views": 2
+      },
+      {
+       "name": "mail.google.com/mail/u/0/",
+       "url": "https://mail.google.com/mail/u/0/",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "group": "org.telegram.messenger",
+     "name": "org.telegram.messenger",
+     "url": "http://android-app://org.telegram.messenger/",
+     "icon": null,
+     "total": 5,
+     "follow_data": null,
+     "results": {
+      "views": 5
+     }
+    },
+    {
+     "group": "instagram.com",
+     "name": "Instagram",
+     "url": "https://l.instagram.com/",
+     "icon": "https://secure.gravatar.com/blavatar/055878d4c9c9aa326800d2936d3c2f18269b5c153402f71f1811bddede6a4551?s=48",
+     "total": 3,
+     "follow_data": null,
+     "results": {
+      "views": 3
+     }
+    },
+    {
+     "group": "linkedin.com",
+     "name": "LinkedIn",
+     "icon": "https://secure.gravatar.com/blavatar/68c1e55b7e7549913f34030a5f0d49a94613b05469ac21f5eea1e6cb32cd5eb7?s=48",
+     "total": 3,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "linkedin.com",
+       "url": "https://www.linkedin.com/",
+       "views": 2
+      },
+      {
+       "name": "com.linkedin.android",
+       "url": "http://android-app://com.linkedin.android",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "group": "cse.google.com",
+     "name": "cse.google.com",
+     "url": "https://cse.google.com/",
+     "icon": null,
+     "total": 2,
+     "follow_data": null,
+     "results": {
+      "views": 2
+     }
+    },
+    {
+     "group": "github.com",
+     "name": "github.com",
+     "url": "https://github.com/",
+     "icon": "https://secure.gravatar.com/blavatar/3aeb002460381c6f258e8395d3026f571f0d9a76488dcd837639b13aed316560?s=48",
+     "total": 2,
+     "follow_data": null,
+     "results": {
+      "views": 2
+     }
+    },
+    {
+     "group": "en.gravatar.com",
+     "name": "en.gravatar.com/glenzac",
+     "url": "http://en.gravatar.com/glenzac",
+     "icon": "https://secure.gravatar.com/blavatar/4cb5a6bd4a3321ec3bba90ec31da65a7975f8d80fd130d07e9566a7ac4340acd?s=48",
+     "total": 2,
+     "follow_data": null,
+     "results": {
+      "views": 2
+     }
+    },
+    {
+     "group": "mightyohm.com",
+     "name": "mightyohm.com/blog/2008/09/arduino-based-avr-high-voltage-programmer/",
+     "url": "https://mightyohm.com/blog/2008/09/arduino-based-avr-high-voltage-programmer/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "google.it",
+     "name": "google.it",
+     "url": "https://google.it/",
+     "icon": "https://secure.gravatar.com/blavatar/99464a1c6b08896a33745b78b6aa4dfd88857073f33e9a9dea8a16b9445386a0?s=48",
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "translate.googleusercontent.com",
+     "name": "translate.googleusercontent.com/translate_p?prev=search&sl=en&u=https%3A%2F%2Fglenzac.wordpress.com%2F2020%2F02%2F17%2Fvariable-frequency-pwm-generator%2Famp%2F&depth=1&rurl=translate.google.com&nv=1&sp=nmt4&pto=aue&usg=ALkJrhgAAAAAX6KXwtUXkY3dlI1PgjOmwm1u8ucGCnzm",
+     "url": "https://translate.googleusercontent.com/translate_p?prev=search&sl=en&u=https%3A%2F%2Fglenzac.wordpress.com%2F2020%2F02%2F17%2Fvariable-frequency-pwm-generator%2Famp%2F&depth=1&rurl=translate.google.com&nv=1&sp=nmt4&pto=aue&usg=ALkJrhgAAAAAX6KXwtUXkY3dlI1PgjOmwm1u8ucGCnzm",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "lavasoft.gosearchresults.com",
+     "name": "lavasoft.gosearchresults.com/?q=how+yo+make+a+5+led+pov+display+using+attiny85+ic&tt=vmn__webcompa__1_0__go__lvs__webcompa__1_0__go__ch_WCYID10378_200613__yrff__yrff&pid=5ac784309091147a162b4431",
+     "url": "https://lavasoft.gosearchresults.com/?q=how+yo+make+a+5+led+pov+display+using+attiny85+ic&tt=vmn__webcompa__1_0__go__lvs__webcompa__1_0__go__ch_WCYID10378_200613__yrff__yrff&pid=5ac784309091147a162b4431",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "groups.google.com",
+     "name": "groups.google.com",
+     "url": "https://groups.google.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "sestevenson.wordpress.com",
+     "name": "sestevenson.wordpress.com/implementation-of-fir-filtering-in-c-part-1/",
+     "url": "https://sestevenson.wordpress.com/implementation-of-fir-filtering-in-c-part-1/",
+     "icon": null,
+     "total": 1,
+     "follow_data": {
+      "params": {
+       "stat-source": "stats_referrer",
+       "follow-text": "Follow",
+       "following-text": "Following",
+       "following-hover-text": "Unfollow",
+       "blog_domain": "sestevenson.wordpress.com",
+       "blog_url": "http://sestevenson.wordpress.com",
+       "blog_id": 7792039,
+       "site_id": 7792039,
+       "blog_title": "Shawn&#039;s DSP Tutorials",
+       "is_following": false
+      },
+      "type": "follow"
+     },
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "pinterest.com",
+     "name": "Pinterest",
+     "url": "https://br.pinterest.com/",
+     "icon": "https://secure.gravatar.com/blavatar/e220ecbe25007b5a5ef4476b51fc43cd48865c3ad722b8d37ba8423dd9e28c5c?s=48",
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "googleads.g.doubleclick.net",
+     "name": "googleads.g.doubleclick.net",
+     "url": "https://googleads.g.doubleclick.net/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "WordPress Dashboard",
+     "name": "WordPress Dashboard",
+     "url": "https://wordpress.com/",
+     "icon": "https://secure.gravatar.com/blavatar/e777b92d10977760916e5a76f21717fe30daa1e37aefd91aa735249156aee601?s=48",
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "search-7.com",
+     "name": "search-7.com/search.php?q=gate+calculator+for+pc",
+     "url": "https://search-7.com/search.php?q=gate+calculator+for+pc",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "s3arch.page",
+     "name": "s3arch.page/results.php?q=gate+virtual+calculator+for+pc",
+     "url": "https://s3arch.page/results.php?q=gate+virtual+calculator+for+pc",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "sp-web.search.auone.jp",
+     "name": "sp-web.search.auone.jp",
+     "url": "https://sp-web.search.auone.jp/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "bmps.xyz",
+     "name": "bmps.xyz/results.php?wd=gate+virtual+calculator+for+pc",
+     "url": "http://bmps.xyz/results.php?wd=gate+virtual+calculator+for+pc",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "qwant.com",
+     "name": "qwant.com",
+     "url": "https://www.qwant.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "every-lang-seo.com",
+     "name": "every-lang-seo.com",
+     "url": "http://every-lang-seo.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "progressive-seo.com",
+     "name": "progressive-seo.com",
+     "url": "http://progressive-seo.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    }
+   ],
+   "other_views": 0,
+   "total_views": 7128
+  }
+ },
+ "period": "year"
+}

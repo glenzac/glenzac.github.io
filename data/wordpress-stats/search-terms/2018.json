@@ -1,0 +1,12 @@
+{
+ "date": "2018-12-31",
+ "period": "year",
+ "days": {
+  "2018-01-01": {
+   "search_terms": [],
+   "encrypted_search_terms": 2,
+   "other_search_terms": 0,
+   "total_search_terms": 2
+  }
+ }
+}

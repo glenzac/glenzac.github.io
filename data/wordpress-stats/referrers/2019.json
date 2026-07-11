@@ -1,0 +1,541 @@
+{
+ "date": "2019-12-31",
+ "days": {
+  "2019-01-01": {
+   "groups": [
+    {
+     "group": "Search Engines",
+     "name": "Search Engines",
+     "icon": "https://wordpress.com/i/stats/search-engine.png",
+     "total": 1091,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "Google Search",
+       "icon": "https://secure.gravatar.com/blavatar/426d27def7eef69afd58ab5280173a02e50c3a2f9d0b9ebce3fb453a69af2b44?s=48",
+       "views": 1061,
+       "children": [
+        {
+         "name": "google.com",
+         "url": "http://www.google.com/",
+         "icon": null,
+         "views": 931
+        },
+        {
+         "name": "google.com/search",
+         "url": "http://www.google.com/search",
+         "icon": null,
+         "views": 18
+        },
+        {
+         "name": "google.co.in",
+         "url": "http://www.google.co.in",
+         "icon": "https://secure.gravatar.com/blavatar/f7d2f9ca6cb89c6439b88ef868e8e07a88335a95df414895e958efea8e7e4386?s=48",
+         "views": 18
+        },
+        {
+         "name": "google.com.tw",
+         "url": "http://www.google.com.tw",
+         "icon": "https://secure.gravatar.com/blavatar/aa032ec83e5ebbed34bf341b680bca77528d12df2fb89d4ab8d1224fdbfa76f8?s=48",
+         "views": 6
+        },
+        {
+         "name": "google.gr",
+         "url": "http://www.google.gr",
+         "icon": "https://secure.gravatar.com/blavatar/446d5023c45e169f973e8726f320a5997b302ca76e10d36430ddbde8da228a27?s=48",
+         "views": 5
+        },
+        {
+         "name": "google.com.au",
+         "url": "http://www.google.com.au",
+         "icon": "https://secure.gravatar.com/blavatar/9096d15059b3d095ac1ffdae21b4b0775d11bd8bad5a56e9614359e17b68d0b4?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.com.hk",
+         "url": "http://www.google.com.hk",
+         "icon": "https://secure.gravatar.com/blavatar/8acdcb1de80fe40c222f54ceb28878407e0319a948c4728cd80984dab30f9b92?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.com.my",
+         "url": "http://www.google.com.my",
+         "icon": "https://secure.gravatar.com/blavatar/e59f785967cab721d65d542ced146857cbcbc45b4ee28026e5296204776d142a?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.cz",
+         "url": "http://www.google.cz",
+         "icon": "https://secure.gravatar.com/blavatar/5db3846ca3c980212b8b7bba64fdf5b51a09fbd8ff6998a0842292f63fc3b9ed?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.nl",
+         "url": "http://www.google.nl",
+         "icon": "https://secure.gravatar.com/blavatar/750769a6e2b22ecc2a39ad85a2535ea1d5d15103e48b96d8938149f444439590?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.co.kr",
+         "url": "http://www.google.co.kr",
+         "icon": "https://secure.gravatar.com/blavatar/1cb7fd0991617c12065b4b31e950f5dd24cdb27f80cdca9f00c9cfa65d7d2d45?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.ru",
+         "url": "http://www.google.ru",
+         "icon": "https://secure.gravatar.com/blavatar/3a6877247293754acd8af4eb1167c2526c72d75c9ba7f9e163063f18581bf30b?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.ca",
+         "url": "http://www.google.ca",
+         "icon": "https://secure.gravatar.com/blavatar/f42e7cd63a28799f4f8eb88939c0ca4cba3264680940ae6092f8fecdb80f80f1?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.es",
+         "url": "http://www.google.es",
+         "icon": "https://secure.gravatar.com/blavatar/c3c38fc9b5b8d8b7b07534c77a3caa599119283fc387fda6fd871d36ceb96aea?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.com.tr",
+         "url": "http://www.google.com.tr",
+         "icon": "https://secure.gravatar.com/blavatar/ac23ca579e66f7fe370f4f4dd0437db2b6ac2d9195ea688b43a529223e56640a?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.pl",
+         "url": "http://www.google.pl",
+         "icon": "https://secure.gravatar.com/blavatar/191a90414f346d44755b12a9a0cade00c0251b9de40a9284d08d010225139357?s=48",
+         "views": 3
+        },
+        {
+         "name": "google.co.jp",
+         "url": "http://www.google.co.jp",
+         "icon": "https://secure.gravatar.com/blavatar/71c665c14ea20038772e2f90b2270b54d09788b8eb1e7655ce2517276dbaa9aa?s=48",
+         "views": 3
+        },
+        {
+         "name": "google.com.br",
+         "url": "http://www.google.com.br",
+         "icon": "https://secure.gravatar.com/blavatar/fded33baa8a3f59958fe1e33160ed20c70de3ab2cb5b618f29431366498eb268?s=48",
+         "views": 3
+        },
+        {
+         "name": "google.co.uk",
+         "url": "http://www.google.co.uk",
+         "icon": "https://secure.gravatar.com/blavatar/eec379281f896cce1b061b4cbe5cf398fb74f3606d031ea4afe06bbbf44d6940?s=48",
+         "views": 3
+        },
+        {
+         "name": "google.com.ua",
+         "url": "http://www.google.com.ua",
+         "icon": "https://secure.gravatar.com/blavatar/683bd265e5f6d364a5ed0688884b205bf2bc714a02f201ce4d4f1e9642613ce0?s=48",
+         "views": 3
+        },
+        {
+         "name": "google.com.pk",
+         "url": "http://www.google.com.pk",
+         "icon": "https://secure.gravatar.com/blavatar/8ed0d9642ca84fa505bf3e43a5cddc2866fe28311482c1c513c0f29fbcab51b0?s=48",
+         "views": 3
+        },
+        {
+         "name": "cse.google.com/search",
+         "url": "http://cse.google.com/search",
+         "icon": null,
+         "views": 2
+        },
+        {
+         "name": "google.ch",
+         "url": "http://www.google.ch",
+         "icon": "https://secure.gravatar.com/blavatar/0ec278c23bc3706a36761c8a51ca6b866b3b4100ef14ebbfbe55ee3366d678bf?s=48",
+         "views": 2
+        },
+        {
+         "name": "google.co.in/search",
+         "url": "http://www.google.co.in/search",
+         "icon": null,
+         "views": 2
+        },
+        {
+         "name": "google.co.za",
+         "url": "http://www.google.co.za",
+         "icon": "https://secure.gravatar.com/blavatar/39c895eb65faae75c8f7dcf29fbb43e5205b16f01de4bca1ab57de0f31cf2b02?s=48",
+         "views": 2
+        },
+        {
+         "name": "google.de",
+         "url": "http://www.google.de",
+         "icon": "https://secure.gravatar.com/blavatar/17b3cdc0e348185de9755487806eabfa7e2e4e0a6e559dd461763b5c85563337?s=48",
+         "views": 2
+        },
+        {
+         "name": "google.co.id",
+         "url": "http://www.google.co.id",
+         "icon": "https://secure.gravatar.com/blavatar/b2f7500cb6e3e4b3cdc7284a58d95f487b5bc770ea12b8e8144595bc0e26a117?s=48",
+         "views": 2
+        },
+        {
+         "name": "google.iq",
+         "url": "http://www.google.iq",
+         "icon": null,
+         "views": 1
+        },
+        {
+         "name": "google.com.vn",
+         "url": "http://www.google.com.vn",
+         "icon": "https://secure.gravatar.com/blavatar/953e78737d4e17e88eb77ed715820662c9ee80baec5a86378bcf197f2a7d2ea7?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.com.uy",
+         "url": "http://www.google.com.uy",
+         "icon": "https://secure.gravatar.com/blavatar/2f18cd33761b0a3394f4e538455414afc5328c11914e06681f3545cd91d96ba8?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.it",
+         "url": "http://www.google.it",
+         "icon": "https://secure.gravatar.com/blavatar/1e69aebfd6b45ffe986167d8b3d666e51737a420fbfc1d048125368baf80fdb0?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.com.eg",
+         "url": "http://www.google.com.eg",
+         "icon": "https://secure.gravatar.com/blavatar/7da8511de5a47fb0fc5420eaf6cb07e6de3e8ac5c2f947fe6aa40552e9cbfa27?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.fi",
+         "url": "http://www.google.fi",
+         "icon": "https://secure.gravatar.com/blavatar/ee3c90960ec27a29e2286bd88b1657878f757c41e7174dede8fc445896522dc7?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.lv",
+         "url": "http://www.google.lv",
+         "icon": "https://secure.gravatar.com/blavatar/579f00b678335f535e0415c50afc0c570b86440ffcb960ec9faa672e6ce369da?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.fr",
+         "url": "http://www.google.fr",
+         "icon": "https://secure.gravatar.com/blavatar/caaa329f2c37d70ea5e762d3416bf21dc67158fb486a74f76b5e6fa9fdc357f4?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.com.ar",
+         "url": "http://www.google.com.ar",
+         "icon": "https://secure.gravatar.com/blavatar/7ffe8698ca81d9147d8dadd7b60eb18e5b5ee4cb33bc0fdfd15eb28e378c7512?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.lt",
+         "url": "http://www.google.lt",
+         "icon": "https://secure.gravatar.com/blavatar/15278fefcdf8214bb1ca3bde1aaa4537571782ad1c3dbab125a07bce23d63646?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.com.sg",
+         "url": "http://www.google.com.sg",
+         "icon": "https://secure.gravatar.com/blavatar/90f3a073b168d5377b07c3e62bd77de4a9d0198b8217a5b6624a2100b6a764e6?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.co.kr/search",
+         "url": "http://www.google.co.kr/search",
+         "icon": null,
+         "views": 1
+        },
+        {
+         "name": "google.fr/search",
+         "url": "http://www.google.fr/search",
+         "icon": null,
+         "views": 1
+        }
+       ]
+      },
+      {
+       "name": "Bing",
+       "url": "http://www.bing.com",
+       "icon": "https://secure.gravatar.com/blavatar/3c77f261a156a5308fee53720276395ef78d2e7367e4225a3d3d93f4accd1dd3?s=48",
+       "views": 10
+      },
+      {
+       "name": "duckduckgo.com",
+       "url": "https://duckduckgo.com/",
+       "icon": null,
+       "views": 9
+      },
+      {
+       "name": "Yahoo Search",
+       "icon": "https://secure.gravatar.com/blavatar/0a2eb9a2f7af2ab8ef3c3b9279fdd12f2b2b9b400311064a7222b8a313efeec6?s=48",
+       "views": 6,
+       "children": [
+        {
+         "name": "search.yahoo.com",
+         "url": "https://search.yahoo.com/",
+         "icon": "https://secure.gravatar.com/blavatar/da585ac2478c22ef50cc06f1e909da83906b841c4862098f1bb046bf6930f1d0?s=48",
+         "views": 4
+        },
+        {
+         "name": "in.search.yahoo.com",
+         "url": "https://in.search.yahoo.com/",
+         "icon": null,
+         "views": 1
+        },
+        {
+         "name": "r.search.yahoo.com/_ylt=AwrxiDbmoBldGVcA.yHJ1yU5;_ylu=X3oDMTBycWJpM21vBGNvbG8Dc2czBHBvcwMxBHZ0aWQDBHNlYwNzcg--/RV=2/RE=1561989478/RO=10/RU=https%3a%2f%2fglenzac.wordpress.com%2f2018%2f05%2f28%2fusing-ammonia-sensor-mq135-to-detect-foul-smelling-toilets%2f/RK=2/RS=4acOKBDOvRjaH7LGriVZB9dgi6c-",
+         "url": "https://r.search.yahoo.com/_ylt=AwrxiDbmoBldGVcA.yHJ1yU5;_ylu=X3oDMTBycWJpM21vBGNvbG8Dc2czBHBvcwMxBHZ0aWQDBHNlYwNzcg--/RV=2/RE=1561989478/RO=10/RU=https%3a%2f%2fglenzac.wordpress.com%2f2018%2f05%2f28%2fusing-ammonia-sensor-mq135-to-detect-foul-smelling-toilets%2f/RK=2/RS=4acOKBDOvRjaH7LGriVZB9dgi6c-",
+         "icon": null,
+         "views": 1
+        }
+       ]
+      },
+      {
+       "name": "myway.com",
+       "url": "http://int.search.myway.com",
+       "icon": null,
+       "views": 3
+      },
+      {
+       "name": "Ask.com",
+       "url": "http://nortonsafe.search.ask.com",
+       "icon": "https://secure.gravatar.com/blavatar/f3cbb44598437ac6c4ccf07572fa8567b7fa6aab3646c2a64017d39b4f5307c1?s=48",
+       "views": 2
+      }
+     ]
+    },
+    {
+     "group": "instructables.com",
+     "name": "instructables.com",
+     "icon": null,
+     "total": 289,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "instructables.com/id/Li-ion-battery-charging/",
+       "url": "https://www.instructables.com/id/Li-ion-battery-charging/",
+       "views": 284
+      },
+      {
+       "name": "instructables.com",
+       "url": "https://www.instructables.com/",
+       "views": 5
+      }
+     ]
+    },
+    {
+     "group": "msec.it",
+     "name": "msec.it",
+     "icon": null,
+     "total": 117,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "msec.it/blog/dukto/",
+       "url": "https://www.msec.it/blog/dukto/",
+       "views": 111
+      },
+      {
+       "name": "msec.it",
+       "url": "https://www.msec.it/",
+       "views": 6
+      }
+     ]
+    },
+    {
+     "group": "WordPress.com Reader",
+     "name": "WordPress.com Reader",
+     "url": "https://wordpress.com/reader/",
+     "icon": "https://secure.gravatar.com/blavatar/c5ba929e1803dd1d2865d53b671e5d0a1f64071ecd9d720d7377dce63fdab0a2?s=48",
+     "total": 66,
+     "follow_data": null,
+     "results": {
+      "views": 66
+     }
+    },
+    {
+     "group": "youtube.com",
+     "name": "youtube.com",
+     "url": "https://www.youtube.com/",
+     "icon": null,
+     "total": 15,
+     "follow_data": null,
+     "results": {
+      "views": 15
+     }
+    },
+    {
+     "group": "com.google.android.googlequicksearchbox",
+     "name": "com.google.android.googlequicksearchbox",
+     "icon": null,
+     "total": 9,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "com.google.android.googlequicksearchbox/https/www.google.com",
+       "url": "http://android-app://com.google.android.googlequicksearchbox/https/www.google.com",
+       "views": 6
+      },
+      {
+       "name": "com.google.android.googlequicksearchbox",
+       "url": "http://android-app://com.google.android.googlequicksearchbox",
+       "views": 3
+      }
+     ]
+    },
+    {
+     "group": "facebook.com",
+     "name": "Facebook",
+     "url": "http://facebook.com/",
+     "icon": "https://secure.gravatar.com/blavatar/31193328f8e21dfb6c99f322d22d7b0b508778e64ffbba86e52293379031b874?s=48",
+     "total": 7,
+     "follow_data": null,
+     "results": {
+      "views": 7
+     }
+    },
+    {
+     "group": "org.telegram.messenger",
+     "name": "org.telegram.messenger",
+     "url": "http://android-app://org.telegram.messenger",
+     "icon": null,
+     "total": 4,
+     "follow_data": null,
+     "results": {
+      "views": 4
+     }
+    },
+    {
+     "group": "glenzac-wordpress-com.cdn.ampproject.org",
+     "name": "glenzac-wordpress-com.cdn.ampproject.org",
+     "icon": null,
+     "total": 4,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/11/09/ecg-sources-for-pspice-tina-multisim/amp/?usqp=mq331AQCKAE%3D&amp_js_v=0.1",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/11/09/ecg-sources-for-pspice-tina-multisim/amp/?usqp=mq331AQCKAE%3D&amp_js_v=0.1",
+       "views": 2
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/09/20/making-a-li-ion-battery-charger/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2018/09/20/making-a-li-ion-battery-charger/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D",
+       "views": 1
+      },
+      {
+       "name": "glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2019/04/11/ecg-qrs-detection-c-python-matlab-code/amp/?amp_js_v=0.1&usqp=mq331AQCKAE%3D",
+       "url": "https://glenzac-wordpress-com.cdn.ampproject.org/v/s/glenzac.wordpress.com/2019/04/11/ecg-qrs-detection-c-python-matlab-code/amp/?amp_js_v=0.1&usqp=mq331AQCKAE%3D",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "group": "mail.google.com",
+     "name": "Gmail",
+     "url": "http://android-app://com.google.android.gm",
+     "icon": null,
+     "total": 3,
+     "follow_data": null,
+     "results": {
+      "views": 3
+     }
+    },
+    {
+     "group": "reddit.com",
+     "name": "Reddit",
+     "url": "https://www.reddit.com/r/Anki/comments/cpb1rs/anki_latex_helper_using_autohotkey/",
+     "icon": "https://secure.gravatar.com/blavatar/90ce957778d13b453b7416c943e1720b3379d7c77814c6b70028cbbf7aecb644?s=48",
+     "total": 3,
+     "follow_data": null,
+     "results": {
+      "views": 3
+     }
+    },
+    {
+     "group": "internet-start.net",
+     "name": "internet-start.net/?q=download+gate+calculator+for+window+10",
+     "url": "https://internet-start.net/?q=download+gate+calculator+for+window+10",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "progressive-seo.com",
+     "name": "progressive-seo.com",
+     "url": "http://progressive-seo.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "mychromesearch.com",
+     "name": "mychromesearch.com",
+     "url": "https://mychromesearch.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "ecosia.org",
+     "name": "ecosia.org",
+     "url": "https://www.ecosia.org/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "wm-so.glb.shawcable.net",
+     "name": "wm-so.glb.shawcable.net/zimbra/mail",
+     "url": "https://wm-so.glb.shawcable.net/zimbra/mail",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "keep.google.com",
+     "name": "keep.google.com/u/0/",
+     "url": "https://keep.google.com/u/0/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "project.adepthq.com",
+     "name": "project.adepthq.com/projects/qa-adeptforms/work_packages/1725/activity",
+     "url": "http://project.adepthq.com/projects/qa-adeptforms/work_packages/1725/activity",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    }
+   ],
+   "other_views": 0,
+   "total_views": 1615
+  }
+ },
+ "period": "year"
+}

@@ -16,13 +16,13 @@ title: Understanding the clock system
 ---
 The **MSP430F5529** has something called the **Unified Clock System (UCS)** other devices have other names for their systems. This is summarized in the table below:
 
-https://i.imgur.com/qkVQsAP.jpg
+![](@assets/images/2020/qkVQsAP.jpg)
 
 💡 If you are following other MSP430 guides too, it's likely that you'll be seeing a different clock naming scheme there.
 
 I've summarized the UCS in the diagram below:
 
-https://i.imgur.com/iJ7yYCa.jpg
+![](@assets/images/2020/iJ7yYCa.jpg)
 
 As can be seen in the figure above, the UCS produces 3 kinds of clock signals:
 
@@ -32,7 +32,7 @@ As can be seen in the figure above, the UCS produces 3 kinds of clock signals:
 
 These different signals have different functions and the diagram below gives a rough idea:
 
-https://i.imgur.com/ysz0VVq.jpeg
+![](@assets/images/2020/ysz0VVq.jpeg)
 
 So the different clocks are selected based on the requirement and there is a trade off between performance and power consumption. The faster you want the device to run the more power it consumes.
 

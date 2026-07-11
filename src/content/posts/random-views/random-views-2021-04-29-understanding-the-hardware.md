@@ -16,7 +16,7 @@ title: Understanding the hardware
 ---
 The **MSP430F5529** is a low power mixed signal microcontroller. This is what it looks like.
 
-https://i.imgur.com/qI492eC.jpg
+![](@assets/images/2021/qI492eC.jpg)
 
 It is an 80 pin IC that we can use in any of our applications. The datasheet (linked [here](/embedded-programming-series/)) is of this 80 pin IC and everything written in it assumes you've this soldered to a board and ready to use with all the necessary components and power supply.
 
@@ -34,15 +34,15 @@ So you start on the LaunchPad board, connect all the required sensors and periph
 
 You'll find the necessary Hardware Design files on the TI website or linked [here](/embedded-programming-series/) on the main page.
 
-https://i.imgur.com/MHC5AjA.jpg
+![](@assets/images/2021/MHC5AjA.jpg)
 
 The above block diagram shows all the extra components that the LaunchPad has. The lower half of the image is what matters to us mostly now. Look at the the pins in the schematic below. I've only labelled the components that are of importance to us now.
 
-https://i.imgur.com/ZLmnvN4.jpg
+![](@assets/images/2021/ZLmnvN4.jpg)
 
 All this may look scary but trust me, you need to only understand that there are two crystal oscillators (they are needed for accurately timed processes) on the board along with 2 User LEDs and buttons.
 
-https://i.imgur.com/qDAukI2.jpg
+![](@assets/images/2021/qDAukI2.jpg)
 
 From the User Buttons schematic on the left it is obvious that pressing the button connects the appropriate GPIO pins to GND. i.e when the button is pressed it will read a `LOW ` output or `Logic 0`. When it is not pressed the pin is not connected to anything. It is said to be floating. Thus the voltage measured at the pin when it is floating can be anything. To avoid this problem we have Pull up or Pull down resistors (here's a good online guide on [pull up resistors](https://learn.sparkfun.com/tutorials/pull-up-resistors/all)) within the MSP430F5529 IC that you can configure as needed. So when pulled high the button when it is not pressed will read `HIGH ` or `Logic 1`. The User LEDs will turn on when you give a HIGH value at the pins and will be off when given Logic 0. You'll be using the external crystal oscillators in a future lesson.
 

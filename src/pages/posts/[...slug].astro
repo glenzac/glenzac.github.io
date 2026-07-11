@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import PostLayout from '../../layouts/PostLayout.astro';
+import { postSlug } from '../../utils/postSlug';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('posts', ({ data }) => !data.draft);
@@ -8,31 +9,58 @@ export async function getStaticPaths() {
 		new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()
 	);
 
-	return sorted.map((post, index) => ({
-		params: { slug: post.id },
+	const pages = sorted.map((post, index) => ({
+		params: { slug: postSlug(post.id) },
 		props: {
 			post,
 			prevPost: sorted[index + 1] ?? null,
 			nextPost: sorted[index - 1] ?? null,
 		},
 	}));
+
+	// Stubs at the old `<category>/<category>-<date>-<slug>` URLs that
+	// meta-refresh to the clean slug, so previously indexed links keep working.
+	const redirects = sorted
+		.filter((post) => post.id !== postSlug(post.id))
+		.map((post) => ({
+			params: { slug: post.id },
+			props: { redirectTo: `/posts/${postSlug(post.id)}/` },
+		}));
+
+	return [...pages, ...redirects];
 }
 
-const { post, prevPost, nextPost } = Astro.props;
-const { Content, headings } = await render(post);
+const { post, prevPost, nextPost, redirectTo } = Astro.props;
+const rendered = redirectTo ? null : await render(post);
+const Content = rendered?.Content;
 ---
 
-<PostLayout
-	title={post.data.title}
-	date={new Date(post.data.date)}
-	slug={post.id}
-	categories={post.data.categories}
-	tags={post.data.tags}
-	cover={post.data.cover}
-	description={post.data.summary || post.data.description}
-	prevPost={prevPost}
-	nextPost={nextPost}
-	headings={headings}
->
-	<Content />
-</PostLayout>
+{redirectTo ? (
+	<html lang="en">
+		<head>
+			<meta charset="utf-8" />
+			<title>Redirecting…</title>
+			<meta http-equiv="refresh" content={`0;url=${redirectTo}`} />
+			<link rel="canonical" href={new URL(redirectTo, Astro.site)} />
+			<meta name="robots" content="noindex" />
+		</head>
+		<body data-pagefind-ignore="all">
+			<p>This post has moved to <a href={redirectTo}>{redirectTo}</a>.</p>
+		</body>
+	</html>
+) : (
+	<PostLayout
+		title={post.data.title}
+		date={new Date(post.data.date)}
+		slug={postSlug(post.id)}
+		categories={post.data.categories}
+		tags={post.data.tags}
+		cover={post.data.cover}
+		description={post.data.summary || post.data.description}
+		prevPost={prevPost}
+		nextPost={nextPost}
+		headings={rendered?.headings ?? []}
+	>
+		{Content && <Content />}
+	</PostLayout>
+)}

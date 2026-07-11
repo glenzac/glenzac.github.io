@@ -24,7 +24,7 @@ title: Tips to make cool Anki cards for STEM subjects
 - Create [tables](https://www.tablesgenerator.com/) easily
 - Use different colors to make it easier to learn things:
 
-https://i.imgur.com/RMsdDsc.jpg
+![](@assets/images/2020/RMsdDsc.jpg)
 
 - Here's my card formatting code:
 

@@ -20,9 +20,9 @@ The remote was only working intermittently when I thought the battery was nearin
 
 Putting in fresh new batteries after cleaning the battery compartment too didn't help any bit. So I decided to pry it open.
 
-https://i.imgur.com/h0BpU5Z.jpg
+![](@assets/images/2020/h0BpU5Z.jpg)
 
-https://i.imgur.com/5G290g3.jpg
+![](@assets/images/2020/5G290g3.jpg)
 
 The chemical reaction between the electrolyte and the rubber pad had turned the black thing to orange in colour where the leak occured.
 
@@ -32,24 +32,24 @@ SONY had placed the controller IC just behind the battery slot. That means any l
 
 Instead of placing it away from the batteries they placed it right along with it. 😐 I've seen other manufacturers now place batteries along the lenght of the remote. I haven't yet opened one to notice the change in position of ICs. Some brands have moved to coin cells which are less prone to leaks.
 
-https://i.imgur.com/03wPqAr.jpg
+![](@assets/images/2020/03wPqAr.jpg)
 
-https://i.imgur.com/tHcnTl3.jpg
+![](@assets/images/2020/tHcnTl3.jpg)
 
 The damage to the PCB is clearly visible near the battery terminal on the left.
 
-https://i.imgur.com/5jnYh7C.jpg
+![](@assets/images/2020/5jnYh7C.jpg)
 
 Another area that appears to be affected with the leak. So I decided to clean the whole thing. Took out the rubber - washed it in soap water to remove the dirt and dried it using a hair dryer😅.
 
 This was followed by 3 rounds of cleaning of the PCB using IsoPropyl Alcohol (IPA) and cotton swabs.
 
-https://i.imgur.com/0xH0hxK.jpg
+![](@assets/images/2020/0xH0hxK.jpg)
 
-https://i.imgur.com/mjkXCm4.jpg
+![](@assets/images/2020/mjkXCm4.jpg)
 
-https://i.imgur.com/oq7tM3C.jpg
+![](@assets/images/2020/oq7tM3C.jpg)
 
-https://i.imgur.com/3yZ2pjN.jpg
+![](@assets/images/2020/3yZ2pjN.jpg)
 
 The orange coloured discolouration appears to be permanent. I put everything back in place and tried the remote. Half the buttons had started working. Still the media playback buttons and the volume up key and the return key was not working. As a last resort, I decided to try and resolder all the connections. I did the resonator and the caps easily. The SMD is still difficult for me. So I just touched the soldering rod steadily on the pins in hopes of redoing joints. This did the trick. Almost all the buttons started working now. 😁

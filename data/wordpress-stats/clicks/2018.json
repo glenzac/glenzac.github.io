@@ -1,0 +1,65 @@
+{
+ "date": "2018-12-31",
+ "days": {
+  "2018-01-01": {
+   "clicks": [
+    {
+     "icon": null,
+     "url": "https://drive.google.com/open?id=1yXKxjsWxHYU5TE74-5EYB8yabKiaWvr0",
+     "name": "drive.google.com/open?id=1yXKxjsWxHYU5TE74-5EYB8yabKiaWvr0",
+     "views": 35,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://batteryuniversity.com/learn/article/charging_lithium_ion_batteries",
+     "name": "batteryuniversity.com/learn/article/charging_lithium_ion_batteries",
+     "views": 11,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.instructables.com",
+     "views": 7,
+     "children": [
+      {
+       "url": "https://www.instructables.com/id/Li-ion-battery-charging/",
+       "name": "instructables.com/id/Li-ion-battery-charging/",
+       "views": 4
+      },
+      {
+       "url": "https://www.instructables.com/member/pinomelean/",
+       "name": "instructables.com/member/pinomelean/",
+       "views": 3
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "http://creativecommons.org/licenses/by-nc/4.0/",
+     "name": "creativecommons.org/licenses/by-nc/4.0/",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://play.google.com/store/apps/details?id=com.thriveglobal.thriveapp&amp;hl=en",
+     "name": "play.google.com/store/apps/details?id=com.thriveglobal.thriveapp&hl=en",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://en.wikipedia.org/wiki/Multiplexing",
+     "name": "en.wikipedia.org/wiki/Multiplexing",
+     "views": 1,
+     "children": null
+    }
+   ],
+   "other_clicks": 0,
+   "total_clicks": 57
+  }
+ },
+ "period": "year"
+}

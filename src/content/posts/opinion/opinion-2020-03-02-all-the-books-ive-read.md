@@ -23,7 +23,7 @@ I'll add very short reviews for some of these books soon! The no. of stars indic
 
 ## [Glen's bookshelf: read](https://www.goodreads.com/review/list/64633170-glen-zachariah?shelf=read&utm_medium=api&utm_source=custom_widget)
 
-[![The Checklist Manifesto: How to Get Things Right](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1312061594l/6667514._SX98_.jpg)](https://www.goodreads.com/review/show/2990258966?utm_medium=api&utm_source=custom_widget "The Checklist Manifesto: How to Get Things Right")
+[![The Checklist Manifesto: How to Get Things Right](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312061594l/6667514._SX98_.jpg)](https://www.goodreads.com/review/show/2990258966?utm_medium=api&utm_source=custom_widget "The Checklist Manifesto: How to Get Things Right")
 
 ![it was amazing](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)
 
@@ -31,7 +31,7 @@ I'll add very short reviews for some of these books soon! The no. of stars indic
 
 by [Atul Gawande](https://www.goodreads.com/author/show/3078.Atul_Gawande)
 
-[![The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1465761302l/28257707._SX98_.jpg)](https://www.goodreads.com/review/show/2926564925?utm_medium=api&utm_source=custom_widget "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life")
+[![The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302l/28257707._SX98_.jpg)](https://www.goodreads.com/review/show/2926564925?utm_medium=api&utm_source=custom_widget "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -39,7 +39,7 @@ by [Atul Gawande](https://www.goodreads.com/author/show/3078.Atul_Gawande)
 
 by [Mark Manson](https://www.goodreads.com/author/show/8529755.Mark_Manson)
 
-[![The Book Thief](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1499710989l/893136._SX98_.jpg)](https://www.goodreads.com/review/show/2719247406?utm_medium=api&utm_source=custom_widget "The Book Thief")
+[![The Book Thief](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499710989l/893136._SX98_.jpg)](https://www.goodreads.com/review/show/2719247406?utm_medium=api&utm_source=custom_widget "The Book Thief")
 
 ![it was amazing](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)
 
@@ -50,7 +50,7 @@ by [Markus Zusak](https://www.goodreads.com/author/show/11466.Markus_Zusak)
 tagged:
 favorites
 
-[![Who Is Jesus?](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1413750714l/22216215._SX98_.jpg)](https://www.goodreads.com/review/show/2256034104?utm_medium=api&utm_source=custom_widget "Who Is Jesus?")
+[![Who Is Jesus?](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413750714l/22216215._SX98_.jpg)](https://www.goodreads.com/review/show/2256034104?utm_medium=api&utm_source=custom_widget "Who Is Jesus?")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -58,7 +58,7 @@ favorites
 
 by [Greg Gilbert](https://www.goodreads.com/author/show/3201910.Greg_Gilbert)
 
-[![The Girl on the Train](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1412002798l/21840310._SX98_.jpg)](https://www.goodreads.com/review/show/2506530769?utm_medium=api&utm_source=custom_widget "The Girl on the Train")
+[![The Girl on the Train](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412002798l/21840310._SX98_.jpg)](https://www.goodreads.com/review/show/2506530769?utm_medium=api&utm_source=custom_widget "The Girl on the Train")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -66,7 +66,7 @@ by [Greg Gilbert](https://www.goodreads.com/author/show/3201910.Greg_Gilbert)
 
 by [Paula Hawkins](https://www.goodreads.com/author/show/1063732.Paula_Hawkins)
 
-[![Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1409522492l/17571564._SX98_.jpg)](https://www.goodreads.com/review/show/2548993216?utm_medium=api&utm_source=custom_widget "Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened")
+[![Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409522492l/17571564._SX98_.jpg)](https://www.goodreads.com/review/show/2548993216?utm_medium=api&utm_source=custom_widget "Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -74,7 +74,7 @@ by [Paula Hawkins](https://www.goodreads.com/author/show/1063732.Paula_Hawkins)
 
 by [Allie Brosh](https://www.goodreads.com/author/show/6984726.Allie_Brosh)
 
-[![The Little Prince](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1367545443l/157993._SX98_.jpg)](https://www.goodreads.com/review/show/2540600240?utm_medium=api&utm_source=custom_widget "The Little Prince")
+[![The Little Prince](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993._SX98_.jpg)](https://www.goodreads.com/review/show/2540600240?utm_medium=api&utm_source=custom_widget "The Little Prince")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -82,7 +82,7 @@ by [Allie Brosh](https://www.goodreads.com/author/show/6984726.Allie_Brosh)
 
 by [Antoine de Saint-Exupéry](https://www.goodreads.com/author/show/1020792.Antoine_de_Saint_Exup_ry)
 
-[![What If? Serious Scientific Answers to Absurd Hypothetical Questions](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1451351509l/21413662._SX98_.jpg)](https://www.goodreads.com/review/show/2523391103?utm_medium=api&utm_source=custom_widget "What If? Serious Scientific Answers to Absurd Hypothetical Questions")
+[![What If? Serious Scientific Answers to Absurd Hypothetical Questions](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451351509l/21413662._SX98_.jpg)](https://www.goodreads.com/review/show/2523391103?utm_medium=api&utm_source=custom_widget "What If? Serious Scientific Answers to Absurd Hypothetical Questions")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -90,7 +90,7 @@ by [Antoine de Saint-Exupéry](https://www.goodreads.com/author/show/1020792.Ant
 
 by [Randall Munroe](https://www.goodreads.com/author/show/3089156.Randall_Munroe)
 
-[![The Diary of a Young Girl](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1560816565l/48855._SY160_.jpg)](https://www.goodreads.com/review/show/2441504989?utm_medium=api&utm_source=custom_widget "The Diary of a Young Girl")
+[![The Diary of a Young Girl](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560816565l/48855._SY160_.jpg)](https://www.goodreads.com/review/show/2441504989?utm_medium=api&utm_source=custom_widget "The Diary of a Young Girl")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -98,7 +98,7 @@ by [Randall Munroe](https://www.goodreads.com/author/show/3089156.Randall_Munroe
 
 by [Anne Frank](https://www.goodreads.com/author/show/3720.Anne_Frank)
 
-[![Man's Search for Meaning](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SX98_.jpg)](https://www.goodreads.com/review/show/2441492904?utm_medium=api&utm_source=custom_widget "Man's Search for Meaning")
+[![Man's Search for Meaning](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SX98_.jpg)](https://www.goodreads.com/review/show/2441492904?utm_medium=api&utm_source=custom_widget "Man's Search for Meaning")
 
 ![it was amazing](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)
 
@@ -106,7 +106,7 @@ by [Anne Frank](https://www.goodreads.com/author/show/3720.Anne_Frank)
 
 by [Viktor E. Frankl](https://www.goodreads.com/author/show/2782.Viktor_E_Frankl)
 
-[![The Madman](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1347635629l/2544._SX98_.jpg)](https://www.goodreads.com/review/show/2471238846?utm_medium=api&utm_source=custom_widget "The Madman")
+[![The Madman](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347635629l/2544._SX98_.jpg)](https://www.goodreads.com/review/show/2471238846?utm_medium=api&utm_source=custom_widget "The Madman")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -114,7 +114,7 @@ by [Viktor E. Frankl](https://www.goodreads.com/author/show/2782.Viktor_E_Frankl
 
 by [Kahlil Gibran](https://www.goodreads.com/author/show/6466154.Kahlil_Gibran)
 
-[![The Devotion of Suspect X](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1335535729l/13622723._SX98_.jpg)](https://www.goodreads.com/review/show/2314541667?utm_medium=api&utm_source=custom_widget "The Devotion of Suspect X")
+[![The Devotion of Suspect X](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335535729l/13622723._SX98_.jpg)](https://www.goodreads.com/review/show/2314541667?utm_medium=api&utm_source=custom_widget "The Devotion of Suspect X")
 
 ![it was amazing](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)
 
@@ -122,7 +122,7 @@ by [Kahlil Gibran](https://www.goodreads.com/author/show/6466154.Kahlil_Gibran)
 
 by [Keigo Higashino](https://www.goodreads.com/author/show/117366.Keigo_Higashino)
 
-[![The Prophet](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1355046521l/2547._SY160_.jpg)](https://www.goodreads.com/review/show/2441486311?utm_medium=api&utm_source=custom_widget "The Prophet")
+[![The Prophet](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355046521l/2547._SY160_.jpg)](https://www.goodreads.com/review/show/2441486311?utm_medium=api&utm_source=custom_widget "The Prophet")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -130,7 +130,7 @@ by [Keigo Higashino](https://www.goodreads.com/author/show/117366.Keigo_Higashin
 
 by [Kahlil Gibran](https://www.goodreads.com/author/show/6466154.Kahlil_Gibran)
 
-[![The Kite Runner](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1391420871l/20701840._SX98_.jpg)](https://www.goodreads.com/review/show/2249088835?utm_medium=api&utm_source=custom_widget "The Kite Runner")
+[![The Kite Runner](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391420871l/20701840._SX98_.jpg)](https://www.goodreads.com/review/show/2249088835?utm_medium=api&utm_source=custom_widget "The Kite Runner")
 
 ![it was amazing](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)
 
@@ -138,7 +138,7 @@ by [Kahlil Gibran](https://www.goodreads.com/author/show/6466154.Kahlil_Gibran)
 
 by [Khaled Hosseini](https://www.goodreads.com/author/show/569.Khaled_Hosseini)
 
-[![Chromosome 6](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1290140777l/66470._SY160_.jpg)](https://www.goodreads.com/review/show/1903306624?utm_medium=api&utm_source=custom_widget "Chromosome 6 (Jack Stapleton & Laurie Montgomery, #3)")
+[![Chromosome 6](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1290140777l/66470._SY160_.jpg)](https://www.goodreads.com/review/show/1903306624?utm_medium=api&utm_source=custom_widget "Chromosome 6 (Jack Stapleton & Laurie Montgomery, #3)")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -146,7 +146,7 @@ by [Khaled Hosseini](https://www.goodreads.com/author/show/569.Khaled_Hosseini)
 
 by [Robin Cook](https://www.goodreads.com/author/show/19697.Robin_Cook)
 
-[![The Power of Your Subconscious Mind](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1386924010l/68984._SY160_.jpg)](https://www.goodreads.com/review/show/2441981640?utm_medium=api&utm_source=custom_widget "The Power of Your Subconscious Mind")
+[![The Power of Your Subconscious Mind](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924010l/68984._SY160_.jpg)](https://www.goodreads.com/review/show/2441981640?utm_medium=api&utm_source=custom_widget "The Power of Your Subconscious Mind")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -154,7 +154,7 @@ by [Robin Cook](https://www.goodreads.com/author/show/19697.Robin_Cook)
 
 by [Joseph Murphy](https://www.goodreads.com/author/show/20369.Joseph_Murphy)
 
-[![The Giving Tree](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1174210942l/370493._SX98_.jpg)](https://www.goodreads.com/review/show/2476647787?utm_medium=api&utm_source=custom_widget "The Giving Tree")
+[![The Giving Tree](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1174210942l/370493._SX98_.jpg)](https://www.goodreads.com/review/show/2476647787?utm_medium=api&utm_source=custom_widget "The Giving Tree")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -162,7 +162,7 @@ by [Joseph Murphy](https://www.goodreads.com/author/show/20369.Joseph_Murphy)
 
 by [Shel Silverstein](https://www.goodreads.com/author/show/435477.Shel_Silverstein)
 
-[![Everyone Has A Story](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1467295399l/30817225._SX98_.jpg)](https://www.goodreads.com/review/show/1903264512?utm_medium=api&utm_source=custom_widget "Everyone Has A Story")
+[![Everyone Has A Story](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467295399l/30817225._SX98_.jpg)](https://www.goodreads.com/review/show/1903264512?utm_medium=api&utm_source=custom_widget "Everyone Has A Story")
 
 ![it was ok](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -170,7 +170,7 @@ by [Shel Silverstein](https://www.goodreads.com/author/show/435477.Shel_Silverst
 
 by [Savi Sharma](https://www.goodreads.com/author/show/14425066.Savi_Sharma)
 
-[![Making India Awesome: New Essays and Columns](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1437934138l/25984757._SX98_.jpg)](https://www.goodreads.com/review/show/1903265438?utm_medium=api&utm_source=custom_widget "Making India Awesome: New Essays and Columns")
+[![Making India Awesome: New Essays and Columns](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437934138l/25984757._SX98_.jpg)](https://www.goodreads.com/review/show/1903265438?utm_medium=api&utm_source=custom_widget "Making India Awesome: New Essays and Columns")
 
 ![it was ok](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -178,7 +178,7 @@ by [Savi Sharma](https://www.goodreads.com/author/show/14425066.Savi_Sharma)
 
 by [Chetan Bhagat](https://www.goodreads.com/author/show/61124.Chetan_Bhagat)
 
-[![Twilight](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1361039443l/41865._SX98_.jpg)](https://www.goodreads.com/review/show/2476810380?utm_medium=api&utm_source=custom_widget "Twilight (Twilight, #1)")
+[![Twilight](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039443l/41865._SX98_.jpg)](https://www.goodreads.com/review/show/2476810380?utm_medium=api&utm_source=custom_widget "Twilight (Twilight, #1)")
 
 ![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -186,7 +186,7 @@ by [Chetan Bhagat](https://www.goodreads.com/author/show/61124.Chetan_Bhagat)
 
 by [Stephenie Meyer](https://www.goodreads.com/author/show/941441.Stephenie_Meyer)
 
-[![Dork: The Incredible Adventures of Robin 'Einstein' Varghese](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1266039043l/7725244._SX98_.jpg)](https://www.goodreads.com/review/show/1903287993?utm_medium=api&utm_source=custom_widget "Dork: The Incredible Adventures of Robin 'Einstein' Varghese (Dork Trilogy, #1)")
+[![Dork: The Incredible Adventures of Robin 'Einstein' Varghese](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266039043l/7725244._SX98_.jpg)](https://www.goodreads.com/review/show/1903287993?utm_medium=api&utm_source=custom_widget "Dork: The Incredible Adventures of Robin 'Einstein' Varghese (Dork Trilogy, #1)")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -194,7 +194,7 @@ by [Stephenie Meyer](https://www.goodreads.com/author/show/941441.Stephenie_Meye
 
 by [Sidin Vadukut](https://www.goodreads.com/author/show/3372872.Sidin_Vadukut)
 
-[![The Watchman](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1442928221l/57951._SX98_.jpg)](https://www.goodreads.com/review/show/1903278623?utm_medium=api&utm_source=custom_widget "The Watchman (Elvis Cole, #11; Joe Pike, #1)")
+[![The Watchman](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442928221l/57951._SX98_.jpg)](https://www.goodreads.com/review/show/1903278623?utm_medium=api&utm_source=custom_widget "The Watchman (Elvis Cole, #11; Joe Pike, #1)")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -202,7 +202,7 @@ by [Sidin Vadukut](https://www.goodreads.com/author/show/3372872.Sidin_Vadukut)
 
 by [Robert Crais](https://www.goodreads.com/author/show/8944.Robert_Crais)
 
-[![The Man-Eater of Malgudi](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1395001437l/676921._SX98_.jpg)](https://www.goodreads.com/review/show/1903270079?utm_medium=api&utm_source=custom_widget "The Man-Eater of Malgudi")
+[![The Man-Eater of Malgudi](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395001437l/676921._SX98_.jpg)](https://www.goodreads.com/review/show/1903270079?utm_medium=api&utm_source=custom_widget "The Man-Eater of Malgudi")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -210,7 +210,7 @@ by [Robert Crais](https://www.goodreads.com/author/show/8944.Robert_Crais)
 
 by [R.K. Narayan](https://www.goodreads.com/author/show/1305302.R_K_Narayan)
 
-[![The Sucker Punch](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1260508515l/921825._SX98_.jpg)](https://www.goodreads.com/review/show/1903286446?utm_medium=api&utm_source=custom_widget "The Sucker Punch")
+[![The Sucker Punch](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1260508515l/921825._SX98_.jpg)](https://www.goodreads.com/review/show/1903286446?utm_medium=api&utm_source=custom_widget "The Sucker Punch")
 
 ![it was amazing](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)
 
@@ -218,7 +218,7 @@ by [R.K. Narayan](https://www.goodreads.com/author/show/1305302.R_K_Narayan)
 
 by [James Hadley Chase](https://www.goodreads.com/author/show/63913.James_Hadley_Chase)
 
-[![The A.B.C. Murders](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1389733983l/16322._SX98_.jpg)](https://www.goodreads.com/review/show/1903285583?utm_medium=api&utm_source=custom_widget "The A.B.C. Murders (Hercule Poirot, #13)")
+[![The A.B.C. Murders](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389733983l/16322._SX98_.jpg)](https://www.goodreads.com/review/show/1903285583?utm_medium=api&utm_source=custom_widget "The A.B.C. Murders (Hercule Poirot, #13)")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -226,7 +226,7 @@ by [James Hadley Chase](https://www.goodreads.com/author/show/63913.James_Hadley
 
 by [Agatha Christie](https://www.goodreads.com/author/show/123715.Agatha_Christie)
 
-[![Airframe](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1405420599l/7667._SX98_.jpg)](https://www.goodreads.com/review/show/1903278792?utm_medium=api&utm_source=custom_widget "Airframe")
+[![Airframe](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405420599l/7667._SX98_.jpg)](https://www.goodreads.com/review/show/1903278792?utm_medium=api&utm_source=custom_widget "Airframe")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -234,7 +234,7 @@ by [Agatha Christie](https://www.goodreads.com/author/show/123715.Agatha_Christi
 
 by [Michael Crichton](https://www.goodreads.com/author/show/5194.Michael_Crichton)
 
-[![Tell Me Your Dreams](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1390331844l/43326._SX98_.jpg)](https://www.goodreads.com/review/show/1903279018?utm_medium=api&utm_source=custom_widget "Tell Me Your Dreams")
+[![Tell Me Your Dreams](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390331844l/43326._SX98_.jpg)](https://www.goodreads.com/review/show/1903279018?utm_medium=api&utm_source=custom_widget "Tell Me Your Dreams")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -242,7 +242,7 @@ by [Michael Crichton](https://www.goodreads.com/author/show/5194.Michael_Crichto
 
 by [Sidney Sheldon](https://www.goodreads.com/author/show/9068.Sidney_Sheldon)
 
-[![Mutation](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1174296950l/377367._SY160_.jpg)](https://www.goodreads.com/review/show/1903275026?utm_medium=api&utm_source=custom_widget "Mutation")
+[![Mutation](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1174296950l/377367._SY160_.jpg)](https://www.goodreads.com/review/show/1903275026?utm_medium=api&utm_source=custom_widget "Mutation")
 
 ![it was amazing](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)
 
@@ -250,7 +250,7 @@ by [Sidney Sheldon](https://www.goodreads.com/author/show/9068.Sidney_Sheldon)
 
 by [Robin Cook](https://www.goodreads.com/author/show/19697.Robin_Cook)
 
-[![The Financial Expert](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1328872386l/344676._SX98_.jpg)](https://www.goodreads.com/review/show/1903269619?utm_medium=api&utm_source=custom_widget "The Financial Expert")
+[![The Financial Expert](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328872386l/344676._SX98_.jpg)](https://www.goodreads.com/review/show/1903269619?utm_medium=api&utm_source=custom_widget "The Financial Expert")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -258,7 +258,7 @@ by [Robin Cook](https://www.goodreads.com/author/show/19697.Robin_Cook)
 
 by [R.K. Narayan](https://www.goodreads.com/author/show/1305302.R_K_Narayan)
 
-[![Gandhi: An autobiography](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1320560971l/112803._SX98_.jpg)](https://www.goodreads.com/review/show/1903274261?utm_medium=api&utm_source=custom_widget "Gandhi: An autobiography")
+[![Gandhi: An autobiography](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320560971l/112803._SX98_.jpg)](https://www.goodreads.com/review/show/1903274261?utm_medium=api&utm_source=custom_widget "Gandhi: An autobiography")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -266,7 +266,7 @@ by [R.K. Narayan](https://www.goodreads.com/author/show/1305302.R_K_Narayan)
 
 by [Mahatma Gandhi](https://www.goodreads.com/author/show/5810891.Mahatma_Gandhi)
 
-[![The White Tiger](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1347754998l/1768603._SX98_.jpg)](https://www.goodreads.com/review/show/1903285407?utm_medium=api&utm_source=custom_widget "The White Tiger")
+[![The White Tiger](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347754998l/1768603._SX98_.jpg)](https://www.goodreads.com/review/show/1903285407?utm_medium=api&utm_source=custom_widget "The White Tiger")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -274,7 +274,7 @@ by [Mahatma Gandhi](https://www.goodreads.com/author/show/5810891.Mahatma_Gandhi
 
 by [Aravind Adiga](https://www.goodreads.com/author/show/810254.Aravind_Adiga)
 
-[![The Stars Shine Down](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1348909433l/84054._SY160_.jpg)](https://www.goodreads.com/review/show/1903283583?utm_medium=api&utm_source=custom_widget "The Stars Shine Down")
+[![The Stars Shine Down](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348909433l/84054._SY160_.jpg)](https://www.goodreads.com/review/show/1903283583?utm_medium=api&utm_source=custom_widget "The Stars Shine Down")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -282,7 +282,7 @@ by [Aravind Adiga](https://www.goodreads.com/author/show/810254.Aravind_Adiga)
 
 by [Sidney Sheldon](https://www.goodreads.com/author/show/9068.Sidney_Sheldon)
 
-[![The Murder on the Links](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1384562979l/639787._SY160_.jpg)](https://www.goodreads.com/review/show/1903286207?utm_medium=api&utm_source=custom_widget "The Murder on the Links (Hercule Poirot, #2)")
+[![The Murder on the Links](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384562979l/639787._SY160_.jpg)](https://www.goodreads.com/review/show/1903286207?utm_medium=api&utm_source=custom_widget "The Murder on the Links (Hercule Poirot, #2)")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -290,7 +290,7 @@ by [Sidney Sheldon](https://www.goodreads.com/author/show/9068.Sidney_Sheldon)
 
 by [Agatha Christie](https://www.goodreads.com/author/show/123715.Agatha_Christie)
 
-[![Invasion](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1309286764l/947964._SX98_.jpg)](https://www.goodreads.com/review/show/1903276122?utm_medium=api&utm_source=custom_widget "Invasion")
+[![Invasion](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309286764l/947964._SX98_.jpg)](https://www.goodreads.com/review/show/1903276122?utm_medium=api&utm_source=custom_widget "Invasion")
 
 ![it was ok](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -298,7 +298,7 @@ by [Agatha Christie](https://www.goodreads.com/author/show/123715.Agatha_Christi
 
 by [Robin Cook](https://www.goodreads.com/author/show/19697.Robin_Cook)
 
-[![Murder on the Orient Express](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1388267702l/16304._SY160_.jpg)](https://www.goodreads.com/review/show/1903285721?utm_medium=api&utm_source=custom_widget "Murder on the Orient Express (Hercule Poirot, #10)")
+[![Murder on the Orient Express](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388267702l/16304._SY160_.jpg)](https://www.goodreads.com/review/show/1903285721?utm_medium=api&utm_source=custom_widget "Murder on the Orient Express (Hercule Poirot, #10)")
 
 ![it was amazing](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)
 
@@ -306,7 +306,7 @@ by [Robin Cook](https://www.goodreads.com/author/show/19697.Robin_Cook)
 
 by [Agatha Christie](https://www.goodreads.com/author/show/123715.Agatha_Christie)
 
-[![Mindbend](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1319230603l/66472._SY160_.jpg)](https://www.goodreads.com/review/show/1903275452?utm_medium=api&utm_source=custom_widget "Mindbend")
+[![Mindbend](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319230603l/66472._SY160_.jpg)](https://www.goodreads.com/review/show/1903275452?utm_medium=api&utm_source=custom_widget "Mindbend")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -314,7 +314,7 @@ by [Agatha Christie](https://www.goodreads.com/author/show/123715.Agatha_Christi
 
 by [Robin Cook](https://www.goodreads.com/author/show/19697.Robin_Cook)
 
-[![The Good Earth](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1312497600l/1078._SX98_.jpg)](https://www.goodreads.com/review/show/1903274067?utm_medium=api&utm_source=custom_widget "The Good Earth (House of Earth, #1)")
+[![The Good Earth](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312497600l/1078._SX98_.jpg)](https://www.goodreads.com/review/show/1903274067?utm_medium=api&utm_source=custom_widget "The Good Earth (House of Earth, #1)")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -322,7 +322,7 @@ by [Robin Cook](https://www.goodreads.com/author/show/19697.Robin_Cook)
 
 by [Pearl S. Buck](https://www.goodreads.com/author/show/704.Pearl_S_Buck)
 
-[![Malgudi Days](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1455574981l/14082._SX98_.jpg)](https://www.goodreads.com/review/show/1903269422?utm_medium=api&utm_source=custom_widget "Malgudi Days")
+[![Malgudi Days](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455574981l/14082._SX98_.jpg)](https://www.goodreads.com/review/show/1903269422?utm_medium=api&utm_source=custom_widget "Malgudi Days")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -330,7 +330,7 @@ by [Pearl S. Buck](https://www.goodreads.com/author/show/704.Pearl_S_Buck)
 
 by [R.K. Narayan](https://www.goodreads.com/author/show/1305302.R_K_Narayan)
 
-[![The Bone Collector](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1437538512l/2373._SY160_.jpg)](https://www.goodreads.com/review/show/1903288880?utm_medium=api&utm_source=custom_widget "The Bone Collector (Lincoln Rhyme, #1)")
+[![The Bone Collector](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437538512l/2373._SY160_.jpg)](https://www.goodreads.com/review/show/1903288880?utm_medium=api&utm_source=custom_widget "The Bone Collector (Lincoln Rhyme, #1)")
 
 ![it was amazing](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)
 
@@ -338,7 +338,7 @@ by [R.K. Narayan](https://www.goodreads.com/author/show/1305302.R_K_Narayan)
 
 by [Jeffery Deaver](https://www.goodreads.com/author/show/1612.Jeffery_Deaver)
 
-[![Diary of a Wimpy Kid](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1388183826l/389627._SX98_.jpg)](https://www.goodreads.com/review/show/1903284022?utm_medium=api&utm_source=custom_widget "Diary of a Wimpy Kid (Diary of a Wimpy Kid, #1)")
+[![Diary of a Wimpy Kid](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388183826l/389627._SX98_.jpg)](https://www.goodreads.com/review/show/1903284022?utm_medium=api&utm_source=custom_widget "Diary of a Wimpy Kid (Diary of a Wimpy Kid, #1)")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -346,7 +346,7 @@ by [Jeffery Deaver](https://www.goodreads.com/author/show/1612.Jeffery_Deaver)
 
 by [Jeff Kinney](https://www.goodreads.com/author/show/221559.Jeff_Kinney)
 
-[![Vital Signs](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1315514913l/85440._SX98_.jpg)](https://www.goodreads.com/review/show/1903275638?utm_medium=api&utm_source=custom_widget "Vital Signs (Dr. Marissa Blumenthal, #2)")
+[![Vital Signs](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315514913l/85440._SX98_.jpg)](https://www.goodreads.com/review/show/1903275638?utm_medium=api&utm_source=custom_widget "Vital Signs (Dr. Marissa Blumenthal, #2)")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -354,7 +354,7 @@ by [Jeff Kinney](https://www.goodreads.com/author/show/221559.Jeff_Kinney)
 
 by [Robin Cook](https://www.goodreads.com/author/show/19697.Robin_Cook)
 
-[![Coolie](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1328038706l/526024._SX98_.jpg)](https://www.goodreads.com/review/show/1903274592?utm_medium=api&utm_source=custom_widget "Coolie")
+[![Coolie](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328038706l/526024._SX98_.jpg)](https://www.goodreads.com/review/show/1903274592?utm_medium=api&utm_source=custom_widget "Coolie")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -362,7 +362,7 @@ by [Robin Cook](https://www.goodreads.com/author/show/19697.Robin_Cook)
 
 by [Mulk Raj Anand](https://www.goodreads.com/author/show/90.Mulk_Raj_Anand)
 
-[![Breaking Dawn](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1361039438l/1162543._SX98_.jpg)](https://www.goodreads.com/review/show/1903277038?utm_medium=api&utm_source=custom_widget "Breaking Dawn (Twilight, #4)")
+[![Breaking Dawn](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039438l/1162543._SX98_.jpg)](https://www.goodreads.com/review/show/1903277038?utm_medium=api&utm_source=custom_widget "Breaking Dawn (Twilight, #4)")
 
 ![it was ok](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -370,7 +370,7 @@ by [Mulk Raj Anand](https://www.goodreads.com/author/show/90.Mulk_Raj_Anand)
 
 by [Stephenie Meyer](https://www.goodreads.com/author/show/941441.Stephenie_Meyer)
 
-[![The Da Vinci Code](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1579621267l/968._SX98_.jpg)](https://www.goodreads.com/review/show/1903270685?utm_medium=api&utm_source=custom_widget "The Da Vinci Code (Robert Langdon, #2)")
+[![The Da Vinci Code](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579621267l/968._SX98_.jpg)](https://www.goodreads.com/review/show/1903270685?utm_medium=api&utm_source=custom_widget "The Da Vinci Code (Robert Langdon, #2)")
 
 ![it was amazing](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)
 
@@ -378,7 +378,7 @@ by [Stephenie Meyer](https://www.goodreads.com/author/show/941441.Stephenie_Meye
 
 by [Dan Brown](https://www.goodreads.com/author/show/630.Dan_Brown)
 
-[![Rodrick Rules](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1360095964l/1809465._SX98_.jpg)](https://www.goodreads.com/review/show/1903284999?utm_medium=api&utm_source=custom_widget "Rodrick Rules (Diary of a Wimpy Kid, #2)")
+[![Rodrick Rules](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360095964l/1809465._SX98_.jpg)](https://www.goodreads.com/review/show/1903284999?utm_medium=api&utm_source=custom_widget "Rodrick Rules (Diary of a Wimpy Kid, #2)")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -386,7 +386,7 @@ by [Dan Brown](https://www.goodreads.com/author/show/630.Dan_Brown)
 
 by [Jeff Kinney](https://www.goodreads.com/author/show/221559.Jeff_Kinney)
 
-[![And Then There Were None](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1398074125l/21956155._SX98_.jpg)](https://www.goodreads.com/review/show/1903265191?utm_medium=api&utm_source=custom_widget "And Then There Were None")
+[![And Then There Were None](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398074125l/21956155._SX98_.jpg)](https://www.goodreads.com/review/show/1903265191?utm_medium=api&utm_source=custom_widget "And Then There Were None")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -394,7 +394,7 @@ by [Jeff Kinney](https://www.goodreads.com/author/show/221559.Jeff_Kinney)
 
 by [Agatha Christie](https://www.goodreads.com/author/show/123715.Agatha_Christie)
 
-[![Deception Point](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1551277487l/976._SX98_.jpg)](https://www.goodreads.com/review/show/1903272259?utm_medium=api&utm_source=custom_widget "Deception Point")
+[![Deception Point](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551277487l/976._SX98_.jpg)](https://www.goodreads.com/review/show/1903272259?utm_medium=api&utm_source=custom_widget "Deception Point")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -402,7 +402,7 @@ by [Agatha Christie](https://www.goodreads.com/author/show/123715.Agatha_Christi
 
 by [Dan Brown](https://www.goodreads.com/author/show/630.Dan_Brown)
 
-[![Think Like Da Vinci: 7 Easy Steps to Boosting Your Everyday Genius](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1348060959l/8083765._SX98_.jpg)](https://www.goodreads.com/review/show/1903287577?utm_medium=api&utm_source=custom_widget "Think Like Da Vinci: 7 Easy Steps to Boosting Your Everyday Genius")
+[![Think Like Da Vinci: 7 Easy Steps to Boosting Your Everyday Genius](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348060959l/8083765._SX98_.jpg)](https://www.goodreads.com/review/show/1903287577?utm_medium=api&utm_source=custom_widget "Think Like Da Vinci: 7 Easy Steps to Boosting Your Everyday Genius")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -410,7 +410,7 @@ by [Dan Brown](https://www.goodreads.com/author/show/630.Dan_Brown)
 
 by [Michael J. Gelb](https://www.goodreads.com/author/show/8426.Michael_J_Gelb)
 
-[![The Devil and Miss Prym](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1359082264l/4008._SX98_.jpg)](https://www.goodreads.com/review/show/1903272493?utm_medium=api&utm_source=custom_widget "The Devil and Miss Prym (On the Seventh Day, #3)")
+[![The Devil and Miss Prym](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359082264l/4008._SX98_.jpg)](https://www.goodreads.com/review/show/1903272493?utm_medium=api&utm_source=custom_widget "The Devil and Miss Prym (On the Seventh Day, #3)")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -418,7 +418,7 @@ by [Michael J. Gelb](https://www.goodreads.com/author/show/8426.Michael_J_Gelb)
 
 by [Paulo Coelho](https://www.goodreads.com/author/show/566.Paulo_Coelho)
 
-[![Twisted: The Collected Short Stories](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1388375399l/28567._SY160_.jpg)](https://www.goodreads.com/review/show/1903289374?utm_medium=api&utm_source=custom_widget "Twisted: The Collected Short Stories")
+[![Twisted: The Collected Short Stories](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388375399l/28567._SY160_.jpg)](https://www.goodreads.com/review/show/1903289374?utm_medium=api&utm_source=custom_widget "Twisted: The Collected Short Stories")
 
 ![it was amazing](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)
 
@@ -426,7 +426,7 @@ by [Paulo Coelho](https://www.goodreads.com/author/show/566.Paulo_Coelho)
 
 by [Jeffery Deaver](https://www.goodreads.com/author/show/1612.Jeffery_Deaver)
 
-[![Brida](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1403772793l/68591._SX98_.jpg)](https://www.goodreads.com/review/show/1903272969?utm_medium=api&utm_source=custom_widget "Brida")
+[![Brida](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403772793l/68591._SX98_.jpg)](https://www.goodreads.com/review/show/1903272969?utm_medium=api&utm_source=custom_widget "Brida")
 
 ![it was ok](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -434,7 +434,7 @@ by [Jeffery Deaver](https://www.goodreads.com/author/show/1612.Jeffery_Deaver)
 
 by [Paulo Coelho](https://www.goodreads.com/author/show/566.Paulo_Coelho)
 
-[![A Thousand Splendid Suns](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1345958969l/128029._SX98_.jpg)](https://www.goodreads.com/review/show/1903273386?utm_medium=api&utm_source=custom_widget "A Thousand Splendid Suns")
+[![A Thousand Splendid Suns](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345958969l/128029._SX98_.jpg)](https://www.goodreads.com/review/show/1903273386?utm_medium=api&utm_source=custom_widget "A Thousand Splendid Suns")
 
 ![it was amazing](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)
 
@@ -442,7 +442,7 @@ by [Paulo Coelho](https://www.goodreads.com/author/show/566.Paulo_Coelho)
 
 by [Khaled Hosseini](https://www.goodreads.com/author/show/569.Khaled_Hosseini)
 
-[![Vector](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1392095151l/377347._SX98_.jpg)](https://www.goodreads.com/review/show/1903275312?utm_medium=api&utm_source=custom_widget "Vector (Jack Stapleton & Laurie Montgomery, #4)")
+[![Vector](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392095151l/377347._SX98_.jpg)](https://www.goodreads.com/review/show/1903275312?utm_medium=api&utm_source=custom_widget "Vector (Jack Stapleton & Laurie Montgomery, #4)")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -450,7 +450,7 @@ by [Khaled Hosseini](https://www.goodreads.com/author/show/569.Khaled_Hosseini)
 
 by [Robin Cook](https://www.goodreads.com/author/show/19697.Robin_Cook)
 
-[![The Last Straw](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1350396036l/3293821._SX98_.jpg)](https://www.goodreads.com/review/show/1903285154?utm_medium=api&utm_source=custom_widget "The Last Straw (Diary of a Wimpy Kid, #3)")
+[![The Last Straw](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350396036l/3293821._SX98_.jpg)](https://www.goodreads.com/review/show/1903285154?utm_medium=api&utm_source=custom_widget "The Last Straw (Diary of a Wimpy Kid, #3)")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -458,7 +458,7 @@ by [Robin Cook](https://www.goodreads.com/author/show/19697.Robin_Cook)
 
 by [Jeff Kinney](https://www.goodreads.com/author/show/221559.Jeff_Kinney)
 
-[![Angels & Demons](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1558711679l/960._SY160_.jpg)](https://www.goodreads.com/review/show/1903272008?utm_medium=api&utm_source=custom_widget "Angels & Demons (Robert Langdon, #1)")
+[![Angels & Demons](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558711679l/960._SY160_.jpg)](https://www.goodreads.com/review/show/1903272008?utm_medium=api&utm_source=custom_widget "Angels & Demons (Robert Langdon, #1)")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -466,7 +466,7 @@ by [Jeff Kinney](https://www.goodreads.com/author/show/221559.Jeff_Kinney)
 
 by [Dan Brown](https://www.goodreads.com/author/show/630.Dan_Brown)
 
-[![The 3 Mistakes of My Life](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1216107646l/3320520._SX98_.jpg)](https://www.goodreads.com/review/show/1903276284?utm_medium=api&utm_source=custom_widget "The 3 Mistakes of My Life")
+[![The 3 Mistakes of My Life](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1216107646l/3320520._SX98_.jpg)](https://www.goodreads.com/review/show/1903276284?utm_medium=api&utm_source=custom_widget "The 3 Mistakes of My Life")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -474,7 +474,7 @@ by [Dan Brown](https://www.goodreads.com/author/show/630.Dan_Brown)
 
 by [Chetan Bhagat](https://www.goodreads.com/author/show/61124.Chetan_Bhagat)
 
-[![Seizure](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1388619992l/278795._SX98_.jpg)](https://www.goodreads.com/review/show/1903275815?utm_medium=api&utm_source=custom_widget "Seizure")
+[![Seizure](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388619992l/278795._SX98_.jpg)](https://www.goodreads.com/review/show/1903275815?utm_medium=api&utm_source=custom_widget "Seizure")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -482,7 +482,7 @@ by [Chetan Bhagat](https://www.goodreads.com/author/show/61124.Chetan_Bhagat)
 
 by [Robin Cook](https://www.goodreads.com/author/show/19697.Robin_Cook)
 
-[![The Sands of Time](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1356453253l/119382._SX98_.jpg)](https://www.goodreads.com/review/show/1903279489?utm_medium=api&utm_source=custom_widget "The Sands of Time")
+[![The Sands of Time](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356453253l/119382._SX98_.jpg)](https://www.goodreads.com/review/show/1903279489?utm_medium=api&utm_source=custom_widget "The Sands of Time")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -490,7 +490,7 @@ by [Robin Cook](https://www.goodreads.com/author/show/19697.Robin_Cook)
 
 by [Sidney Sheldon](https://www.goodreads.com/author/show/9068.Sidney_Sheldon)
 
-[![The Alchemist](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1483412266l/865._SX98_.jpg)](https://www.goodreads.com/review/show/1903272672?utm_medium=api&utm_source=custom_widget "The Alchemist")
+[![The Alchemist](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483412266l/865._SX98_.jpg)](https://www.goodreads.com/review/show/1903272672?utm_medium=api&utm_source=custom_widget "The Alchemist")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -498,7 +498,7 @@ by [Sidney Sheldon](https://www.goodreads.com/author/show/9068.Sidney_Sheldon)
 
 by [Paulo Coelho](https://www.goodreads.com/author/show/566.Paulo_Coelho)
 
-[![True Evil](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1433562939l/43992._SX98_.jpg)](https://www.goodreads.com/review/show/1903277239?utm_medium=api&utm_source=custom_widget "True Evil")
+[![True Evil](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433562939l/43992._SX98_.jpg)](https://www.goodreads.com/review/show/1903277239?utm_medium=api&utm_source=custom_widget "True Evil")
 
 ![it was amazing](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)
 
@@ -506,7 +506,7 @@ by [Paulo Coelho](https://www.goodreads.com/author/show/566.Paulo_Coelho)
 
 by [Greg Iles](https://www.goodreads.com/author/show/19696.Greg_Iles)
 
-[![The Lost Symbol](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1534070883l/6411961._SX98_.jpg)](https://www.goodreads.com/review/show/1903271868?utm_medium=api&utm_source=custom_widget "The Lost Symbol (Robert Langdon, #3)")
+[![The Lost Symbol](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534070883l/6411961._SX98_.jpg)](https://www.goodreads.com/review/show/1903271868?utm_medium=api&utm_source=custom_widget "The Lost Symbol (Robert Langdon, #3)")
 
 ![it was amazing](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)
 
@@ -514,7 +514,7 @@ by [Greg Iles](https://www.goodreads.com/author/show/19696.Greg_Iles)
 
 by [Dan Brown](https://www.goodreads.com/author/show/630.Dan_Brown)
 
-[![The Missing Rose](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1356138657l/17134620._SX98_.jpg)](https://www.goodreads.com/review/show/1903273111?utm_medium=api&utm_source=custom_widget "The Missing Rose")
+[![The Missing Rose](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138657l/17134620._SX98_.jpg)](https://www.goodreads.com/review/show/1903273111?utm_medium=api&utm_source=custom_widget "The Missing Rose")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -522,7 +522,7 @@ by [Dan Brown](https://www.goodreads.com/author/show/630.Dan_Brown)
 
 by [Serdar Özkan](https://www.goodreads.com/author/show/1974008.Serdar_zkan)
 
-[![Dog Days](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1388178896l/6578293._SX98_.jpg)](https://www.goodreads.com/review/show/1903283816?utm_medium=api&utm_source=custom_widget "Dog Days (Diary of a Wimpy Kid, #4)")
+[![Dog Days](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388178896l/6578293._SX98_.jpg)](https://www.goodreads.com/review/show/1903283816?utm_medium=api&utm_source=custom_widget "Dog Days (Diary of a Wimpy Kid, #4)")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -530,7 +530,7 @@ by [Serdar Özkan](https://www.goodreads.com/author/show/1974008.Serdar_zkan)
 
 by [Jeff Kinney](https://www.goodreads.com/author/show/221559.Jeff_Kinney)
 
-[![The Doomsday Conspiracy](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1408853925l/106646.jpg)](https://www.goodreads.com/review/show/1903279215?utm_medium=api&utm_source=custom_widget "The Doomsday Conspiracy")
+[![The Doomsday Conspiracy](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408853925l/106646.jpg)](https://www.goodreads.com/review/show/1903279215?utm_medium=api&utm_source=custom_widget "The Doomsday Conspiracy")
 
 ![it was ok](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -538,7 +538,7 @@ by [Jeff Kinney](https://www.goodreads.com/author/show/221559.Jeff_Kinney)
 
 by [Sidney Sheldon](https://www.goodreads.com/author/show/9068.Sidney_Sheldon)
 
-[![Rework](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1391275636l/6732019._SX98_.jpg)](https://www.goodreads.com/review/show/1903306063?utm_medium=api&utm_source=custom_widget "Rework")
+[![Rework](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391275636l/6732019._SX98_.jpg)](https://www.goodreads.com/review/show/1903306063?utm_medium=api&utm_source=custom_widget "Rework")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -546,7 +546,7 @@ by [Sidney Sheldon](https://www.goodreads.com/author/show/9068.Sidney_Sheldon)
 
 by [Jason Fried](https://www.goodreads.com/author/show/60619.Jason_Fried)
 
-[![Chicken Soup for the Soul: Extraordinary Teens: Personal Stories and Advice from Today's Most Inspiring Youth](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1348523354l/6777985._SX98_.jpg)](https://www.goodreads.com/review/show/1903287057?utm_medium=api&utm_source=custom_widget "Chicken Soup for the Soul: Extraordinary Teens: Personal Stories and Advice from Today's Most Inspiring Youth")
+[![Chicken Soup for the Soul: Extraordinary Teens: Personal Stories and Advice from Today's Most Inspiring Youth](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348523354l/6777985._SX98_.jpg)](https://www.goodreads.com/review/show/1903287057?utm_medium=api&utm_source=custom_widget "Chicken Soup for the Soul: Extraordinary Teens: Personal Stories and Advice from Today's Most Inspiring Youth")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -554,7 +554,7 @@ by [Jason Fried](https://www.goodreads.com/author/show/60619.Jason_Fried)
 
 by [Jack Canfield](https://www.goodreads.com/author/show/35476.Jack_Canfield)
 
-[![The Theory of Everything: The Origin and Fate of the Universe](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1415359670l/449573._SX98_.jpg)](https://www.goodreads.com/review/show/1903286867?utm_medium=api&utm_source=custom_widget "The Theory of Everything: The Origin and Fate of the Universe")
+[![The Theory of Everything: The Origin and Fate of the Universe](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415359670l/449573._SX98_.jpg)](https://www.goodreads.com/review/show/1903286867?utm_medium=api&utm_source=custom_widget "The Theory of Everything: The Origin and Fate of the Universe")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -562,7 +562,7 @@ by [Jack Canfield](https://www.goodreads.com/author/show/35476.Jack_Canfield)
 
 by [Stephen Hawking](https://www.goodreads.com/author/show/1401.Stephen_Hawking)
 
-[![The Ugly Truth](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1540918294l/7823678._SX98_.jpg)](https://www.goodreads.com/review/show/1903305669?utm_medium=api&utm_source=custom_widget "The Ugly Truth (Diary of a Wimpy Kid, #5)")
+[![The Ugly Truth](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540918294l/7823678._SX98_.jpg)](https://www.goodreads.com/review/show/1903305669?utm_medium=api&utm_source=custom_widget "The Ugly Truth (Diary of a Wimpy Kid, #5)")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -570,7 +570,7 @@ by [Stephen Hawking](https://www.goodreads.com/author/show/1401.Stephen_Hawking)
 
 by [Jeff Kinney](https://www.goodreads.com/author/show/221559.Jeff_Kinney)
 
-[![Mr. Sampath--the Printer of Malgudi](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1328872385l/1032130._SX98_.jpg)](https://www.goodreads.com/review/show/1903269911?utm_medium=api&utm_source=custom_widget "Mr. Sampath--the Printer of Malgudi")
+[![Mr. Sampath--the Printer of Malgudi](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328872385l/1032130._SX98_.jpg)](https://www.goodreads.com/review/show/1903269911?utm_medium=api&utm_source=custom_widget "Mr. Sampath--the Printer of Malgudi")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -578,7 +578,7 @@ by [Jeff Kinney](https://www.goodreads.com/author/show/221559.Jeff_Kinney)
 
 by [R.K. Narayan](https://www.goodreads.com/author/show/1305302.R_K_Narayan)
 
-[![One Night at the Call Centre](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1330756152l/105579._SX98_.jpg)](https://www.goodreads.com/review/show/1903276651?utm_medium=api&utm_source=custom_widget "One Night at the Call Centre")
+[![One Night at the Call Centre](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330756152l/105579._SX98_.jpg)](https://www.goodreads.com/review/show/1903276651?utm_medium=api&utm_source=custom_widget "One Night at the Call Centre")
 
 ![did not like it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -586,7 +586,7 @@ by [R.K. Narayan](https://www.goodreads.com/author/show/1305302.R_K_Narayan)
 
 by [Chetan Bhagat](https://www.goodreads.com/author/show/61124.Chetan_Bhagat)
 
-[![The Secret Letters of the Monk Who Sold His Ferrari](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1342338948l/10695150._SX98_.jpg)](https://www.goodreads.com/review/show/1903273909?utm_medium=api&utm_source=custom_widget "The Secret Letters of the Monk Who Sold His Ferrari")
+[![The Secret Letters of the Monk Who Sold His Ferrari](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342338948l/10695150._SX98_.jpg)](https://www.goodreads.com/review/show/1903273909?utm_medium=api&utm_source=custom_widget "The Secret Letters of the Monk Who Sold His Ferrari")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -594,7 +594,7 @@ by [Chetan Bhagat](https://www.goodreads.com/author/show/61124.Chetan_Bhagat)
 
 by [Robin S. Sharma](https://www.goodreads.com/author/show/24678.Robin_S_Sharma)
 
-[![Cabin Fever](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1350396037l/11254250._SX98_.jpg)](https://www.goodreads.com/review/show/1903284201?utm_medium=api&utm_source=custom_widget "Cabin Fever (Diary of a Wimpy Kid, #6)")
+[![Cabin Fever](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350396037l/11254250._SX98_.jpg)](https://www.goodreads.com/review/show/1903284201?utm_medium=api&utm_source=custom_widget "Cabin Fever (Diary of a Wimpy Kid, #6)")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -602,7 +602,7 @@ by [Robin S. Sharma](https://www.goodreads.com/author/show/24678.Robin_S_Sharma)
 
 by [Jeff Kinney](https://www.goodreads.com/author/show/221559.Jeff_Kinney)
 
-[![Sidney Sheldon's Angel of the Dark](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1347985136l/12337186._SX98_.jpg)](https://www.goodreads.com/review/show/1903279778?utm_medium=api&utm_source=custom_widget "Sidney Sheldon's Angel of the Dark")
+[![Sidney Sheldon's Angel of the Dark](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347985136l/12337186._SX98_.jpg)](https://www.goodreads.com/review/show/1903279778?utm_medium=api&utm_source=custom_widget "Sidney Sheldon's Angel of the Dark")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -610,7 +610,7 @@ by [Jeff Kinney](https://www.goodreads.com/author/show/221559.Jeff_Kinney)
 
 by [Tilly Bagshawe](https://www.goodreads.com/author/show/299381.Tilly_Bagshawe)
 
-[![Revolution 2020: Love, Corruption, Ambition](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1317964666l/12615008._SX98_.jpg)](https://www.goodreads.com/review/show/1903276785?utm_medium=api&utm_source=custom_widget "Revolution 2020: Love, Corruption, Ambition")
+[![Revolution 2020: Love, Corruption, Ambition](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317964666l/12615008._SX98_.jpg)](https://www.goodreads.com/review/show/1903276785?utm_medium=api&utm_source=custom_widget "Revolution 2020: Love, Corruption, Ambition")
 
 ![did not like it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -618,7 +618,7 @@ by [Tilly Bagshawe](https://www.goodreads.com/author/show/299381.Tilly_Bagshawe)
 
 by [Chetan Bhagat](https://www.goodreads.com/author/show/61124.Chetan_Bhagat)
 
-[![God Save the Dork](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1471785835l/12865589._SX98_.jpg)](https://www.goodreads.com/review/show/1903288486?utm_medium=api&utm_source=custom_widget "God Save the Dork (Dork Trilogy, #2)")
+[![God Save the Dork](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471785835l/12865589._SX98_.jpg)](https://www.goodreads.com/review/show/1903288486?utm_medium=api&utm_source=custom_widget "God Save the Dork (Dork Trilogy, #2)")
 
 ![it was ok](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -626,7 +626,7 @@ by [Chetan Bhagat](https://www.goodreads.com/author/show/61124.Chetan_Bhagat)
 
 by [Sidin Vadukut](https://www.goodreads.com/author/show/3372872.Sidin_Vadukut)
 
-[![The Third Wheel](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1366229038l/13563669._SX98_.jpg)](https://www.goodreads.com/review/show/1903284715?utm_medium=api&utm_source=custom_widget "The Third Wheel (Diary of a Wimpy Kid, #7)")
+[![The Third Wheel](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366229038l/13563669._SX98_.jpg)](https://www.goodreads.com/review/show/1903284715?utm_medium=api&utm_source=custom_widget "The Third Wheel (Diary of a Wimpy Kid, #7)")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -634,7 +634,7 @@ by [Sidin Vadukut](https://www.goodreads.com/author/show/3372872.Sidin_Vadukut)
 
 by [Jeff Kinney](https://www.goodreads.com/author/show/221559.Jeff_Kinney)
 
-[![Assassin's Creed: Forsaken](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1342817145l/13589148._SX98_.jpg)](https://www.goodreads.com/review/show/1903288706?utm_medium=api&utm_source=custom_widget "Assassin's Creed: Forsaken (Assassin's Creed, #5)")
+[![Assassin's Creed: Forsaken](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342817145l/13589148._SX98_.jpg)](https://www.goodreads.com/review/show/1903288706?utm_medium=api&utm_source=custom_widget "Assassin's Creed: Forsaken (Assassin's Creed, #5)")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -642,7 +642,7 @@ by [Jeff Kinney](https://www.goodreads.com/author/show/221559.Jeff_Kinney)
 
 by [Oliver Bowden](https://www.goodreads.com/author/show/3174636.Oliver_Bowden)
 
-[![How I Braved Anu Aunty & Co-Founded A Million Dollar Company](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1337926567l/14347714._SX98_.jpg)](https://www.goodreads.com/review/show/1903287344?utm_medium=api&utm_source=custom_widget "How I Braved Anu Aunty & Co-Founded A Million Dollar Company")
+[![How I Braved Anu Aunty & Co-Founded A Million Dollar Company](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337926567l/14347714._SX98_.jpg)](https://www.goodreads.com/review/show/1903287344?utm_medium=api&utm_source=custom_widget "How I Braved Anu Aunty & Co-Founded A Million Dollar Company")
 
 ![it was ok](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -650,7 +650,7 @@ by [Oliver Bowden](https://www.goodreads.com/author/show/3174636.Oliver_Bowden)
 
 by [Varun Agarwal](https://www.goodreads.com/author/show/5815969.Varun_Agarwal)
 
-[![Who Let The Dork Out?](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1350204288l/16085062._SX98_.jpg)](https://www.goodreads.com/review/show/1903288239?utm_medium=api&utm_source=custom_widget "Who Let The Dork Out? (Dork Trilogy, #3)")
+[![Who Let The Dork Out?](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350204288l/16085062._SX98_.jpg)](https://www.goodreads.com/review/show/1903288239?utm_medium=api&utm_source=custom_widget "Who Let The Dork Out? (Dork Trilogy, #3)")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -658,7 +658,7 @@ by [Varun Agarwal](https://www.goodreads.com/author/show/5815969.Varun_Agarwal)
 
 by [Sidin Vadukut](https://www.goodreads.com/author/show/3372872.Sidin_Vadukut)
 
-[![Hard Luck](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1376473492l/17733898._SX98_.jpg)](https://www.goodreads.com/review/show/1903284547?utm_medium=api&utm_source=custom_widget "Hard Luck (Diary of a Wimpy Kid, #8)")
+[![Hard Luck](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376473492l/17733898._SX98_.jpg)](https://www.goodreads.com/review/show/1903284547?utm_medium=api&utm_source=custom_widget "Hard Luck (Diary of a Wimpy Kid, #8)")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -666,7 +666,7 @@ by [Sidin Vadukut](https://www.goodreads.com/author/show/3372872.Sidin_Vadukut)
 
 by [Jeff Kinney](https://www.goodreads.com/author/show/221559.Jeff_Kinney)
 
-[![Inferno](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1534070896l/17212231._SX98_.jpg)](https://www.goodreads.com/review/show/1903271176?utm_medium=api&utm_source=custom_widget "Inferno (Robert Langdon, #4)")
+[![Inferno](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534070896l/17212231._SX98_.jpg)](https://www.goodreads.com/review/show/1903271176?utm_medium=api&utm_source=custom_widget "Inferno (Robert Langdon, #4)")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -674,7 +674,7 @@ by [Jeff Kinney](https://www.goodreads.com/author/show/221559.Jeff_Kinney)
 
 by [Dan Brown](https://www.goodreads.com/author/show/630.Dan_Brown)
 
-[![Five Point Someone: What Not to Do at IIT](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1298571209l/105576._SX98_.jpg)](https://www.goodreads.com/review/show/1903276470?utm_medium=api&utm_source=custom_widget "Five Point Someone: What Not to Do at IIT")
+[![Five Point Someone: What Not to Do at IIT](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298571209l/105576._SX98_.jpg)](https://www.goodreads.com/review/show/1903276470?utm_medium=api&utm_source=custom_widget "Five Point Someone: What Not to Do at IIT")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -682,7 +682,7 @@ by [Dan Brown](https://www.goodreads.com/author/show/630.Dan_Brown)
 
 by [Chetan Bhagat](https://www.goodreads.com/author/show/61124.Chetan_Bhagat)
 
-[![The Old Man and the Sea](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1329189714l/2165._SX98_.jpg)](https://www.goodreads.com/review/show/1903285268?utm_medium=api&utm_source=custom_widget "The Old Man and the Sea")
+[![The Old Man and the Sea](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329189714l/2165._SX98_.jpg)](https://www.goodreads.com/review/show/1903285268?utm_medium=api&utm_source=custom_widget "The Old Man and the Sea")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -690,7 +690,7 @@ by [Chetan Bhagat](https://www.goodreads.com/author/show/61124.Chetan_Bhagat)
 
 by [Ernest Hemingway](https://www.goodreads.com/author/show/1455.Ernest_Hemingway)
 
-[![The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams and Reaching Your Destiny](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1388189325l/43877._SX98_.jpg)](https://www.goodreads.com/review/show/1903273778?utm_medium=api&utm_source=custom_widget "The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams and Reaching Your Destiny")
+[![The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams and Reaching Your Destiny](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388189325l/43877._SX98_.jpg)](https://www.goodreads.com/review/show/1903273778?utm_medium=api&utm_source=custom_widget "The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams and Reaching Your Destiny")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -698,7 +698,7 @@ by [Ernest Hemingway](https://www.goodreads.com/author/show/1455.Ernest_Hemingwa
 
 by [Robin S. Sharma](https://www.goodreads.com/author/show/24678.Robin_S_Sharma)
 
-[![Digital Fortress](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1360095966l/11125._SX98_.jpg)](https://www.goodreads.com/review/show/1903271346?utm_medium=api&utm_source=custom_widget "Digital Fortress")
+[![Digital Fortress](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360095966l/11125._SX98_.jpg)](https://www.goodreads.com/review/show/1903271346?utm_medium=api&utm_source=custom_widget "Digital Fortress")
 
 ![it was amazing](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)
 
@@ -706,7 +706,7 @@ by [Robin S. Sharma](https://www.goodreads.com/author/show/24678.Robin_S_Sharma)
 
 by [Dan Brown](https://www.goodreads.com/author/show/630.Dan_Brown)
 
-[![The Toilet of Doom](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1348700076l/1951413._SX98_.jpg)](https://www.goodreads.com/review/show/1903270265?utm_medium=api&utm_source=custom_widget "The Toilet of Doom (Jiggy McCue #3)")
+[![The Toilet of Doom](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348700076l/1951413._SX98_.jpg)](https://www.goodreads.com/review/show/1903270265?utm_medium=api&utm_source=custom_widget "The Toilet of Doom (Jiggy McCue #3)")
 
 ![did not like it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -714,7 +714,7 @@ by [Dan Brown](https://www.goodreads.com/author/show/630.Dan_Brown)
 
 by [Michael Lawrence](https://www.goodreads.com/author/show/14115493.Michael_Lawrence)
 
-[![The Contest](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1328868302l/24073._SX98_.jpg)](https://www.goodreads.com/review/show/1903274849?utm_medium=api&utm_source=custom_widget "The Contest (Everest, #1)")
+[![The Contest](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328868302l/24073._SX98_.jpg)](https://www.goodreads.com/review/show/1903274849?utm_medium=api&utm_source=custom_widget "The Contest (Everest, #1)")
 
 ![did not like it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -722,7 +722,7 @@ by [Michael Lawrence](https://www.goodreads.com/author/show/14115493.Michael_Law
 
 by [Gordon Korman](https://www.goodreads.com/author/show/2130.Gordon_Korman)
 
-[![Untouchable](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1386920526l/162._SX98_.jpg)](https://www.goodreads.com/review/show/1903274449?utm_medium=api&utm_source=custom_widget "Untouchable")
+[![Untouchable](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386920526l/162._SX98_.jpg)](https://www.goodreads.com/review/show/1903274449?utm_medium=api&utm_source=custom_widget "Untouchable")
 
 ![liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 
@@ -730,7 +730,7 @@ by [Gordon Korman](https://www.goodreads.com/author/show/2130.Gordon_Korman)
 
 by [Mulk Raj Anand](https://www.goodreads.com/author/show/90.Mulk_Raj_Anand)
 
-[![Curtain](https://i.gr-assets.com@assets/images/S/compressed.photo.goodreads.com/books/1386923108l/81903._SX98_.jpg)](https://www.goodreads.com/review/show/1903286005?utm_medium=api&utm_source=custom_widget "Curtain (Hercule Poirot, #42)")
+[![Curtain](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386923108l/81903._SX98_.jpg)](https://www.goodreads.com/review/show/1903286005?utm_medium=api&utm_source=custom_widget "Curtain (Hercule Poirot, #42)")
 
 ![really liked it](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_active.png)![](https://www.goodreads.com@assets/images/layout/gr_red_star_inactive.png)
 

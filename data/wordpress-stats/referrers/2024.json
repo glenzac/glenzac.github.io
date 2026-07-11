@@ -1,0 +1,697 @@
+{
+ "date": "2024-12-31",
+ "days": {
+  "2024-01-01": {
+   "groups": [
+    {
+     "group": "Search Engines",
+     "name": "Search Engines",
+     "icon": "https://wordpress.com/i/stats/search-engine.png",
+     "total": 7583,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "Google Search",
+       "icon": "https://secure.gravatar.com/blavatar/426d27def7eef69afd58ab5280173a02e50c3a2f9d0b9ebce3fb453a69af2b44?s=48",
+       "views": 7284,
+       "children": [
+        {
+         "name": "google.com",
+         "url": "http://www.google.com/",
+         "icon": null,
+         "views": 6986
+        },
+        {
+         "name": "google.co.in",
+         "url": "http://www.google.co.in",
+         "icon": "https://secure.gravatar.com/blavatar/f7d2f9ca6cb89c6439b88ef868e8e07a88335a95df414895e958efea8e7e4386?s=48",
+         "views": 74
+        },
+        {
+         "name": "google.com.au",
+         "url": "http://www.google.com.au",
+         "icon": "https://secure.gravatar.com/blavatar/9096d15059b3d095ac1ffdae21b4b0775d11bd8bad5a56e9614359e17b68d0b4?s=48",
+         "views": 48
+        },
+        {
+         "name": "google.ca",
+         "url": "http://www.google.ca",
+         "icon": "https://secure.gravatar.com/blavatar/f42e7cd63a28799f4f8eb88939c0ca4cba3264680940ae6092f8fecdb80f80f1?s=48",
+         "views": 24
+        },
+        {
+         "name": "google.co.uk",
+         "url": "http://www.google.co.uk",
+         "icon": "https://secure.gravatar.com/blavatar/eec379281f896cce1b061b4cbe5cf398fb74f3606d031ea4afe06bbbf44d6940?s=48",
+         "views": 23
+        },
+        {
+         "name": "google.com.hk",
+         "url": "http://www.google.com.hk",
+         "icon": "https://secure.gravatar.com/blavatar/8acdcb1de80fe40c222f54ceb28878407e0319a948c4728cd80984dab30f9b92?s=48",
+         "views": 17
+        },
+        {
+         "name": "google.de",
+         "url": "http://www.google.de",
+         "icon": "https://secure.gravatar.com/blavatar/17b3cdc0e348185de9755487806eabfa7e2e4e0a6e559dd461763b5c85563337?s=48",
+         "views": 16
+        },
+        {
+         "name": "google.co.za",
+         "url": "http://www.google.co.za",
+         "icon": "https://secure.gravatar.com/blavatar/39c895eb65faae75c8f7dcf29fbb43e5205b16f01de4bca1ab57de0f31cf2b02?s=48",
+         "views": 14
+        },
+        {
+         "name": "google.co.kr",
+         "url": "http://www.google.co.kr",
+         "icon": "https://secure.gravatar.com/blavatar/1cb7fd0991617c12065b4b31e950f5dd24cdb27f80cdca9f00c9cfa65d7d2d45?s=48",
+         "views": 9
+        },
+        {
+         "name": "google.fr",
+         "url": "http://www.google.fr",
+         "icon": "https://secure.gravatar.com/blavatar/caaa329f2c37d70ea5e762d3416bf21dc67158fb486a74f76b5e6fa9fdc357f4?s=48",
+         "views": 8
+        },
+        {
+         "name": "google.ch",
+         "url": "http://www.google.ch",
+         "icon": "https://secure.gravatar.com/blavatar/0ec278c23bc3706a36761c8a51ca6b866b3b4100ef14ebbfbe55ee3366d678bf?s=48",
+         "views": 5
+        },
+        {
+         "name": "google.ae",
+         "url": "http://www.google.ae",
+         "icon": "https://secure.gravatar.com/blavatar/34525520695d675059a411d9da390fc3fa620d8fdaf15ab75cceaf0ed7d8981a?s=48",
+         "views": 5
+        },
+        {
+         "name": "google.com.tr",
+         "url": "http://www.google.com.tr",
+         "icon": "https://secure.gravatar.com/blavatar/ac23ca579e66f7fe370f4f4dd0437db2b6ac2d9195ea688b43a529223e56640a?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.se",
+         "url": "http://www.google.se",
+         "icon": "https://secure.gravatar.com/blavatar/315f93671578576e75b3e5c9f5ab95ea9bfa72488a146e9b13d94573801e4496?s=48",
+         "views": 4
+        },
+        {
+         "name": "google.com.mx",
+         "url": "http://www.google.com.mx",
+         "icon": "https://secure.gravatar.com/blavatar/6a0f6d947331e5bdf322d629422e9beca98f5706dda8aef26a268d37bb8e06f9?s=48",
+         "views": 3
+        },
+        {
+         "name": "google.es",
+         "url": "http://www.google.es",
+         "icon": "https://secure.gravatar.com/blavatar/c3c38fc9b5b8d8b7b07534c77a3caa599119283fc387fda6fd871d36ceb96aea?s=48",
+         "views": 3
+        },
+        {
+         "name": "google.pl",
+         "url": "http://www.google.pl",
+         "icon": "https://secure.gravatar.com/blavatar/191a90414f346d44755b12a9a0cade00c0251b9de40a9284d08d010225139357?s=48",
+         "views": 3
+        },
+        {
+         "name": "google.com.tw",
+         "url": "http://www.google.com.tw",
+         "icon": "https://secure.gravatar.com/blavatar/aa032ec83e5ebbed34bf341b680bca77528d12df2fb89d4ab8d1224fdbfa76f8?s=48",
+         "views": 3
+        },
+        {
+         "name": "google.com/search",
+         "url": "http://www.google.com/search",
+         "icon": null,
+         "views": 3
+        },
+        {
+         "name": "google.com.br",
+         "url": "http://www.google.com.br",
+         "icon": "https://secure.gravatar.com/blavatar/fded33baa8a3f59958fe1e33160ed20c70de3ab2cb5b618f29431366498eb268?s=48",
+         "views": 3
+        },
+        {
+         "name": "google.co.th",
+         "url": "http://www.google.co.th",
+         "icon": "https://secure.gravatar.com/blavatar/52c122ed9ebfa3ef15928f89046079e12ca6dbe58fa5d4f268a013d71188a10a?s=48",
+         "views": 2
+        },
+        {
+         "name": "google.com.ph",
+         "url": "http://www.google.com.ph",
+         "icon": "https://secure.gravatar.com/blavatar/dcb45be063827be567ae37629fcee9484412e7195cd31866e5357d81bcdffc9d?s=48",
+         "views": 2
+        },
+        {
+         "name": "google.gr",
+         "url": "http://www.google.gr",
+         "icon": "https://secure.gravatar.com/blavatar/446d5023c45e169f973e8726f320a5997b302ca76e10d36430ddbde8da228a27?s=48",
+         "views": 2
+        },
+        {
+         "name": "google.com.vn",
+         "url": "http://www.google.com.vn",
+         "icon": "https://secure.gravatar.com/blavatar/953e78737d4e17e88eb77ed715820662c9ee80baec5a86378bcf197f2a7d2ea7?s=48",
+         "views": 2
+        },
+        {
+         "name": "google.nl",
+         "url": "http://www.google.nl",
+         "icon": "https://secure.gravatar.com/blavatar/750769a6e2b22ecc2a39ad85a2535ea1d5d15103e48b96d8938149f444439590?s=48",
+         "views": 2
+        },
+        {
+         "name": "google.kz",
+         "url": "http://www.google.kz",
+         "icon": "https://secure.gravatar.com/blavatar/45fbefd2bf77cada9b5e21f759c8979e4b085c3bf63239d7c47564e49d34deb7?s=48",
+         "views": 2
+        },
+        {
+         "name": "google.co.cr",
+         "url": "http://www.google.co.cr",
+         "icon": "https://secure.gravatar.com/blavatar/d86c95ff5fc876f38ba7a47cb31f6ce6cb4f547cc14484360252158c40acb839?s=48",
+         "views": 2
+        },
+        {
+         "name": "google.at",
+         "url": "http://www.google.at",
+         "icon": "https://secure.gravatar.com/blavatar/76dd4bfb5ec1b9f86d985c7bb22a5da114c9423c8c158ee55e06d267935ecbb5?s=48",
+         "views": 2
+        },
+        {
+         "name": "google.com.ua",
+         "url": "http://www.google.com.ua",
+         "icon": "https://secure.gravatar.com/blavatar/683bd265e5f6d364a5ed0688884b205bf2bc714a02f201ce4d4f1e9642613ce0?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.cl",
+         "url": "http://www.google.cl",
+         "icon": "https://secure.gravatar.com/blavatar/be3987bddb83d9b44e75175d9713aa0745d2ed570049a57c8446f4607633a8b7?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.com.pk",
+         "url": "http://www.google.com.pk",
+         "icon": "https://secure.gravatar.com/blavatar/8ed0d9642ca84fa505bf3e43a5cddc2866fe28311482c1c513c0f29fbcab51b0?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.com.sg",
+         "url": "http://www.google.com.sg",
+         "icon": "https://secure.gravatar.com/blavatar/90f3a073b168d5377b07c3e62bd77de4a9d0198b8217a5b6624a2100b6a764e6?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.hu",
+         "url": "http://www.google.hu",
+         "icon": "https://secure.gravatar.com/blavatar/1d0f1d0943a47d2be7c4c3c913961c1e7ad2aab782cf5a1e29547f48f6d4cfd8?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.co.tz",
+         "url": "http://www.google.co.tz",
+         "icon": null,
+         "views": 1
+        },
+        {
+         "name": "google.ru",
+         "url": "http://www.google.ru",
+         "icon": "https://secure.gravatar.com/blavatar/3a6877247293754acd8af4eb1167c2526c72d75c9ba7f9e163063f18581bf30b?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.co.id",
+         "url": "http://www.google.co.id",
+         "icon": "https://secure.gravatar.com/blavatar/b2f7500cb6e3e4b3cdc7284a58d95f487b5bc770ea12b8e8144595bc0e26a117?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.co.nz",
+         "url": "http://www.google.co.nz",
+         "icon": "https://secure.gravatar.com/blavatar/a2e4e210bbd7773544d3f1ea1fae0450eb38cbe77d3483d59af46f5fc0621475?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.rs",
+         "url": "http://www.google.rs",
+         "icon": null,
+         "views": 1
+        },
+        {
+         "name": "google.com.bh",
+         "url": "http://www.google.com.bh",
+         "icon": "https://secure.gravatar.com/blavatar/c5d839c20b0b697d12ce1b03cfb74d7346401c3629bf5c687c029599b82e55c3?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.cz",
+         "url": "http://www.google.cz",
+         "icon": "https://secure.gravatar.com/blavatar/5db3846ca3c980212b8b7bba64fdf5b51a09fbd8ff6998a0842292f63fc3b9ed?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.ie",
+         "url": "http://www.google.ie",
+         "icon": "https://secure.gravatar.com/blavatar/e56f09e445864b8ce849f1b0d6d5700d819ed0b8db9acf80d36975580010ccfd?s=48",
+         "views": 1
+        }
+       ]
+      },
+      {
+       "name": "Bing",
+       "icon": "https://secure.gravatar.com/blavatar/3c77f261a156a5308fee53720276395ef78d2e7367e4225a3d3d93f4accd1dd3?s=48",
+       "views": 235,
+       "children": [
+        {
+         "name": "bing.com",
+         "url": "https://bing.com/",
+         "icon": "https://secure.gravatar.com/blavatar/ccbfcc1a6af5041e560f737f8f251831e4c45c6024be0469de133f7fb3971e1d?s=48",
+         "views": 199
+        },
+        {
+         "name": "bing.com",
+         "url": "https://www.bing.com/",
+         "icon": "https://secure.gravatar.com/blavatar/5f44044454ef448148dfbb951dc486368bf530c870c5059054da5f7138927c7e?s=48",
+         "views": 36
+        }
+       ]
+      },
+      {
+       "name": "Yandex",
+       "icon": null,
+       "views": 47,
+       "children": [
+        {
+         "name": "yandex.ru",
+         "url": "https://yandex.ru/",
+         "icon": null,
+         "views": 34
+        },
+        {
+         "name": "yandex.kz",
+         "url": "https://yandex.kz/",
+         "icon": null,
+         "views": 3
+        },
+        {
+         "name": "yandex.com",
+         "url": "https://yandex.com/",
+         "icon": null,
+         "views": 3
+        },
+        {
+         "name": "yandex.com.tr",
+         "url": "https://yandex.com.tr/",
+         "icon": null,
+         "views": 2
+        },
+        {
+         "name": "yandex.ru",
+         "url": "https://www.yandex.ru/",
+         "icon": null,
+         "views": 2
+        },
+        {
+         "name": "yandex.com",
+         "url": "http://yandex.com",
+         "icon": null,
+         "views": 2
+        },
+        {
+         "name": "yandex.uz",
+         "url": "https://yandex.uz/",
+         "icon": null,
+         "views": 1
+        }
+       ]
+      },
+      {
+       "name": "duckduckgo.com",
+       "url": "https://duckduckgo.com/",
+       "icon": null,
+       "views": 8
+      },
+      {
+       "name": "Yahoo Search",
+       "icon": "https://secure.gravatar.com/blavatar/0a2eb9a2f7af2ab8ef3c3b9279fdd12f2b2b9b400311064a7222b8a313efeec6?s=48",
+       "views": 7,
+       "children": [
+        {
+         "name": "in.search.yahoo.com",
+         "url": "https://in.search.yahoo.com/",
+         "icon": null,
+         "views": 6
+        },
+        {
+         "name": "search.yahoo.com",
+         "url": "https://search.yahoo.com/",
+         "icon": "https://secure.gravatar.com/blavatar/da585ac2478c22ef50cc06f1e909da83906b841c4862098f1bb046bf6930f1d0?s=48",
+         "views": 1
+        }
+       ]
+      },
+      {
+       "name": "Google Image Search",
+       "url": "http://www.google.com/imgres",
+       "icon": "https://secure.gravatar.com/blavatar/b338a8227418d64438b6dbff44b1b7bc89248a91a3ced99dfa3744aaa3d1759d?s=48",
+       "views": 2
+      }
+     ]
+    },
+    {
+     "group": "com.google.android.googlequicksearchbox",
+     "name": "com.google.android.googlequicksearchbox",
+     "icon": null,
+     "total": 295,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "com.google.android.googlequicksearchbox",
+       "url": "http://android-app://com.google.android.googlequicksearchbox/",
+       "views": 288
+      },
+      {
+       "name": "com.google.android.googlequicksearchbox",
+       "url": "http://android-app://com.google.android.googlequicksearchbox",
+       "views": 7
+      }
+     ]
+    },
+    {
+     "group": "msec.it",
+     "name": "msec.it",
+     "icon": null,
+     "total": 57,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "msec.it",
+       "url": "https://www.msec.it/",
+       "views": 50
+      },
+      {
+       "name": "msec.it/blog/dukto/",
+       "url": "https://www.msec.it/blog/dukto/",
+       "views": 7
+      }
+     ]
+    },
+    {
+     "group": "lens.google.com",
+     "name": "lens.google.com",
+     "url": "https://lens.google.com/",
+     "icon": null,
+     "total": 21,
+     "follow_data": null,
+     "results": {
+      "views": 21
+     }
+    },
+    {
+     "group": "facebook.com",
+     "name": "Facebook",
+     "url": "http://facebook.com/",
+     "icon": "https://secure.gravatar.com/blavatar/31193328f8e21dfb6c99f322d22d7b0b508778e64ffbba86e52293379031b874?s=48",
+     "total": 16,
+     "follow_data": null,
+     "results": {
+      "views": 16
+     }
+    },
+    {
+     "group": "reddit.com",
+     "name": "Reddit",
+     "url": "https://www.reddit.com/",
+     "icon": "https://secure.gravatar.com/blavatar/90ce957778d13b453b7416c943e1720b3379d7c77814c6b70028cbbf7aecb644?s=48",
+     "total": 13,
+     "follow_data": null,
+     "results": {
+      "views": 13
+     }
+    },
+    {
+     "group": "insite.web.boeing.com",
+     "name": "insite.web.boeing.com",
+     "url": "https://insite.web.boeing.com/",
+     "icon": null,
+     "total": 11,
+     "follow_data": null,
+     "results": {
+      "views": 11
+     }
+    },
+    {
+     "group": "WordPress.com Reader",
+     "name": "WordPress.com Reader",
+     "url": "https://wordpress.com/reader/",
+     "icon": "https://secure.gravatar.com/blavatar/c5ba929e1803dd1d2865d53b671e5d0a1f64071ecd9d720d7377dce63fdab0a2?s=48",
+     "total": 10,
+     "follow_data": null,
+     "results": {
+      "views": 10
+     }
+    },
+    {
+     "group": "learn-ap-southeast-2-prod-fleet01-xythos.content.blackboardcdn.com",
+     "name": "learn-ap-southeast-2-prod-fleet01-xythos.content.blackboardcdn.com",
+     "url": "https://learn-ap-southeast-2-prod-fleet01-xythos.content.blackboardcdn.com/",
+     "icon": null,
+     "total": 5,
+     "follow_data": null,
+     "results": {
+      "views": 5
+     }
+    },
+    {
+     "group": "blackbox.ai",
+     "name": "blackbox.ai",
+     "url": "https://www.blackbox.ai/",
+     "icon": null,
+     "total": 5,
+     "follow_data": null,
+     "results": {
+      "views": 5
+     }
+    },
+    {
+     "group": "searchencrypt.com",
+     "name": "searchencrypt.com",
+     "url": "https://www.searchencrypt.com/",
+     "icon": "https://secure.gravatar.com/blavatar/189f680d3d968573da1f6a310c79b84be493348b152876abd19b8234fc2e7c90?s=48",
+     "total": 4,
+     "follow_data": null,
+     "results": {
+      "views": 4
+     }
+    },
+    {
+     "group": "statics.teams.cdn.office.net",
+     "name": "statics.teams.cdn.office.net",
+     "url": "https://statics.teams.cdn.office.net/",
+     "icon": null,
+     "total": 4,
+     "follow_data": null,
+     "results": {
+      "views": 4
+     }
+    },
+    {
+     "group": "ya.ru",
+     "name": "ya.ru",
+     "url": "https://ya.ru/",
+     "icon": null,
+     "total": 3,
+     "follow_data": null,
+     "results": {
+      "views": 3
+     }
+    },
+    {
+     "group": "ecosia.org",
+     "name": "ecosia.org",
+     "url": "https://www.ecosia.org/",
+     "icon": null,
+     "total": 3,
+     "follow_data": null,
+     "results": {
+      "views": 3
+     }
+    },
+    {
+     "group": "l.messenger.com",
+     "name": "l.messenger.com",
+     "url": "https://l.messenger.com/",
+     "icon": null,
+     "total": 2,
+     "follow_data": null,
+     "results": {
+      "views": 2
+     }
+    },
+    {
+     "group": "poe.com",
+     "name": "poe.com",
+     "url": "https://poe.com/",
+     "icon": null,
+     "total": 2,
+     "follow_data": null,
+     "results": {
+      "views": 2
+     }
+    },
+    {
+     "group": "r.srvtrck.com",
+     "name": "r.srvtrck.com",
+     "url": "https://r.srvtrck.com/",
+     "icon": null,
+     "total": 2,
+     "follow_data": null,
+     "results": {
+      "views": 2
+     }
+    },
+    {
+     "group": "github.com",
+     "name": "github.com",
+     "url": "https://github.com/",
+     "icon": "https://secure.gravatar.com/blavatar/3aeb002460381c6f258e8395d3026f571f0d9a76488dcd837639b13aed316560?s=48",
+     "total": 2,
+     "follow_data": null,
+     "results": {
+      "views": 2
+     }
+    },
+    {
+     "group": "chatgpt.com",
+     "name": "chatgpt.com",
+     "url": "https://chatgpt.com/",
+     "icon": "https://secure.gravatar.com/blavatar/c6240ca88eed5b237451d4ceab51a5df1e8bc3b0a4a0e099fbe4b9f0d5cf23a2?s=48",
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "gemini.google.com",
+     "name": "gemini.google.com",
+     "url": "https://gemini.google.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "getliner.com",
+     "name": "getliner.com",
+     "url": "https://getliner.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "mightyohm.com",
+     "name": "mightyohm.com",
+     "url": "https://mightyohm.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "portal.uns.ac.rs",
+     "name": "portal.uns.ac.rs",
+     "url": "https://portal.uns.ac.rs/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "go.aftvnews.com",
+     "name": "go.aftvnews.com",
+     "url": "https://go.aftvnews.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "etnotes.hesh.top",
+     "name": "etnotes.hesh.top",
+     "url": "https://etnotes.hesh.top/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "electrondepot.com",
+     "name": "electrondepot.com",
+     "url": "https://www.electrondepot.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "glenzac.files.wordpress.com",
+     "name": "glenzac.files.wordpress.com",
+     "url": "https://glenzac.files.wordpress.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "jp.zaloapp.com",
+     "name": "jp.zaloapp.com",
+     "url": "https://jp.zaloapp.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "startpage.com",
+     "name": "startpage.com",
+     "url": "https://www.startpage.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    }
+   ],
+   "other_views": 0,
+   "total_views": 8049
+  }
+ },
+ "period": "year"
+}

@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { postSlug } from '../utils/postSlug';
 
 const allPosts = await getCollection('posts', ({ data }) => !data.draft);
 const sortedPosts = allPosts.sort((a, b) =>
@@ -34,7 +35,7 @@ const formatDate = (date: Date) => {
 					{postsByYear[year].map(post => (
 						<li>
 							<span class="date">{formatDate(new Date(post.data.date))}</span>
-							<a href={`/posts/${post.id}`}>{post.data.title}</a>
+							<a href={`/posts/${postSlug(post.id)}`}>{post.data.title}</a>
 						</li>
 					))}
 				</ul>

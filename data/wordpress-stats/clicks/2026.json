@@ -1,0 +1,1021 @@
+{
+ "date": "2026-12-31",
+ "days": {
+  "2026-01-01": {
+   "clicks": [
+    {
+     "icon": null,
+     "url": null,
+     "name": "drive.google.com",
+     "views": 247,
+     "children": [
+      {
+       "url": "https://drive.google.com/open?id=1iwnLhuqCglDixIUDfQU2IDphx5zZn1KB",
+       "name": "drive.google.com/open?id=1iwnLhuqCglDixIUDfQU2IDphx5zZn1KB",
+       "views": 104
+      },
+      {
+       "url": "https://drive.google.com/open?id=1xrgt_RNGtGreaA8Z371iloxJJ-D4e_Ann7G26KgT4YI",
+       "name": "drive.google.com/open?id=1xrgt_RNGtGreaA8Z371iloxJJ-D4e_Ann7G26KgT4YI",
+       "views": 67
+      },
+      {
+       "url": "https://drive.google.com/open?id=1FERhSDfLk0BAQM4dIjtxtb51GHkY55OZ",
+       "name": "drive.google.com/open?id=1FERhSDfLk0BAQM4dIjtxtb51GHkY55OZ",
+       "views": 32
+      },
+      {
+       "url": "https://drive.google.com/open?id=1Vjoqpe2VLiG-Dh8-j3T4roIhGmbSqOek",
+       "name": "drive.google.com/open?id=1Vjoqpe2VLiG-Dh8-j3T4roIhGmbSqOek",
+       "views": 15
+      },
+      {
+       "url": "https://drive.google.com/open?id=1SmVk-UKjU5Txz7n4XtXaLR8sn5X_m8Hd",
+       "name": "drive.google.com/open?id=1SmVk-UKjU5Txz7n4XtXaLR8sn5X_m8Hd",
+       "views": 13
+      },
+      {
+       "url": "https://drive.google.com/open?id=1H9TMdvzQbodYp-KvaYcD_jdl-GM3h0sv",
+       "name": "drive.google.com/open?id=1H9TMdvzQbodYp-KvaYcD_jdl-GM3h0sv",
+       "views": 7
+      },
+      {
+       "url": "https://drive.google.com/open?id=1Y4Tmg_Hab5k2O6HNuWMNP2K-eRkw4oZO",
+       "name": "drive.google.com/open?id=1Y4Tmg_Hab5k2O6HNuWMNP2K-eRkw4oZO",
+       "views": 5
+      },
+      {
+       "url": "https://drive.google.com/open?id=1Jzop1DJHNJYrhrkWfAgfsLzyc-h-l0OZ",
+       "name": "drive.google.com/open?id=1Jzop1DJHNJYrhrkWfAgfsLzyc-h-l0OZ",
+       "views": 3
+      },
+      {
+       "url": "https://drive.google.com/open?id=1ndKreba69xh84fitn32GPHZlicvCY-QS",
+       "name": "drive.google.com/open?id=1ndKreba69xh84fitn32GPHZlicvCY-QS",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/9fbdb3cd501c9c79e860ff5092870489fc8b5482905a024ff05004296c8af722?s=48",
+     "url": null,
+     "name": "glenzac.wordpress.com",
+     "views": 79,
+     "children": [
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/07/microwave.jpg",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/07/microwave.jpg",
+       "views": 22
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2023/12/image.png",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2023/12/image.png",
+       "views": 21
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/07/ffc_2.jpg",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/07/ffc_2.jpg",
+       "views": 9
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2023/12/image-4.png",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2023/12/image-4.png",
+       "views": 5
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2023/12/image-2.png",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2023/12/image-2.png",
+       "views": 4
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/06/pypdf.png",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/06/pypdf.png",
+       "views": 4
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/07/ffc_1.jpg",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/07/ffc_1.jpg",
+       "views": 3
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2023/12/image-3.png",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2023/12/image-3.png",
+       "views": 3
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/03/shiori_main.png",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/03/shiori_main.png",
+       "views": 2
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/04/trilium-1.png",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/04/trilium-1.png",
+       "views": 2
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/08/chip_quik_silver_paste.jpg",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/08/chip_quik_silver_paste.jpg",
+       "views": 2
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/08/ffc_repaired.jpg",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/08/ffc_repaired.jpg",
+       "views": 2
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.ti.com",
+     "views": 29,
+     "children": [
+      {
+       "url": "http://www.ti.com/lit/an/slyt226/slyt226.pdf",
+       "name": "ti.com/lit/an/slyt226/slyt226.pdf",
+       "views": 13
+      },
+      {
+       "url": "http://www.ti.com/lit/an/sbaa160a/sbaa160a.pdf",
+       "name": "ti.com/lit/an/sbaa160a/sbaa160a.pdf",
+       "views": 10
+      },
+      {
+       "url": "http://www.ti.com/lit/an/slyt173/slyt173.pdf",
+       "name": "ti.com/lit/an/slyt173/slyt173.pdf",
+       "views": 2
+      },
+      {
+       "url": "http://www.ti.com/design-tools/signal-chain-design/webench-filters.html",
+       "name": "ti.com/design-tools/signal-chain-design/webench-filters.html",
+       "views": 2
+      },
+      {
+       "url": "https://www.ti.com/europe/downloads/Choose%20the%20right%20data%20converter%20for%20your%20application.pdf",
+       "name": "ti.com/europe/downloads/Choose%20the%20right%20data%20converter%20for%20your%20application.pdf",
+       "views": 1
+      },
+      {
+       "url": "http://www.ti.com/tool/filterpro&DCMP=hpa_amp_general&HQS=NotApplicable+OT+filterpro",
+       "name": "ti.com/tool/filterpro&DCMP=hpa_amp_general&HQS=NotApplicable+OT+filterpro",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "i.imgur.com",
+     "views": 26,
+     "children": [
+      {
+       "url": "https://i.imgur.com/FNTfSTP.jpg",
+       "name": "i.imgur.com/FNTfSTP.jpg",
+       "views": 12
+      },
+      {
+       "url": "https://i.imgur.com/2OX3l47.jpg",
+       "name": "i.imgur.com/2OX3l47.jpg",
+       "views": 5
+      },
+      {
+       "url": "https://i.imgur.com/wR8jr6h.jpg",
+       "name": "i.imgur.com/wR8jr6h.jpg",
+       "views": 2
+      },
+      {
+       "url": "https://i.imgur.com/3BqivOE.jpg",
+       "name": "i.imgur.com/3BqivOE.jpg",
+       "views": 1
+      },
+      {
+       "url": "https://i.imgur.com/ysz0VVq.jpeg",
+       "name": "i.imgur.com/ysz0VVq.jpeg",
+       "views": 1
+      },
+      {
+       "url": "https://i.imgur.com/oUh1Xg6.jpg",
+       "name": "i.imgur.com/oUh1Xg6.jpg",
+       "views": 1
+      },
+      {
+       "url": "https://i.imgur.com/GHRwuy2.jpg?1.jpg",
+       "name": "i.imgur.com/GHRwuy2.jpg?1.jpg",
+       "views": 1
+      },
+      {
+       "url": "https://i.imgur.com/0xH0hxK.jpg",
+       "name": "i.imgur.com/0xH0hxK.jpg",
+       "views": 1
+      },
+      {
+       "url": "https://i.imgur.com/5G290g3.jpg",
+       "name": "i.imgur.com/5G290g3.jpg",
+       "views": 1
+      },
+      {
+       "url": "https://i.imgur.com/tHcnTl3.jpg",
+       "name": "i.imgur.com/tHcnTl3.jpg",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/3aeb002460381c6f258e8395d3026f571f0d9a76488dcd837639b13aed316560?s=48",
+     "url": null,
+     "name": "github.com",
+     "views": 25,
+     "children": [
+      {
+       "url": "https://github.com/c-labpl/qrs_detector",
+       "name": "github.com/c-labpl/qrs_detector",
+       "views": 3
+      },
+      {
+       "url": "https://github.com/go-shiori/shiori",
+       "name": "github.com/go-shiori/shiori",
+       "views": 3
+      },
+      {
+       "url": "https://github.com/OpenTimer/OpenTimer",
+       "name": "github.com/OpenTimer/OpenTimer",
+       "views": 3
+      },
+      {
+       "url": "https://github.com/marianpetruk/ECG_analysis",
+       "name": "github.com/marianpetruk/ECG_analysis",
+       "views": 2
+      },
+      {
+       "url": "https://github.com/kosachevds/qrs_detector/tree/master/python",
+       "name": "github.com/kosachevds/qrs_detector/tree/master/python",
+       "views": 2
+      },
+      {
+       "url": "https://github.com/aburguera/QRS_DETECT",
+       "name": "github.com/aburguera/QRS_DETECT",
+       "views": 1
+      },
+      {
+       "url": "https://github.com/andystroz/ecgSignalProcessing",
+       "name": "github.com/andystroz/ecgSignalProcessing",
+       "views": 1
+      },
+      {
+       "url": "https://github.com/HangsikShin/QRS-Detection/tree/master/Simple-and-Robust-Realtime-QRS-Detection-Algorithm-based-on-Spatiotemporal-Characteristic-of-the-QRS-Complex",
+       "name": "github.com/HangsikShin/QRS-Detection/tree/master/Simple-and-Robust-Realtime-QRS-Detection-Algorithm-based-on-Spatiotemporal-Characteristic-of-the-QRS-Complex",
+       "views": 1
+      },
+      {
+       "url": "https://github.com/hooman650/BioSigKit",
+       "name": "github.com/hooman650/BioSigKit",
+       "views": 1
+      },
+      {
+       "url": "https://github.com/KChen89/QRS-detection",
+       "name": "github.com/KChen89/QRS-detection",
+       "views": 1
+      },
+      {
+       "url": "https://github.com/truongnmt/DeepECG",
+       "name": "github.com/truongnmt/DeepECG",
+       "views": 1
+      },
+      {
+       "url": "https://github.com/vince-xunzhe/Electrocardiograph-processing-system",
+       "name": "github.com/vince-xunzhe/Electrocardiograph-processing-system",
+       "views": 1
+      },
+      {
+       "url": "https://github.com/DusanKostic/QRSdetection",
+       "name": "github.com/DusanKostic/QRSdetection",
+       "views": 1
+      },
+      {
+       "url": "https://github.com/kosachevds/qrs_detector",
+       "name": "github.com/kosachevds/qrs_detector",
+       "views": 1
+      },
+      {
+       "url": "https://github.com/ruohoruotsi/Butterworth-Filter-Design",
+       "name": "github.com/ruohoruotsi/Butterworth-Filter-Design",
+       "views": 1
+      },
+      {
+       "url": "https://github.com/ytdl-org/youtube-dl",
+       "name": "github.com/ytdl-org/youtube-dl",
+       "views": 1
+      },
+      {
+       "url": "https://github.com/glenzac/raspberrypi-tv",
+       "name": "github.com/glenzac/raspberrypi-tv",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.ni.com",
+     "views": 22,
+     "children": [
+      {
+       "url": "http://www.ni.com/example/30925/en/",
+       "name": "ni.com/example/30925/en/",
+       "views": 18
+      },
+      {
+       "url": "http://www.ni.com/multisim/",
+       "name": "ni.com/multisim/",
+       "views": 4
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://thechalkboardmag.com/the-feelings-circle-chart-emotional-communication/",
+     "name": "thechalkboardmag.com/the-feelings-circle-chart-emotional-communication/",
+     "views": 19,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://glenzac.github.io/",
+     "name": "glenzac.github.io",
+     "views": 15,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "forums.ni.com",
+     "views": 15,
+     "children": [
+      {
+       "url": "https://forums.ni.com/t5/Multisim-and-Ultiboard/simulating-ecg-signal-on-multisim/td-p/1121584",
+       "name": "forums.ni.com/t5/Multisim-and-Ultiboard/simulating-ecg-signal-on-multisim/td-p/1121584",
+       "views": 12
+      },
+      {
+       "url": "https://forums.ni.com/t5/Projects-Products/Free-6-Month-Evaluation-of-LabVIEW-Student-Edition-for-at-home/ta-p/3497362",
+       "name": "forums.ni.com/t5/Projects-Products/Free-6-Month-Evaluation-of-LabVIEW-Student-Edition-for-at-home/ta-p/3497362",
+       "views": 3
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://e2e.ti.com/support/amplifiers/f/14/p/248858/871282",
+     "name": "e2e.ti.com/support/amplifiers/f/14/p/248858/871282",
+     "views": 14,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://docs.google.com/spreadsheets/d/146w_0uU9As0id8H1MLw_fddu173FlqVm8nAkZ5s5otE/edit?usp=sharing",
+     "name": "docs.google.com/spreadsheets/d/146w_0uU9As0id8H1MLw_fddu173FlqVm8nAkZ5s5otE/edit?usp=sharing",
+     "views": 13,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://jiofi.local.html/",
+     "name": "jiofi.local.html",
+     "views": 12,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.cypress.com",
+     "views": 11,
+     "children": [
+      {
+       "url": "http://www.cypress.com/file/106956/download",
+       "name": "cypress.com/file/106956/download",
+       "views": 10
+      },
+      {
+       "url": "http://www.cypress.com/file/139956/download",
+       "name": "cypress.com/file/139956/download",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "http://www.medteq.info/med/ECGFilters",
+     "name": "medteq.info/med/ECGFilters",
+     "views": 10,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "dd-wrt.com",
+     "views": 10,
+     "children": [
+      {
+       "url": "https://dd-wrt.com/",
+       "name": "dd-wrt.com",
+       "views": 9
+      },
+      {
+       "url": "https://dd-wrt.com/support/router-database/",
+       "name": "dd-wrt.com/support/router-database/",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "http://engineerslabs.com/2012/01/ecg-circuit-analysis-and-design-simulation-by-multisim/",
+     "name": "engineerslabs.com/2012/01/ecg-circuit-analysis-and-design-simulation-by-multisim/",
+     "views": 9,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/4aef029061bea5b852a2f8099385a67df96230675cd9d40b33756d1b232e6212?s=48",
+     "url": null,
+     "name": "www.edn.com",
+     "views": 9,
+     "children": [
+      {
+       "url": "https://www.edn.com/electronics-blogs/bakers-best/4312741/Understanding-CMR-and-instrumentation-amplifiers",
+       "name": "edn.com/electronics-blogs/bakers-best/4312741/Understanding-CMR-and-instrumentation-amplifiers",
+       "views": 4
+      },
+      {
+       "url": "https://www.edn.com/design/analog/4322833/The-right-way-to-use-instrumentation-amplifiers",
+       "name": "edn.com/design/analog/4322833/The-right-way-to-use-instrumentation-amplifiers",
+       "views": 3
+      },
+      {
+       "url": "https://www.edn.com/design/integrated-circuit-design/4312523/Create-a-DAC-from-a-microcontroller-s-ADC",
+       "name": "edn.com/design/integrated-circuit-design/4312523/Create-a-DAC-from-a-microcontroller-s-ADC",
+       "views": 2
+      }
+     ]
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/c266e947b27953d5d56801cbe1e3d7c9fa3b003d58de59000469927a944b3eb9?s=48",
+     "url": "https://www.eevblog.com/forum/projects/ecg-front-end-design/",
+     "name": "eevblog.com/forum/projects/ecg-front-end-design/",
+     "views": 8,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.samsung.com",
+     "views": 8,
+     "children": [
+      {
+       "url": "https://www.samsung.com/nz/support/model/MW103H/XSA/#link",
+       "name": "samsung.com/nz/support/model/MW103H/XSA/#link",
+       "views": 5
+      },
+      {
+       "url": "https://www.samsung.com/us/support/troubleshooting/TSG01110365/",
+       "name": "samsung.com/us/support/troubleshooting/TSG01110365/",
+       "views": 3
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://openwrt.org/",
+     "name": "openwrt.org",
+     "views": 6,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.analog.com",
+     "views": 6,
+     "children": [
+      {
+       "url": "https://www.analog.com/designtools/en/filterwizard/",
+       "name": "analog.com/designtools/en/filterwizard/",
+       "views": 4
+      },
+      {
+       "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf",
+       "name": "analog.com/media/en/technical-documentation/data-sheets/AD620.pdf",
+       "views": 2
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "sourceforge.net",
+     "views": 6,
+     "children": [
+      {
+       "url": "https://sourceforge.net/projects/xschem/",
+       "name": "sourceforge.net/projects/xschem/",
+       "views": 4
+      },
+      {
+       "url": "https://sourceforge.net/projects/gtkwave/",
+       "name": "sourceforge.net/projects/gtkwave/",
+       "views": 2
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://www.ifixit.com/",
+     "name": "ifixit.com",
+     "views": 5,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/d515ac8f2696affb0b81cae0f6377c7edd9f7621c7ac1e3159450cd32b434e66?s=48",
+     "url": "https://wordpress.com/start/?ref=marketing_bar",
+     "name": "wordpress.com/start/?ref=marketing_bar",
+     "views": 5,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.msec.it/blog/?page_id=11",
+     "name": "msec.it/blog/?page_id=11",
+     "views": 4,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://ngspice.sourceforge.net/",
+     "name": "ngspice.sourceforge.net",
+     "views": 4,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "opencircuitdesign.com",
+     "views": 4,
+     "children": [
+      {
+       "url": "http://opencircuitdesign.com/netgen/index.html",
+       "name": "opencircuitdesign.com/netgen/index.html",
+       "views": 2
+      },
+      {
+       "url": "http://opencircuitdesign.com/qrouter/index.html",
+       "name": "opencircuitdesign.com/qrouter/index.html",
+       "views": 2
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "vlsicad.eecs.umich.edu",
+     "views": 4,
+     "children": [
+      {
+       "url": "http://vlsicad.eecs.umich.edu/BK/FGR/",
+       "name": "vlsicad.eecs.umich.edu/BK/FGR/",
+       "views": 2
+      },
+      {
+       "url": "http://vlsicad.eecs.umich.edu/BK/Slots/cache/er.cs.ucla.edu/Dragon/",
+       "name": "vlsicad.eecs.umich.edu/BK/Slots/cache/er.cs.ucla.edu/Dragon/",
+       "views": 2
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://medcraveonline.com/IJBSBE/IJBSBE-02-00032",
+     "name": "medcraveonline.com/IJBSBE/IJBSBE-02-00032",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.toped.org.uk/",
+     "name": "toped.org.uk",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "en.wikipedia.org",
+     "views": 3,
+     "children": [
+      {
+       "url": "https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering",
+       "name": "en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering",
+       "views": 1
+      },
+      {
+       "url": "https://en.wikipedia.org/wiki/Recency_bias",
+       "name": "en.wikipedia.org/wiki/Recency_bias",
+       "views": 1
+      },
+      {
+       "url": "https://en.wikipedia.org/wiki/GNU_Circuit_Analysis_Package",
+       "name": "en.wikipedia.org/wiki/GNU_Circuit_Analysis_Package",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "http://z3t0.github.io/Arduino-IRremote/",
+     "name": "z3t0.github.io/Arduino-IRremote/",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.cburch.com/logisim/",
+     "name": "cburch.com/logisim/",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.iball.co.in/Product/Baton/Network-Adapters/USB-Adapters/150M-Wireless---N-Mini-USB-Adapter/846",
+     "name": "iball.co.in/Product/Baton/Network-Adapters/USB-Adapters/150M-Wireless---N-Mini-USB-Adapter/846",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.staticfreesoft.com/index.html",
+     "name": "staticfreesoft.com/index.html",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://ibnishak.github.io/Timimi/",
+     "name": "ibnishak.github.io/Timimi/",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.clifford.at/yosys/",
+     "name": "clifford.at/yosys/",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.ganssle.com/",
+     "name": "ganssle.com",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://create.arduino.cc/projecthub/Arduino_Scuola/build-a-simple-dac-for-your-arduino-4c00bd",
+     "name": "create.arduino.cc/projecthub/Arduino_Scuola/build-a-simple-dac-for-your-arduino-4c00bd",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://physionet.org/cgi-bin/atm/ATM",
+     "name": "physionet.org/cgi-bin/atm/ATM",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.microchip.com/developmenttools/ProductDetails/filterlabdesignsoftware",
+     "name": "microchip.com/developmenttools/ProductDetails/filterlabdesignsoftware",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/b2213008f44f68731f22ff50ee359e9fc09c06c219fb1d6d587754812b5be2a1?s=48",
+     "url": "https://automattic.com/cookies/",
+     "name": "automattic.com/cookies/",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://xyce.sandia.gov/",
+     "name": "xyce.sandia.gov",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://cardinalpeak.com/blog/a-c-class-to-implement-low-pass-high-pass-and-band-pass-filters/",
+     "name": "cardinalpeak.com/blog/a-c-class-to-implement-low-pass-high-pass-and-band-pass-filters/",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://pypi.org/project/PyPDF2/",
+     "name": "pypi.org/project/PyPDF2/",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://codeburst.io/your-guide-to-bit-manipulation-48e7692f314a",
+     "name": "codeburst.io/your-guide-to-bit-manipulation-48e7692f314a",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.facebook.com/glen.zachariah/",
+     "name": "facebook.com/glen.zachariah/",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.raspberrypi.org",
+     "views": 2,
+     "children": [
+      {
+       "url": "https://www.raspberrypi.org/products/raspberry-pi-3-model-b/",
+       "name": "raspberrypi.org/products/raspberry-pi-3-model-b/",
+       "views": 1
+      },
+      {
+       "url": "https://www.raspberrypi.org/documentation/raspbian/applications/omxplayer.md",
+       "name": "raspberrypi.org/documentation/raspbian/applications/omxplayer.md",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "wiki.dd-wrt.com",
+     "views": 2,
+     "children": [
+      {
+       "url": "https://wiki.dd-wrt.com/wiki/index.php/Supported_Devices",
+       "name": "wiki.dd-wrt.com/wiki/index.php/Supported_Devices",
+       "views": 1
+      },
+      {
+       "url": "https://wiki.dd-wrt.com/wiki/index.php/Repeater_Bridge",
+       "name": "wiki.dd-wrt.com/wiki/index.php/Repeater_Bridge",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://www.iotchallengekeysight.com/",
+     "name": "iotchallengekeysight.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf",
+     "name": "mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.open-electronics.org/",
+     "name": "open-electronics.org",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://hackaday.io/project/5334-serialplot-realtime-plotting-software",
+     "name": "hackaday.io/project/5334-serialplot-realtime-plotting-software",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.veripool.org/verilator/",
+     "name": "veripool.org/verilator/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.nirsoft.net/utils/wifi_information_view.html",
+     "name": "nirsoft.net/utils/wifi_information_view.html",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://forum.xda-developers.com/android/apps-games/root-battery-charge-limit-t3557002",
+     "name": "forum.xda-developers.com/android/apps-games/root-battery-charge-limit-t3557002",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://iporesult.org/",
+     "name": "iporesult.org",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.mathworks.com/matlabcentral/fileexchange/45840-complete-pan-tompkins-implementation-ecg-qrs-detector",
+     "name": "mathworks.com/matlabcentral/fileexchange/45840-complete-pan-tompkins-implementation-ecg-qrs-detector",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://tinyjpg.com/",
+     "name": "tinyjpg.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.resilio.com/",
+     "name": "resilio.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://iverilog.icarus.com/",
+     "name": "iverilog.icarus.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://spuc.sourceforge.net/",
+     "name": "spuc.sourceforge.net",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://sestevenson.wordpress.com/implementation-of-fir-filtering-in-c-part-1/",
+     "name": "sestevenson.wordpress.com/implementation-of-fir-filtering-in-c-part-1/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.dspguide.com/",
+     "name": "dspguide.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://electronics.stackexchange.com/questions/79307/what-are-the-ways-to-make-a-dual-power-supply-from-a-single-voltage-source",
+     "name": "electronics.stackexchange.com/questions/79307/what-are-the-ways-to-make-a-dual-power-supply-from-a-single-voltage-source",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://polyphasic.net/",
+     "name": "polyphasic.net",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www-users.cs.york.ac.uk/~fisher/mkfilter/",
+     "name": "www-users.cs.york.ac.uk/~fisher/mkfilter/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.twitter.com/glenzac",
+     "name": "twitter.com/glenzac",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://datasheets.maximintegrated.com/en/ds/ICL7660-MAX1044.pdf",
+     "name": "datasheets.maximintegrated.com/en/ds/ICL7660-MAX1044.pdf",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://pimylifeup.com/raspberrypi-hdmi-cec/",
+     "name": "pimylifeup.com/raspberrypi-hdmi-cec/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://liquidsdr.org/",
+     "name": "liquidsdr.org",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://aquila-dsp.org/",
+     "name": "aquila-dsp.org",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://chipvault.sourceforge.net/",
+     "name": "chipvault.sourceforge.net",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://esim.fossee.in/home",
+     "name": "esim.fossee.in/home",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1",
+     "name": "creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://irplus-remote.github.io/",
+     "name": "irplus-remote.github.io",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.logiccircuit.org/",
+     "name": "logiccircuit.org",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.popularmechanics.com/science/tips/a584/2569841/",
+     "name": "popularmechanics.com/science/tips/a584/2569841/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://klayout.de/",
+     "name": "klayout.de",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://highlowtech.org/",
+     "name": "highlowtech.org",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://ubuntu-mate.community/t/controlling-raspberry-pi-with-tv-remote-using-hdmi-cec/4250",
+     "name": "ubuntu-mate.community/t/controlling-raspberry-pi-with-tv-remote-using-hdmi-cec/4250",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://atomberg.com/",
+     "name": "atomberg.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://pinout.xyz/#",
+     "name": "pinout.xyz/#",
+     "views": 1,
+     "children": null
+    }
+   ],
+   "other_clicks": 0,
+   "total_clicks": 704
+  }
+ },
+ "period": "year"
+}

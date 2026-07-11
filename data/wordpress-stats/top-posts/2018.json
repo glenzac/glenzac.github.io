@@ -1,0 +1,291 @@
+{
+ "date": "2018-12-31",
+ "days": {
+  "2018-01-01": {
+   "postviews": [
+    {
+     "id": 800,
+     "href": "https://glenzac.wordpress.com/2018/09/20/making-a-li-ion-battery-charger/",
+     "date": "2018-09-20 00:32:02",
+     "title": "Making a Li-ion battery charger",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 181,
+     "video_play": false
+    },
+    {
+     "id": 0,
+     "href": "https://glenzac.wordpress.com/",
+     "date": null,
+     "title": "Home page / Archives",
+     "type": "homepage",
+     "status": null,
+     "public": false,
+     "views": 25,
+     "video_play": false
+    },
+    {
+     "id": 242,
+     "href": "https://glenzac.wordpress.com/main/",
+     "date": "2017-12-24 13:04:31",
+     "title": "Home",
+     "type": "page",
+     "status": "publish",
+     "public": true,
+     "views": 10,
+     "video_play": false
+    },
+    {
+     "id": 567,
+     "href": "https://glenzac.wordpress.com/2018/05/28/using-ammonia-sensor-mq135-to-detect-foul-smelling-toilets/",
+     "date": "2018-05-28 17:59:23",
+     "title": "Using ammonia sensor - MQ137 to detect when a toilet needs cleaning?",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 9,
+     "video_play": false
+    },
+    {
+     "id": 475,
+     "href": "https://glenzac.wordpress.com/2018/03/23/i-finally-switched-from-chrome-to-firefox/",
+     "date": "2018-03-23 21:57:49",
+     "title": "I finally switched from Chrome to Firefox!",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 5,
+     "video_play": false
+    },
+    {
+     "id": 344,
+     "href": "https://glenzac.wordpress.com/2018/02/19/a-pov-data-display-using-attiny85-and-charlieplexing/",
+     "date": "2018-02-19 01:06:20",
+     "title": "A POV data display using ATTINY85 and charlieplexing",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 5,
+     "video_play": false
+    },
+    {
+     "id": 824,
+     "href": "https://glenzac.wordpress.com/2018/10/11/a-must-have-root-app-for-limiting-charging/",
+     "date": "2018-10-11 03:35:07",
+     "title": "A must have root app for limiting charging",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 4,
+     "video_play": false
+    },
+    {
+     "id": 1,
+     "href": "https://glenzac.wordpress.com/extras/about/",
+     "date": "2015-08-09 09:21:37",
+     "title": "About-old",
+     "type": "page",
+     "status": "draft",
+     "public": false,
+     "views": 3,
+     "video_play": false
+    },
+    {
+     "id": 669,
+     "href": "https://glenzac.wordpress.com/2018/06/22/mining-an-old-tablet/",
+     "date": "2018-06-22 21:16:29",
+     "title": "A Tablet at stake!",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 3,
+     "video_play": false
+    },
+    {
+     "id": 743,
+     "href": "https://glenzac.wordpress.com/2018/08/21/its-a-dvd-player-this-week/",
+     "date": "2018-08-21 01:26:48",
+     "title": "A DVD player at stake!",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 2,
+     "video_play": false
+    },
+    {
+     "id": 192,
+     "href": "https://glenzac.wordpress.com/2017/12/22/in-search-for-that-perfect-rom/",
+     "date": "2017-12-22 21:02:21",
+     "title": "In search of that perfect ROM",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 2,
+     "video_play": false
+    },
+    {
+     "id": 661,
+     "href": "https://glenzac.wordpress.com/2018/07/30/the-particle-photon/",
+     "date": "2018-07-30 22:29:19",
+     "title": "The Particle Photon",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 2,
+     "video_play": false
+    },
+    {
+     "id": 653,
+     "href": "https://glenzac.wordpress.com/2018/08/07/a-tribute-to-paul/",
+     "date": "2018-08-07 01:39:40",
+     "title": "A tribute to Paul.",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 2,
+     "video_play": false
+    },
+    {
+     "id": 378,
+     "href": "https://glenzac.wordpress.com/2018/03/07/thrive-app-review/",
+     "date": "2018-03-07 22:45:33",
+     "title": "THRIVE app review",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 2,
+     "video_play": false
+    },
+    {
+     "id": 302,
+     "href": "https://glenzac.wordpress.com/2018/01/27/the-silent-world-of-actions/",
+     "date": "2018-01-27 21:55:01",
+     "title": "The silent world of actions",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 2,
+     "video_play": false
+    },
+    {
+     "id": 841,
+     "href": "https://glenzac.wordpress.com/2018/11/05/laptop-battery-at-stake/",
+     "date": "2018-11-05 09:20:53",
+     "title": "Laptop Battery at stake!",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 1,
+     "video_play": false
+    },
+    {
+     "id": 736,
+     "href": "https://glenzac.wordpress.com/2018/08/10/capacitive-sensing-slider-timer/",
+     "date": "2018-08-10 01:55:38",
+     "title": "Capacitive sensing slider timer",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 1,
+     "video_play": false
+    },
+    {
+     "id": 699,
+     "href": "https://glenzac.wordpress.com/2018/07/17/wifi-rssi-testing/",
+     "date": "2018-07-17 01:26:07",
+     "title": "WiFi RSSI testing",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 1,
+     "video_play": false
+    },
+    {
+     "id": 502,
+     "href": "https://glenzac.wordpress.com/2017/07/24/my-experiments-with-ros/",
+     "date": "2017-07-24 23:51:56",
+     "title": "My Experiments with ROS",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 1,
+     "video_play": false
+    },
+    {
+     "id": 523,
+     "href": "https://glenzac.wordpress.com/2018/05/13/quora-opinions/",
+     "date": "2018-05-13 21:50:41",
+     "title": "quOra = Opinions",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 1,
+     "video_play": false
+    },
+    {
+     "id": 489,
+     "href": "https://glenzac.wordpress.com/2018/03/31/getting-started-with-the-cy8ckit-043-psoc-4-m-series-prototyping-kit/",
+     "date": "2018-03-31 01:39:13",
+     "title": "Getting started with the CY8CKIT-043 PSoC 4® M-Series Prototyping Kit",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 1,
+     "video_play": false
+    },
+    {
+     "id": 575,
+     "href": "https://glenzac.wordpress.com/2018/05/22/a-simpler-psoc-capsense-proximity-switch-example/",
+     "date": "2018-05-22 01:13:28",
+     "title": "A simpler PSoC CapSense Proximity switch example",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 1,
+     "video_play": false
+    },
+    {
+     "id": 473,
+     "href": "https://glenzac.wordpress.com/2018/03/21/the-big-list-of-cool-things-for-every-electronics-hobbyist/",
+     "date": "2018-03-21 00:02:25",
+     "title": "The Big List of resources for every Electronics hobbyist",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 1,
+     "video_play": false
+    },
+    {
+     "id": 186,
+     "href": "https://glenzac.wordpress.com/2015/11/19/passion-v-s-profession-which-one-rules/",
+     "date": "2015-11-19 12:13:40",
+     "title": "PASSION V/S PROFESSION: which one rules",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 1,
+     "video_play": false
+    },
+    {
+     "id": 8,
+     "href": "https://glenzac.wordpress.com/2017/12/23/the-need/",
+     "date": "2017-12-23 16:08:21",
+     "title": "The Need.",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 1,
+     "video_play": false
+    }
+   ],
+   "total_views": 269,
+   "dropped_ids": [
+    657,
+    305
+   ],
+   "other_views": 2
+  }
+ },
+ "period": "year"
+}

@@ -19,7 +19,7 @@ The Capture Mode is selected when **CAP** = 1\. The capture inputs **CCIxA** and
 • The timer value is copied into the **TAxCCRn** register  
 • The interrupt flag **CCIFG** is set
 
-https://i.imgur.com/ZmYHtfm.jpg
+![](@assets/images/2021/ZmYHtfm.jpg)
 
 Overflow logic is provided in each capture/compare register to indicate if a second capture was performed before the value from the first capture was read.Bit **COV** is set when this occurs.
 

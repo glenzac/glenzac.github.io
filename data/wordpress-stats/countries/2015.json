@@ -1,0 +1,43 @@
+{
+ "date": "2015-12-31",
+ "days": {
+  "2015-01-01": {
+   "views": [
+    {
+     "country_code": "CM",
+     "views": 2
+    },
+    {
+     "country_code": "US",
+     "views": 2
+    },
+    {
+     "country_code": "IN",
+     "views": 1
+    }
+   ],
+   "other_views": 0,
+   "total_views": 5
+  }
+ },
+ "country-info": {
+  "CM": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/32bdeee4ae53692c5f9a951141d82847358aa7d2282dfc6b42a15741c33c87a6?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/d586b943498ac91b17ecee8acc2b3de33e42f618f5a4bfbe7fd6197124cb4625?s=48",
+   "country_full": "Cameroon",
+   "map_region": "017"
+  },
+  "US": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/d0c9ee2dfb5087992fc9b2fc36c2d78311887d82934678b3118815d1f240951b?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/c582a850fc3fea67cbf9e88f7755a85870239bcf4138c9cf3a6f7c53e5a658ea?s=48",
+   "country_full": "United States",
+   "map_region": "021"
+  },
+  "IN": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/897cf89656acb4fded93aa7e326bd5b3cdd1745d7e88d05a67315393bc9b6896?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/b25dd4cacc153362451cdd6ed8264c2f747f3154a0e40ff66f49750627fdb853?s=48",
+   "country_full": "India",
+   "map_region": "034"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "date": "2017-12-31",
+ "days": {
+  "2017-01-01": {
+   "views": [
+    {
+     "country_code": "IN",
+     "views": 9
+    }
+   ],
+   "other_views": 0,
+   "total_views": 9
+  }
+ },
+ "country-info": {
+  "IN": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/897cf89656acb4fded93aa7e326bd5b3cdd1745d7e88d05a67315393bc9b6896?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/b25dd4cacc153362451cdd6ed8264c2f747f3154a0e40ff66f49750627fdb853?s=48",
+   "country_full": "India",
+   "map_region": "034"
+  }
+ }
+}

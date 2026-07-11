@@ -1,0 +1,12 @@
+{
+ "date": "2026-12-31",
+ "period": "year",
+ "days": {
+  "2026-01-01": {
+   "search_terms": [],
+   "encrypted_search_terms": 6,
+   "other_search_terms": 0,
+   "total_search_terms": 6
+  }
+ }
+}

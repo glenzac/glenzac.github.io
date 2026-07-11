@@ -8,7 +8,15 @@ import tailwindcss from '@tailwindcss/vite';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://glenzac.github.io',
-	integrations: [mdx(), sitemap(), pagefind()],
+	integrations: [
+		mdx(),
+		sitemap({
+			// Exclude the legacy-URL redirect stubs (/posts/<category>/<old-name>/);
+			// real posts live at /posts/<slug>/ (single path segment).
+			filter: (page) => !/\/posts\/[^/]+\/[^/]+\/$/.test(page),
+		}),
+		pagefind(),
+	],
 	vite: {
 		plugins: [tailwindcss()],
 	},

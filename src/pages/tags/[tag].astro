@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
 import { getCollection } from 'astro:content';
+import { postSlug } from '../../utils/postSlug';
 
 export async function getStaticPaths() {
 	const allPosts = await getCollection('posts', ({ data }) => !data.draft);
@@ -34,7 +35,7 @@ const { tag, posts } = Astro.props;
 				<PostCard
 					title={post.data.title}
 					date={new Date(post.data.date)}
-					slug={post.id}
+					slug={postSlug(post.id)}
 					categories={post.data.categories}
 					cover={post.data.cover}
 					summary={post.data.summary || post.data.description}

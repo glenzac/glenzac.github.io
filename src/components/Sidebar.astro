@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { postSlug } from '../utils/postSlug';
 import { Image } from 'astro:assets';
 
 
@@ -71,7 +72,7 @@ const recentPosts = allPosts
 				const loadingStrategy = index < 3 ? 'eager' : 'lazy';
 				return (
 					<li class="recent-post-item">
-						<a href={`/posts/${post.id}`} class="recent-post-link">
+						<a href={`/posts/${postSlug(post.id)}`} class="recent-post-link">
 							<div class="recent-post-thumb">
 								{coverImage ? (
 									<Image

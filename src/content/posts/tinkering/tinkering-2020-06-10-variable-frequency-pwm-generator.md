@@ -6,11 +6,6 @@ cover:
   alt: vqGjMT6
   image: "@assets/wp-content/uploads/2020/02/vqgjmt6.jpg"
 date: "2020-06-10T06:10:22+00:00"
-enclosure: |-
-  https://i.imgur.com/OiMDDou.mp4
-  1957922
-  video/mp4
-
 summary: ""
 tags:
   - circuit
@@ -45,4 +40,4 @@ Phew this is the last time I'm going to buy perforated boards with straight line
 
 ![](@assets/images/2020/2cQ6zwe.jpg)
 
-https://i.imgur.com/OiMDDou.mp4
+<video controls muted playsinline src="/videos/OiMDDou.mp4"></video>

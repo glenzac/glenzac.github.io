@@ -1,0 +1,348 @@
+{
+ "date": "2026-12-31",
+ "days": {
+  "2026-01-01": {
+   "groups": [
+    {
+     "group": "Search Engines",
+     "name": "Search Engines",
+     "icon": "https://wordpress.com/i/stats/search-engine.png",
+     "total": 2207,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "Google Search",
+       "icon": "https://secure.gravatar.com/blavatar/426d27def7eef69afd58ab5280173a02e50c3a2f9d0b9ebce3fb453a69af2b44?s=48",
+       "views": 2118,
+       "children": [
+        {
+         "name": "google.com",
+         "url": "http://www.google.com/",
+         "icon": null,
+         "views": 2112
+        },
+        {
+         "name": "google.ie",
+         "url": "http://www.google.ie",
+         "icon": "https://secure.gravatar.com/blavatar/e56f09e445864b8ce849f1b0d6d5700d819ed0b8db9acf80d36975580010ccfd?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.com.ph",
+         "url": "http://www.google.com.ph",
+         "icon": "https://secure.gravatar.com/blavatar/dcb45be063827be567ae37629fcee9484412e7195cd31866e5357d81bcdffc9d?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.bg",
+         "url": "http://www.google.bg",
+         "icon": "https://secure.gravatar.com/blavatar/e2b2340233ba1336fc3388a8bbfa99a33f8244c04636501cc91ae9f01d631c22?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.com.hk",
+         "url": "http://www.google.com.hk",
+         "icon": "https://secure.gravatar.com/blavatar/8acdcb1de80fe40c222f54ceb28878407e0319a948c4728cd80984dab30f9b92?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.com.au",
+         "url": "http://www.google.com.au",
+         "icon": "https://secure.gravatar.com/blavatar/9096d15059b3d095ac1ffdae21b4b0775d11bd8bad5a56e9614359e17b68d0b4?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.co.th",
+         "url": "http://www.google.co.th",
+         "icon": "https://secure.gravatar.com/blavatar/52c122ed9ebfa3ef15928f89046079e12ca6dbe58fa5d4f268a013d71188a10a?s=48",
+         "views": 1
+        }
+       ]
+      },
+      {
+       "name": "Bing",
+       "icon": "https://secure.gravatar.com/blavatar/3c77f261a156a5308fee53720276395ef78d2e7367e4225a3d3d93f4accd1dd3?s=48",
+       "views": 67,
+       "children": [
+        {
+         "name": "bing.com",
+         "url": "https://bing.com/",
+         "icon": "https://secure.gravatar.com/blavatar/ccbfcc1a6af5041e560f737f8f251831e4c45c6024be0469de133f7fb3971e1d?s=48",
+         "views": 40
+        },
+        {
+         "name": "bing.com",
+         "url": "https://www.bing.com/",
+         "icon": "https://secure.gravatar.com/blavatar/5f44044454ef448148dfbb951dc486368bf530c870c5059054da5f7138927c7e?s=48",
+         "views": 27
+        }
+       ]
+      },
+      {
+       "name": "duckduckgo.com",
+       "url": "https://duckduckgo.com/",
+       "icon": null,
+       "views": 11
+      },
+      {
+       "name": "Yandex",
+       "icon": null,
+       "views": 6,
+       "children": [
+        {
+         "name": "yandex.ru",
+         "url": "https://yandex.ru/",
+         "icon": null,
+         "views": 5
+        },
+        {
+         "name": "yandex.com",
+         "url": "https://yandex.com/",
+         "icon": null,
+         "views": 1
+        }
+       ]
+      },
+      {
+       "name": "Yahoo Search",
+       "url": "https://search.yahoo.com/",
+       "icon": "https://secure.gravatar.com/blavatar/0a2eb9a2f7af2ab8ef3c3b9279fdd12f2b2b9b400311064a7222b8a313efeec6?s=48",
+       "views": 5
+      }
+     ]
+    },
+    {
+     "group": "com.google.android.googlequicksearchbox",
+     "name": "com.google.android.googlequicksearchbox",
+     "icon": null,
+     "total": 180,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "com.google.android.googlequicksearchbox",
+       "url": "http://android-app://com.google.android.googlequicksearchbox/",
+       "views": 179
+      },
+      {
+       "name": "com.google.android.googlequicksearchbox",
+       "url": "http://android-app://com.google.android.googlequicksearchbox",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "group": "chatgpt.com",
+     "name": "chatgpt.com",
+     "url": "https://chatgpt.com/",
+     "icon": "https://secure.gravatar.com/blavatar/c6240ca88eed5b237451d4ceab51a5df1e8bc3b0a4a0e099fbe4b9f0d5cf23a2?s=48",
+     "total": 10,
+     "follow_data": null,
+     "results": {
+      "views": 10
+     }
+    },
+    {
+     "group": "msec.it",
+     "name": "msec.it",
+     "url": "https://www.msec.it/",
+     "icon": null,
+     "total": 10,
+     "follow_data": null,
+     "results": {
+      "views": 10
+     }
+    },
+    {
+     "group": "statics.teams.cdn.office.net",
+     "name": "statics.teams.cdn.office.net",
+     "url": "https://statics.teams.cdn.office.net/",
+     "icon": null,
+     "total": 10,
+     "follow_data": null,
+     "results": {
+      "views": 10
+     }
+    },
+    {
+     "group": "facebook.com",
+     "name": "Facebook",
+     "url": "http://facebook.com/",
+     "icon": "https://secure.gravatar.com/blavatar/31193328f8e21dfb6c99f322d22d7b0b508778e64ffbba86e52293379031b874?s=48",
+     "total": 7,
+     "follow_data": null,
+     "results": {
+      "views": 7
+     }
+    },
+    {
+     "group": "perplexity.ai",
+     "name": "perplexity.ai",
+     "url": "https://www.perplexity.ai/",
+     "icon": null,
+     "total": 7,
+     "follow_data": null,
+     "results": {
+      "views": 7
+     }
+    },
+    {
+     "group": "search.brave.com",
+     "name": "search.brave.com",
+     "url": "https://search.brave.com/",
+     "icon": null,
+     "total": 4,
+     "follow_data": null,
+     "results": {
+      "views": 4
+     }
+    },
+    {
+     "group": "gemini.google.com",
+     "name": "gemini.google.com",
+     "url": "https://gemini.google.com/",
+     "icon": null,
+     "total": 4,
+     "follow_data": null,
+     "results": {
+      "views": 4
+     }
+    },
+    {
+     "group": "ya.ru",
+     "name": "ya.ru",
+     "url": "https://ya.ru/",
+     "icon": null,
+     "total": 4,
+     "follow_data": null,
+     "results": {
+      "views": 4
+     }
+    },
+    {
+     "group": "WordPress.com Reader",
+     "name": "WordPress.com Reader",
+     "url": "https://wordpress.com/reader/",
+     "icon": "https://secure.gravatar.com/blavatar/c5ba929e1803dd1d2865d53b671e5d0a1f64071ecd9d720d7377dce63fdab0a2?s=48",
+     "total": 4,
+     "follow_data": null,
+     "results": {
+      "views": 4
+     }
+    },
+    {
+     "group": "electrondepot.com",
+     "name": "electrondepot.com",
+     "url": "https://www.electrondepot.com/",
+     "icon": null,
+     "total": 3,
+     "follow_data": null,
+     "results": {
+      "views": 3
+     }
+    },
+    {
+     "group": "claude.ai",
+     "name": "claude.ai",
+     "url": "https://claude.ai/",
+     "icon": null,
+     "total": 2,
+     "follow_data": null,
+     "results": {
+      "views": 2
+     }
+    },
+    {
+     "group": "duck.ai",
+     "name": "duck.ai",
+     "url": "https://duck.ai/",
+     "icon": null,
+     "total": 2,
+     "follow_data": null,
+     "results": {
+      "views": 2
+     }
+    },
+    {
+     "group": "instagram.com",
+     "name": "Instagram",
+     "url": "https://l.instagram.com/",
+     "icon": "https://secure.gravatar.com/blavatar/055878d4c9c9aa326800d2936d3c2f18269b5c153402f71f1811bddede6a4551?s=48",
+     "total": 2,
+     "follow_data": null,
+     "results": {
+      "views": 2
+     }
+    },
+    {
+     "group": "go.aftvnews.com",
+     "name": "go.aftvnews.com",
+     "url": "https://go.aftvnews.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "notebooklm.google.com",
+     "name": "notebooklm.google.com",
+     "url": "https://notebooklm.google.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "ecosia.org",
+     "name": "ecosia.org",
+     "url": "https://www.ecosia.org/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "translate.google.com",
+     "name": "translate.google.com",
+     "url": "https://translate.google.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "mail.google.com",
+     "name": "Gmail",
+     "url": "https://mail.google.com/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    },
+    {
+     "group": "seekly.zone",
+     "name": "seekly.zone",
+     "url": "https://seekly.zone/",
+     "icon": null,
+     "total": 1,
+     "follow_data": null,
+     "results": {
+      "views": 1
+     }
+    }
+   ],
+   "other_views": 0,
+   "total_views": 2462
+  }
+ },
+ "period": "year"
+}

@@ -1,0 +1,134 @@
+{
+ "date": "2018-12-31",
+ "days": {
+  "2018-01-01": {
+   "groups": [
+    {
+     "group": "instructables.com",
+     "name": "instructables.com/id/Li-ion-battery-charging/",
+     "url": "https://www.instructables.com/id/Li-ion-battery-charging/",
+     "icon": null,
+     "total": 142,
+     "follow_data": null,
+     "results": {
+      "views": 142
+     }
+    },
+    {
+     "group": "Search Engines",
+     "name": "Search Engines",
+     "icon": "https://wordpress.com/i/stats/search-engine.png",
+     "total": 17,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "Google Search",
+       "icon": "https://secure.gravatar.com/blavatar/426d27def7eef69afd58ab5280173a02e50c3a2f9d0b9ebce3fb453a69af2b44?s=48",
+       "views": 10,
+       "children": [
+        {
+         "name": "google.com",
+         "url": "http://www.google.com/",
+         "icon": null,
+         "views": 8
+        },
+        {
+         "name": "google.com.tw",
+         "url": "http://www.google.com.tw",
+         "icon": "https://secure.gravatar.com/blavatar/aa032ec83e5ebbed34bf341b680bca77528d12df2fb89d4ab8d1224fdbfa76f8?s=48",
+         "views": 1
+        },
+        {
+         "name": "google.co.jp",
+         "url": "http://www.google.co.jp",
+         "icon": "https://secure.gravatar.com/blavatar/71c665c14ea20038772e2f90b2270b54d09788b8eb1e7655ce2517276dbaa9aa?s=48",
+         "views": 1
+        }
+       ]
+      },
+      {
+       "name": "Bing",
+       "url": "https://www.bing.com/",
+       "icon": "https://secure.gravatar.com/blavatar/3c77f261a156a5308fee53720276395ef78d2e7367e4225a3d3d93f4accd1dd3?s=48",
+       "views": 5
+      },
+      {
+       "name": "duckduckgo.com",
+       "url": "https://duckduckgo.com/",
+       "icon": null,
+       "views": 1
+      },
+      {
+       "name": "Yahoo Search",
+       "url": "https://r.search.yahoo.com/_ylt=AwrwNFjdh05aLxwAhBfZjSM5;_ylu=X3oDMTBycWJpM21vBGNvbG8Dc2czBHBvcwMxBHZ0aWQDBHNlYwNzcg--/RV=2/RE=1515124830/RO=10/RU=https%3a%2f%2fglenzac.wordpress.com%2f2015%2f11%2f19%2fpassion-v-s-profession-which-one-rules%2f/RK=2/RS=Gi8qd5on6VNOEgChdRsn1G..4PY-",
+       "icon": "https://secure.gravatar.com/blavatar/0a2eb9a2f7af2ab8ef3c3b9279fdd12f2b2b9b400311064a7222b8a313efeec6?s=48",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "group": "WordPress.com Reader",
+     "name": "WordPress.com Reader",
+     "url": "https://wordpress.com/reader/",
+     "icon": "https://secure.gravatar.com/blavatar/c5ba929e1803dd1d2865d53b671e5d0a1f64071ecd9d720d7377dce63fdab0a2?s=48",
+     "total": 12,
+     "follow_data": null,
+     "results": {
+      "views": 12
+     }
+    },
+    {
+     "group": "mightyohm.com",
+     "name": "mightyohm.com",
+     "icon": null,
+     "total": 5,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "mightyohm.com/blog/2008/09/arduino-based-avr-high-voltage-programmer/",
+       "url": "https://mightyohm.com/blog/2008/09/arduino-based-avr-high-voltage-programmer/",
+       "views": 2
+      },
+      {
+       "name": "mightyohm.com/blog/2008/09/arduino-based-avr-high-voltage-programmer/",
+       "url": "http://mightyohm.com/blog/2008/09/arduino-based-avr-high-voltage-programmer/",
+       "views": 2
+      },
+      {
+       "name": "mightyohm.com/blog/category/amateur-radio/",
+       "url": "https://mightyohm.com/blog/category/amateur-radio/",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "group": "www-instructables-com.cdn.ampproject.org",
+     "name": "www-instructables-com.cdn.ampproject.org",
+     "icon": null,
+     "total": 3,
+     "follow_data": null,
+     "results": [
+      {
+       "name": "www-instructables-com.cdn.ampproject.org/c/s/www.instructables.com/id/Li-ion-battery-charging/?amp_page=true",
+       "url": "https://www-instructables-com.cdn.ampproject.org/c/s/www.instructables.com/id/Li-ion-battery-charging/?amp_page=true",
+       "views": 1
+      },
+      {
+       "name": "www-instructables-com.cdn.ampproject.org/v/s/www.instructables.com/id/Li-ion-battery-charging/?amp_page=true&usqp=mq331AQECAEoAQ%3D%3D&amp_js_v=0.1",
+       "url": "https://www-instructables-com.cdn.ampproject.org/v/s/www.instructables.com/id/Li-ion-battery-charging/?amp_page=true&usqp=mq331AQECAEoAQ%3D%3D&amp_js_v=0.1",
+       "views": 1
+      },
+      {
+       "name": "www-instructables-com.cdn.ampproject.org/v/s/www.instructables.com/id/Li-ion-battery-charging/?amp_page=true&usqp=mq331AQGCAEoAVgB&amp_js_v=0.1",
+       "url": "https://www-instructables-com.cdn.ampproject.org/v/s/www.instructables.com/id/Li-ion-battery-charging/?amp_page=true&usqp=mq331AQGCAEoAVgB&amp_js_v=0.1",
+       "views": 1
+      }
+     ]
+    }
+   ],
+   "other_views": 0,
+   "total_views": 179
+  }
+ },
+ "period": "year"
+}

@@ -20,21 +20,21 @@ The TI-MSP430 was highly recommended on most online forums for anybody who wante
 
 I also had the option of going with the STM32 (another highly recommended microcontroller) but I didn't want to directly jump to ARM devices. I wanted to start small.
 
-https://i.imgur.com/pQbBhSg.jpg
+![](@assets/images/2020/pQbBhSg.jpg)
 
-https://i.imgur.com/EpmTKuj.jpg
+![](@assets/images/2020/EpmTKuj.jpg)
 
-https://i.imgur.com/xICYBZ2.jpg
+![](@assets/images/2020/xICYBZ2.jpg)
 
-https://i.imgur.com/ciwpvD9.jpg
+![](@assets/images/2020/ciwpvD9.jpg)
 
-https://i.imgur.com/oUh1Xg6.jpg
+![](@assets/images/2020/oUh1Xg6.jpg)
 
 TI decided to keep it nice and simple. Had the hardware and pins mapping and a small Evaluation kit user guide that only asked the user to visit the TI website for user guides and software.
 
-https://i.imgur.com/dimrN7Y.jpg
+![](@assets/images/2020/dimrN7Y.jpg)
 
-https://i.imgur.com/9AoKx7e.jpg
+![](@assets/images/2020/9AoKx7e.jpg)
 
 I really had trouble deciding on the right version of MSP430 device to buy. I had shortlisted 3 popular ones based on their availability. The Value-line series device MSP430G2xx and the MSP430F55xxx and finally the MSP430FR2xxx.
 

@@ -1,0 +1,41 @@
+{
+ "date": "2023-12-31",
+ "period": "year",
+ "days": {
+  "2023-01-01": {
+   "search_terms": [
+    {
+     "term": "ecg",
+     "views": 2
+    },
+    {
+     "term": "microwave.wiring",
+     "views": 2
+    },
+    {
+     "term": "open all pdf from a folder pypdf",
+     "views": 1
+    },
+    {
+     "term": "how to get a raspberry pi to run youtube with all functions",
+     "views": 1
+    },
+    {
+     "term": "old dvd amplifier circuit",
+     "views": 1
+    },
+    {
+     "term": "online calculator vs offline calculator",
+     "views": 1
+    },
+    {
+     "term": "dvd power supply circuit diagram",
+     "views": 1
+    }
+   ],
+   "encrypted_search_terms": 368,
+   "other_search_terms": 0,
+   "total_search_terms": 377
+  }
+ }
+}

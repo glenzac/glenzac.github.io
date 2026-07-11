@@ -1,0 +1,56 @@
+{
+ "date": "2017-12-31",
+ "days": {
+  "2017-01-01": {
+   "postviews": [
+    {
+     "id": 0,
+     "href": "https://glenzac.wordpress.com/",
+     "date": null,
+     "title": "Home page / Archives",
+     "type": "homepage",
+     "status": null,
+     "public": false,
+     "views": 5,
+     "video_play": false
+    },
+    {
+     "id": 242,
+     "href": "https://glenzac.wordpress.com/main/",
+     "date": "2017-12-24 13:04:31",
+     "title": "Home",
+     "type": "page",
+     "status": "publish",
+     "public": true,
+     "views": 2,
+     "video_play": false
+    },
+    {
+     "id": 189,
+     "href": "https://glenzac.wordpress.com/2017/08/22/the-big-circle-seasons/",
+     "date": "2017-08-22 12:33:45",
+     "title": "The 'Big Circle' - Seasons",
+     "type": "post",
+     "status": "publish",
+     "public": true,
+     "views": 1,
+     "video_play": false
+    },
+    {
+     "id": 269,
+     "href": "https://glenzac.wordpress.com/extras/design/",
+     "date": "2017-12-24 20:45:48",
+     "title": "Design",
+     "type": "page",
+     "status": "publish",
+     "public": true,
+     "views": 1,
+     "video_play": false
+    }
+   ],
+   "total_views": "9",
+   "dropped_ids": []
+  }
+ },
+ "period": "year"
+}

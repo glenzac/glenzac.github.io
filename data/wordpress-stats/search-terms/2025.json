@@ -1,0 +1,33 @@
+{
+ "date": "2025-12-31",
+ "period": "year",
+ "days": {
+  "2025-01-01": {
+   "search_terms": [
+    {
+     "term": "dvd lens voltage diagram",
+     "views": 2
+    },
+    {
+     "term": "connection of inside a microwave",
+     "views": 2
+    },
+    {
+     "term": "dvd player parts name",
+     "views": 1
+    },
+    {
+     "term": "parts of  a dvd",
+     "views": 1
+    },
+    {
+     "term": "how to get youtube on osmc",
+     "views": 1
+    }
+   ],
+   "encrypted_search_terms": 133,
+   "other_search_terms": 0,
+   "total_search_terms": 140
+  }
+ }
+}

@@ -6,11 +6,6 @@ cover:
   alt: optimised-featured
   image: "@assets/wp-content/uploads/2020/02/optimised-featured.jpg"
 date: "2020-03-04T13:12:51+00:00"
-enclosure: |-
-  https://i.imgur.com/9tXJsr8.mp4
-  548140
-  video/mp4
-
 summary: '![](https://img.shields.io/badge/Post-In%20Progress-brightgreen.svg)'
 tags:
   - 3d-printing
@@ -68,7 +63,7 @@ The enclosure uses slots as a locking mechanism.
 
 ![](@assets/images/2020/xc22oIr.png)
 
-https://i.imgur.com/9tXJsr8.mp4
+<video controls muted playsinline src="/videos/9tXJsr8.mp4"></video>
 
 ### The Case:
 

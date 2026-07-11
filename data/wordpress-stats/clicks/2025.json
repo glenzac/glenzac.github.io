@@ -1,0 +1,1538 @@
+{
+ "date": "2025-12-31",
+ "days": {
+  "2025-01-01": {
+   "clicks": [
+    {
+     "icon": null,
+     "url": null,
+     "name": "drive.google.com",
+     "views": 610,
+     "children": [
+      {
+       "url": "https://drive.google.com/open?id=1iwnLhuqCglDixIUDfQU2IDphx5zZn1KB",
+       "name": "drive.google.com/open?id=1iwnLhuqCglDixIUDfQU2IDphx5zZn1KB",
+       "views": 310
+      },
+      {
+       "url": "https://drive.google.com/open?id=1xrgt_RNGtGreaA8Z371iloxJJ-D4e_Ann7G26KgT4YI",
+       "name": "drive.google.com/open?id=1xrgt_RNGtGreaA8Z371iloxJJ-D4e_Ann7G26KgT4YI",
+       "views": 177
+      },
+      {
+       "url": "https://drive.google.com/open?id=1Vjoqpe2VLiG-Dh8-j3T4roIhGmbSqOek",
+       "name": "drive.google.com/open?id=1Vjoqpe2VLiG-Dh8-j3T4roIhGmbSqOek",
+       "views": 38
+      },
+      {
+       "url": "https://drive.google.com/open?id=1FERhSDfLk0BAQM4dIjtxtb51GHkY55OZ",
+       "name": "drive.google.com/open?id=1FERhSDfLk0BAQM4dIjtxtb51GHkY55OZ",
+       "views": 36
+      },
+      {
+       "url": "https://drive.google.com/open?id=1SmVk-UKjU5Txz7n4XtXaLR8sn5X_m8Hd",
+       "name": "drive.google.com/open?id=1SmVk-UKjU5Txz7n4XtXaLR8sn5X_m8Hd",
+       "views": 18
+      },
+      {
+       "url": "https://drive.google.com/open?id=1H9TMdvzQbodYp-KvaYcD_jdl-GM3h0sv",
+       "name": "drive.google.com/open?id=1H9TMdvzQbodYp-KvaYcD_jdl-GM3h0sv",
+       "views": 10
+      },
+      {
+       "url": "https://drive.google.com/open?id=1Y4Tmg_Hab5k2O6HNuWMNP2K-eRkw4oZO",
+       "name": "drive.google.com/open?id=1Y4Tmg_Hab5k2O6HNuWMNP2K-eRkw4oZO",
+       "views": 7
+      },
+      {
+       "url": "https://drive.google.com/open?id=1yXKxjsWxHYU5TE74-5EYB8yabKiaWvr0",
+       "name": "drive.google.com/open?id=1yXKxjsWxHYU5TE74-5EYB8yabKiaWvr0",
+       "views": 6
+      },
+      {
+       "url": "https://drive.google.com/open?id=1Jzop1DJHNJYrhrkWfAgfsLzyc-h-l0OZ",
+       "name": "drive.google.com/open?id=1Jzop1DJHNJYrhrkWfAgfsLzyc-h-l0OZ",
+       "views": 5
+      },
+      {
+       "url": "https://drive.google.com/open?id=1d10An-pY24Ijau1mH0oj2jXm6JyqX9PZ",
+       "name": "drive.google.com/open?id=1d10An-pY24Ijau1mH0oj2jXm6JyqX9PZ",
+       "views": 2
+      },
+      {
+       "url": "https://drive.google.com/open?id=1ozwDdCkxPRE_DFwyeEiLh0i4CIVu_gDo",
+       "name": "drive.google.com/open?id=1ozwDdCkxPRE_DFwyeEiLh0i4CIVu_gDo",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/9fbdb3cd501c9c79e860ff5092870489fc8b5482905a024ff05004296c8af722?s=48",
+     "url": null,
+     "name": "glenzac.wordpress.com",
+     "views": 190,
+     "children": [
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/07/microwave.jpg",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/07/microwave.jpg",
+       "views": 50
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2023/12/image.png",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2023/12/image.png",
+       "views": 44
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/07/ffc_2.jpg",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/07/ffc_2.jpg",
+       "views": 34
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/07/ffc_1.jpg",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/07/ffc_1.jpg",
+       "views": 14
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/08/chip_quik_silver_paste.jpg",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/08/chip_quik_silver_paste.jpg",
+       "views": 11
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/08/ffc_repaired.jpg",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/08/ffc_repaired.jpg",
+       "views": 10
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2023/12/image-3.png",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2023/12/image-3.png",
+       "views": 9
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/06/pypdf.png",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/06/pypdf.png",
+       "views": 7
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2021/04/trilium-1.png",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2021/04/trilium-1.png",
+       "views": 5
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2023/12/image-4.png",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2023/12/image-4.png",
+       "views": 5
+      },
+      {
+       "url": "https://glenzac.wordpress.com/wp-content/uploads/2023/12/image-2.png",
+       "name": "glenzac.wordpress.com/wp-content/uploads/2023/12/image-2.png",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/3aeb002460381c6f258e8395d3026f571f0d9a76488dcd837639b13aed316560?s=48",
+     "url": null,
+     "name": "github.com",
+     "views": 69,
+     "children": [
+      {
+       "url": "https://github.com/truongnmt/DeepECG",
+       "name": "github.com/truongnmt/DeepECG",
+       "views": 8
+      },
+      {
+       "url": "https://github.com/DusanKostic/QRSdetection",
+       "name": "github.com/DusanKostic/QRSdetection",
+       "views": 7
+      },
+      {
+       "url": "https://github.com/c-labpl/qrs_detector",
+       "name": "github.com/c-labpl/qrs_detector",
+       "views": 6
+      },
+      {
+       "url": "https://github.com/kosachevds/qrs_detector",
+       "name": "github.com/kosachevds/qrs_detector",
+       "views": 6
+      },
+      {
+       "url": "https://github.com/rafaelmmoreira/PanTompkinsQRS",
+       "name": "github.com/rafaelmmoreira/PanTompkinsQRS",
+       "views": 4
+      },
+      {
+       "url": "https://github.com/glenzac/raspberrypi-tv",
+       "name": "github.com/glenzac/raspberrypi-tv",
+       "views": 4
+      },
+      {
+       "url": "https://github.com/zadam/trilium",
+       "name": "github.com/zadam/trilium",
+       "views": 4
+      },
+      {
+       "url": "https://github.com/go-shiori/shiori",
+       "name": "github.com/go-shiori/shiori",
+       "views": 4
+      },
+      {
+       "url": "https://github.com/KChen89/QRS-detection",
+       "name": "github.com/KChen89/QRS-detection",
+       "views": 3
+      },
+      {
+       "url": "https://github.com/kosachevds/qrs_detector/tree/master/python",
+       "name": "github.com/kosachevds/qrs_detector/tree/master/python",
+       "views": 3
+      },
+      {
+       "url": "https://github.com/OpenTimer/OpenTimer",
+       "name": "github.com/OpenTimer/OpenTimer",
+       "views": 3
+      },
+      {
+       "url": "https://github.com/hooman650/BioSigKit",
+       "name": "github.com/hooman650/BioSigKit",
+       "views": 3
+      },
+      {
+       "url": "https://github.com/marianpetruk/ECG_analysis",
+       "name": "github.com/marianpetruk/ECG_analysis",
+       "views": 3
+      },
+      {
+       "url": "https://github.com/ytdl-org/youtube-dl",
+       "name": "github.com/ytdl-org/youtube-dl",
+       "views": 2
+      },
+      {
+       "url": "https://github.com/aburguera/QRS_DETECT",
+       "name": "github.com/aburguera/QRS_DETECT",
+       "views": 2
+      },
+      {
+       "url": "https://github.com/andystroz/ecgSignalProcessing",
+       "name": "github.com/andystroz/ecgSignalProcessing",
+       "views": 2
+      },
+      {
+       "url": "https://github.com/HangsikShin/QRS-Detection/tree/master/Simple-and-Robust-Realtime-QRS-Detection-Algorithm-based-on-Spatiotemporal-Characteristic-of-the-QRS-Complex",
+       "name": "github.com/HangsikShin/QRS-Detection/tree/master/Simple-and-Robust-Realtime-QRS-Detection-Algorithm-based-on-Spatiotemporal-Characteristic-of-the-QRS-Complex",
+       "views": 2
+      },
+      {
+       "url": "https://github.com/ruohoruotsi/Butterworth-Filter-Design",
+       "name": "github.com/ruohoruotsi/Butterworth-Filter-Design",
+       "views": 1
+      },
+      {
+       "url": "https://github.com/hneemann/Digital",
+       "name": "github.com/hneemann/Digital",
+       "views": 1
+      },
+      {
+       "url": "https://github.com/vince-xunzhe/Electrocardiograph-processing-system",
+       "name": "github.com/vince-xunzhe/Electrocardiograph-processing-system",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "i.imgur.com",
+     "views": 52,
+     "children": [
+      {
+       "url": "https://i.imgur.com/FNTfSTP.jpg",
+       "name": "i.imgur.com/FNTfSTP.jpg",
+       "views": 20
+      },
+      {
+       "url": "https://i.imgur.com/2OX3l47.jpg",
+       "name": "i.imgur.com/2OX3l47.jpg",
+       "views": 5
+      },
+      {
+       "url": "https://i.imgur.com/h0BpU5Z.jpg",
+       "name": "i.imgur.com/h0BpU5Z.jpg",
+       "views": 4
+      },
+      {
+       "url": "https://i.imgur.com/5jnYh7C.jpg",
+       "name": "i.imgur.com/5jnYh7C.jpg",
+       "views": 4
+      },
+      {
+       "url": "https://i.imgur.com/5G290g3.jpg",
+       "name": "i.imgur.com/5G290g3.jpg",
+       "views": 4
+      },
+      {
+       "url": "https://i.imgur.com/0xH0hxK.jpg",
+       "name": "i.imgur.com/0xH0hxK.jpg",
+       "views": 3
+      },
+      {
+       "url": "https://i.imgur.com/tHcnTl3.jpg",
+       "name": "i.imgur.com/tHcnTl3.jpg",
+       "views": 3
+      },
+      {
+       "url": "https://i.imgur.com/wR8jr6h.jpg",
+       "name": "i.imgur.com/wR8jr6h.jpg",
+       "views": 3
+      },
+      {
+       "url": "https://i.imgur.com/03wPqAr.jpg",
+       "name": "i.imgur.com/03wPqAr.jpg",
+       "views": 2
+      },
+      {
+       "url": "https://i.imgur.com/yM6mDPp.jpg",
+       "name": "i.imgur.com/yM6mDPp.jpg",
+       "views": 1
+      },
+      {
+       "url": "https://i.imgur.com/rB7vTov.jpg",
+       "name": "i.imgur.com/rB7vTov.jpg",
+       "views": 1
+      },
+      {
+       "url": "https://i.imgur.com/GHRwuy2.jpg?1.jpg",
+       "name": "i.imgur.com/GHRwuy2.jpg?1.jpg",
+       "views": 1
+      },
+      {
+       "url": "https://i.imgur.com/3yZ2pjN.jpg",
+       "name": "i.imgur.com/3yZ2pjN.jpg",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://e2e.ti.com/support/amplifiers/f/14/p/248858/871282",
+     "name": "e2e.ti.com/support/amplifiers/f/14/p/248858/871282",
+     "views": 39,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://docs.google.com/spreadsheets/d/146w_0uU9As0id8H1MLw_fddu173FlqVm8nAkZ5s5otE/edit?usp=sharing",
+     "name": "docs.google.com/spreadsheets/d/146w_0uU9As0id8H1MLw_fddu173FlqVm8nAkZ5s5otE/edit?usp=sharing",
+     "views": 37,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://media.thechalkboardmag.com/wp-content/uploads/2018/04/29212018/feelings-wheel-explained.jpg",
+     "name": "media.thechalkboardmag.com/wp-content/uploads/2018/04/29212018/feelings-wheel-explained.jpg",
+     "views": 36,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/d515ac8f2696affb0b81cae0f6377c7edd9f7621c7ac1e3159450cd32b434e66?s=48",
+     "url": null,
+     "name": "wordpress.com",
+     "views": 34,
+     "children": [
+      {
+       "url": "https://wordpress.com/start/?ref=marketing_bar",
+       "name": "wordpress.com/start/?ref=marketing_bar",
+       "views": 24
+      },
+      {
+       "url": "https://wordpress.com/?ref=marketing_bar",
+       "name": "wordpress.com/?ref=marketing_bar",
+       "views": 6
+      },
+      {
+       "url": "https://wordpress.com/start?ref=image-landing-page",
+       "name": "wordpress.com/start?ref=image-landing-page",
+       "views": 3
+      },
+      {
+       "url": "https://wordpress.com/post/glenzac.wordpress.com/940",
+       "name": "wordpress.com/post/glenzac.wordpress.com/940",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://thechalkboardmag.com/the-feelings-circle-chart-emotional-communication/",
+     "name": "thechalkboardmag.com/the-feelings-circle-chart-emotional-communication/",
+     "views": 31,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "forums.ni.com",
+     "views": 29,
+     "children": [
+      {
+       "url": "https://forums.ni.com/t5/Multisim-and-Ultiboard/simulating-ecg-signal-on-multisim/td-p/1121584",
+       "name": "forums.ni.com/t5/Multisim-and-Ultiboard/simulating-ecg-signal-on-multisim/td-p/1121584",
+       "views": 23
+      },
+      {
+       "url": "https://forums.ni.com/t5/Projects-Products/Free-6-Month-Evaluation-of-LabVIEW-Student-Edition-for-at-home/ta-p/3497362",
+       "name": "forums.ni.com/t5/Projects-Products/Free-6-Month-Evaluation-of-LabVIEW-Student-Edition-for-at-home/ta-p/3497362",
+       "views": 6
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.ni.com",
+     "views": 25,
+     "children": [
+      {
+       "url": "http://www.ni.com/example/30925/en/",
+       "name": "ni.com/example/30925/en/",
+       "views": 22
+      },
+      {
+       "url": "http://www.ni.com/multisim/",
+       "name": "ni.com/multisim/",
+       "views": 3
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "go.skimresources.com",
+     "views": 24,
+     "children": [
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fautomattic.com%2Fcookies%2F&xs=1&xtz=-330&xuuid=3278c29232699e4d020ebc75c2892342&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=8630fe84e49f0d779ca09a130113cab9",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fautomattic.com%2Fcookies%2F&xs=1&xtz=-330&xuuid=3278c29232699e4d020ebc75c2892342&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=8630fe84e49f0d779ca09a130113cab9",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=240&xuuid=b0ddd42622f0638ee6f7f3a35ff59720&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=c62464ed415ef571d544ef897c2dea1c",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=240&xuuid=b0ddd42622f0638ee6f7f3a35ff59720&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=c62464ed415ef571d544ef897c2dea1c",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=420&xuuid=6411ed7f546c522bfea99396cc1b357e&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=462882d8360dff797ef647971f66d804",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=420&xuuid=6411ed7f546c522bfea99396cc1b357e&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=462882d8360dff797ef647971f66d804",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F%23&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=-180&xuuid=64d54582aff3e47f214a096af0a43175&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=ffda3b19af1df23390acdc6afdadd00d",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F%23&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=-180&xuuid=64d54582aff3e47f214a096af0a43175&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=ffda3b19af1df23390acdc6afdadd00d",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=420&xuuid=f00e615d769c38dc1be7d1c65a1d2331&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=2ed055defb1efcdfa20b5d9b1b248dfc",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=420&xuuid=f00e615d769c38dc1be7d1c65a1d2331&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=2ed055defb1efcdfa20b5d9b1b248dfc",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=420&xuuid=f00e615d769c38dc1be7d1c65a1d2331&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=49dcab19dedb9424f092a5e110ba129a",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=420&xuuid=f00e615d769c38dc1be7d1c65a1d2331&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=49dcab19dedb9424f092a5e110ba129a",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=480&xuuid=de22b012d0cbca3c710eeb3b93ebe76a&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=cd5210582ae55cf0524056aa8bdb5f4b",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=480&xuuid=de22b012d0cbca3c710eeb3b93ebe76a&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=cd5210582ae55cf0524056aa8bdb5f4b",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=420&xuuid=8540b5536a533234ca491bb9f4776836&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=5eba731938f353368dfcbaae50c5183c",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=420&xuuid=8540b5536a533234ca491bb9f4776836&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=5eba731938f353368dfcbaae50c5183c",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2020%2F06%2F09%2Fjiofi-wifi-dongle-range-extender%2F&url=https%3A%2F%2Fi.imgur.com%2FFNTfSTP.jpg&xs=1&xtz=-330&xuuid=b342924a1db74906a564e9e402bafe5f&xcust=8982&cci=47feea6d80ee62406bf404c68122c121",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2020%2F06%2F09%2Fjiofi-wifi-dongle-range-extender%2F&url=https%3A%2F%2Fi.imgur.com%2FFNTfSTP.jpg&xs=1&xtz=-330&xuuid=b342924a1db74906a564e9e402bafe5f&xcust=8982&cci=47feea6d80ee62406bf404c68122c121",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2020%2F06%2F09%2Fjiofi-wifi-dongle-range-extender%2F&url=https%3A%2F%2Fi.imgur.com%2FFNTfSTP.jpg&xs=1&xtz=-330&xuuid=b342924a1db74906a564e9e402bafe5f&xcust=8982&cci=680e16b29dab6cbdd94456ac9e5a3c16",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2020%2F06%2F09%2Fjiofi-wifi-dongle-range-extender%2F&url=https%3A%2F%2Fi.imgur.com%2FFNTfSTP.jpg&xs=1&xtz=-330&xuuid=b342924a1db74906a564e9e402bafe5f&xcust=8982&cci=680e16b29dab6cbdd94456ac9e5a3c16",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2020%2F06%2F09%2Fjiofi-wifi-dongle-range-extender%2F&url=https%3A%2F%2Fi.imgur.com%2FFNTfSTP.jpg&xs=1&xtz=-330&xuuid=b342924a1db74906a564e9e402bafe5f&xcust=8982&cci=99b35fb3f035fdb83f1c87a37d3e1a49",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2020%2F06%2F09%2Fjiofi-wifi-dongle-range-extender%2F&url=https%3A%2F%2Fi.imgur.com%2FFNTfSTP.jpg&xs=1&xtz=-330&xuuid=b342924a1db74906a564e9e402bafe5f&xcust=8982&cci=99b35fb3f035fdb83f1c87a37d3e1a49",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2020%2F06%2F09%2Fjiofi-wifi-dongle-range-extender%2F&url=https%3A%2F%2Fi.imgur.com%2FFNTfSTP.jpg&xs=1&xtz=-330&xuuid=b342924a1db74906a564e9e402bafe5f&xcust=8982&cci=dacd8697cc04a8ca87996a8018b705a8",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2020%2F06%2F09%2Fjiofi-wifi-dongle-range-extender%2F&url=https%3A%2F%2Fi.imgur.com%2FFNTfSTP.jpg&xs=1&xtz=-330&xuuid=b342924a1db74906a564e9e402bafe5f&xcust=8982&cci=dacd8697cc04a8ca87996a8018b705a8",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2020%2F06%2F09%2Fjiofi-wifi-dongle-range-extender%2F&url=https%3A%2F%2Fi.imgur.com%2FFNTfSTP.jpg&xs=1&xtz=-330&xuuid=b342924a1db74906a564e9e402bafe5f&xcust=8982&xjsf=other_click__auxclick%20%5B2%5D",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2020%2F06%2F09%2Fjiofi-wifi-dongle-range-extender%2F&url=https%3A%2F%2Fi.imgur.com%2FFNTfSTP.jpg&xs=1&xtz=-330&xuuid=b342924a1db74906a564e9e402bafe5f&xcust=8982&xjsf=other_click__auxclick%20%5B2%5D",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=300&xuuid=503f4b6479d5c80a6f55f05ab5ad157c&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=4df6ffb57357b816cb35cd93d7490d64",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=300&xuuid=503f4b6479d5c80a6f55f05ab5ad157c&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=4df6ffb57357b816cb35cd93d7490d64",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=300&xuuid=ada368742a9c07481c876e03f7f317a3&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=25bcb4b1430fb8cd5f741dfd8de18975",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=300&xuuid=ada368742a9c07481c876e03f7f317a3&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=25bcb4b1430fb8cd5f741dfd8de18975",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=-330&xuuid=71a93e19ceccde6f771a4c16d135cb28&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=5530d89d7c573bed979f9a610baf6763",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=-330&xuuid=71a93e19ceccde6f771a4c16d135cb28&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=5530d89d7c573bed979f9a610baf6763",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=300&xuuid=dff139c93ab9db8e2ae1f2478267190c&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=5a865eb3b05633d8667bf6e999a14200",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=300&xuuid=dff139c93ab9db8e2ae1f2478267190c&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=5a865eb3b05633d8667bf6e999a14200",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=300&xuuid=bcd0e88434998f063392baf3cd147ca7&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=74fa92941a92d4df677a41f2f128fb46",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=300&xuuid=bcd0e88434998f063392baf3cd147ca7&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=74fa92941a92d4df677a41f2f128fb46",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=300&xuuid=091b5a181896eeb68cde095fc7c3a6e7&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=347c473299ddba95c3a9152a813d5db2",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=300&xuuid=091b5a181896eeb68cde095fc7c3a6e7&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=347c473299ddba95c3a9152a813d5db2",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=-240&xuuid=2a041e630db0c4762387b7b2e716ce58&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=0d8000d1dfcc1a04834a4cee181d518d",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=-240&xuuid=2a041e630db0c4762387b7b2e716ce58&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=0d8000d1dfcc1a04834a4cee181d518d",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2019%2F01%2F16%2Fgate-offline-calculator-for-windows-exe%2F&url=http%3A%2F%2Fbit.ly%2Fgate_calculator&xs=1&xtz=-330&xuuid=1185d5d16b8f3515d681036672499e54&xcust=8982&cci=7c81b2050d51d91bb57dd5df49ed86ee",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2019%2F01%2F16%2Fgate-offline-calculator-for-windows-exe%2F&url=http%3A%2F%2Fbit.ly%2Fgate_calculator&xs=1&xtz=-330&xuuid=1185d5d16b8f3515d681036672499e54&xcust=8982&cci=7c81b2050d51d91bb57dd5df49ed86ee",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=480&xuuid=7f2b172f81a36a4fd0c1b30a16a28aa9&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=29b2a5425c4f0cd438f5d0300c3c2e1c",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Ftroubleshooting%2FTSG01110365%2F&xs=1&xtz=480&xuuid=7f2b172f81a36a4fd0c1b30a16a28aa9&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=29b2a5425c4f0cd438f5d0300c3c2e1c",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac-wordpress-com.translate.goog%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F%3F_x_tr_sl%3Den%26_x_tr_tl%3Des%26_x_tr_hl%3Des%26_x_tr_pto%3Dtc&url=https%3A%2F%2Fgravatar.com%2Fdiywoodnow&xs=1&xtz=360&xuuid=f453336d32880514de87fa53fbc84f94&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=e64efcf2ff91d8db189ef453847401a9",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac-wordpress-com.translate.goog%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F%3F_x_tr_sl%3Den%26_x_tr_tl%3Des%26_x_tr_hl%3Des%26_x_tr_pto%3Dtc&url=https%3A%2F%2Fgravatar.com%2Fdiywoodnow&xs=1&xtz=360&xuuid=f453336d32880514de87fa53fbc84f94&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=e64efcf2ff91d8db189ef453847401a9",
+       "views": 1
+      },
+      {
+       "url": "https://go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=300&xuuid=5eb9c39bec5e067fdb61437388f1748f&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=28fb597399759d7f13b55bf5825eb96a",
+       "name": "go.skimresources.com/?id=725X1342&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fglenzac.wordpress.com%2F2021%2F07%2F30%2Fhow-to-fix-se-error-on-a-samsung-microwave-oven%2F&url=https%3A%2F%2Fwww.samsung.com%2Fnz%2Fsupport%2Fmodel%2FMW103H%2FXSA%2F%23link&xs=1&xtz=300&xuuid=5eb9c39bec5e067fdb61437388f1748f&xcust=8982&xjsf=other_click__touchstart%20%5B%5D&cci=28fb597399759d7f13b55bf5825eb96a",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.analog.com",
+     "views": 23,
+     "children": [
+      {
+       "url": "https://www.analog.com/designtools/en/filterwizard/",
+       "name": "analog.com/designtools/en/filterwizard/",
+       "views": 20
+      },
+      {
+       "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf",
+       "name": "analog.com/media/en/technical-documentation/data-sheets/AD620.pdf",
+       "views": 3
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.samsung.com",
+     "views": 23,
+     "children": [
+      {
+       "url": "https://www.samsung.com/us/support/troubleshooting/TSG01110365/",
+       "name": "samsung.com/us/support/troubleshooting/TSG01110365/",
+       "views": 17
+      },
+      {
+       "url": "https://www.samsung.com/nz/support/model/MW103H/XSA/#link",
+       "name": "samsung.com/nz/support/model/MW103H/XSA/#link",
+       "views": 6
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.ti.com",
+     "views": 23,
+     "children": [
+      {
+       "url": "http://www.ti.com/lit/an/sbaa160a/sbaa160a.pdf",
+       "name": "ti.com/lit/an/sbaa160a/sbaa160a.pdf",
+       "views": 9
+      },
+      {
+       "url": "http://www.ti.com/lit/an/slyt226/slyt226.pdf",
+       "name": "ti.com/lit/an/slyt226/slyt226.pdf",
+       "views": 7
+      },
+      {
+       "url": "http://www.ti.com/lit/an/slyt173/slyt173.pdf",
+       "name": "ti.com/lit/an/slyt173/slyt173.pdf",
+       "views": 3
+      },
+      {
+       "url": "http://www.ti.com/design-tools/signal-chain-design/webench-filters.html",
+       "name": "ti.com/design-tools/signal-chain-design/webench-filters.html",
+       "views": 2
+      },
+      {
+       "url": "http://www.ti.com/tool/filterpro&DCMP=hpa_amp_general&HQS=NotApplicable+OT+filterpro",
+       "name": "ti.com/tool/filterpro&DCMP=hpa_amp_general&HQS=NotApplicable+OT+filterpro",
+       "views": 1
+      },
+      {
+       "url": "https://www.ti.com/europe/downloads/Choose%20the%20right%20data%20converter%20for%20your%20application.pdf",
+       "name": "ti.com/europe/downloads/Choose%20the%20right%20data%20converter%20for%20your%20application.pdf",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "http://jiofi.local.html/",
+     "name": "jiofi.local.html",
+     "views": 21,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "mightyohm.com",
+     "views": 16,
+     "children": [
+      {
+       "url": "http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf",
+       "name": "mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf",
+       "views": 11
+      },
+      {
+       "url": "http://mightyohm.com/blog/2008/09/arduino-based-avr-high-voltage-programmer/",
+       "name": "mightyohm.com/blog/2008/09/arduino-based-avr-high-voltage-programmer/",
+       "views": 5
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "http://www.medteq.info/med/ECGFilters",
+     "name": "medteq.info/med/ECGFilters",
+     "views": 13,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://z3t0.github.io/Arduino-IRremote/",
+     "name": "z3t0.github.io/Arduino-IRremote/",
+     "views": 12,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://engineerslabs.com/2012/01/ecg-circuit-analysis-and-design-simulation-by-multisim/",
+     "name": "engineerslabs.com/2012/01/ecg-circuit-analysis-and-design-simulation-by-multisim/",
+     "views": 11,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.msec.it/blog/?page_id=11",
+     "name": "msec.it/blog/?page_id=11",
+     "views": 10,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/c266e947b27953d5d56801cbe1e3d7c9fa3b003d58de59000469927a944b3eb9?s=48",
+     "url": "https://www.eevblog.com/forum/projects/ecg-front-end-design/",
+     "name": "eevblog.com/forum/projects/ecg-front-end-design/",
+     "views": 10,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/4aef029061bea5b852a2f8099385a67df96230675cd9d40b33756d1b232e6212?s=48",
+     "url": null,
+     "name": "www.edn.com",
+     "views": 10,
+     "children": [
+      {
+       "url": "https://www.edn.com/design/analog/4322833/The-right-way-to-use-instrumentation-amplifiers",
+       "name": "edn.com/design/analog/4322833/The-right-way-to-use-instrumentation-amplifiers",
+       "views": 5
+      },
+      {
+       "url": "https://www.edn.com/electronics-blogs/bakers-best/4312741/Understanding-CMR-and-instrumentation-amplifiers",
+       "name": "edn.com/electronics-blogs/bakers-best/4312741/Understanding-CMR-and-instrumentation-amplifiers",
+       "views": 3
+      },
+      {
+       "url": "https://www.edn.com/design/analog/4337128/Make-a-DAC-with-a-microcontroller-s-PWM-timer",
+       "name": "edn.com/design/analog/4337128/Make-a-DAC-with-a-microcontroller-s-PWM-timer",
+       "views": 1
+      },
+      {
+       "url": "https://www.edn.com/design/integrated-circuit-design/4312523/Create-a-DAC-from-a-microcontroller-s-ADC",
+       "name": "edn.com/design/integrated-circuit-design/4312523/Create-a-DAC-from-a-microcontroller-s-ADC",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://medcraveonline.com/IJBSBE/IJBSBE-02-00032",
+     "name": "medcraveonline.com/IJBSBE/IJBSBE-02-00032",
+     "views": 9,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.cypress.com",
+     "views": 9,
+     "children": [
+      {
+       "url": "http://www.cypress.com/file/106956/download",
+       "name": "cypress.com/file/106956/download",
+       "views": 6
+      },
+      {
+       "url": "http://www.cypress.com/file/139956/download",
+       "name": "cypress.com/file/139956/download",
+       "views": 3
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "electronics.stackexchange.com",
+     "views": 8,
+     "children": [
+      {
+       "url": "https://electronics.stackexchange.com/questions/254244/displaying-ascii-codes-to-an-7x5-led-matrix",
+       "name": "electronics.stackexchange.com/questions/254244/displaying-ascii-codes-to-an-7x5-led-matrix",
+       "views": 4
+      },
+      {
+       "url": "https://electronics.stackexchange.com/questions/79307/what-are-the-ways-to-make-a-dual-power-supply-from-a-single-voltage-source",
+       "name": "electronics.stackexchange.com/questions/79307/what-are-the-ways-to-make-a-dual-power-supply-from-a-single-voltage-source",
+       "views": 4
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.instructables.com",
+     "views": 8,
+     "children": [
+      {
+       "url": "http://www.instructables.com/id/ATtiny8545-POV-Display/",
+       "name": "instructables.com/id/ATtiny8545-POV-Display/",
+       "views": 4
+      },
+      {
+       "url": "https://www.instructables.com/id/Li-ion-battery-charging/",
+       "name": "instructables.com/id/Li-ion-battery-charging/",
+       "views": 1
+      },
+      {
+       "url": "https://www.instructables.com/id/Goal-Habit-Medication-Tracker-Using-ATTINY85/",
+       "name": "instructables.com/id/Goal-Habit-Medication-Tracker-Using-ATTINY85/",
+       "views": 1
+      },
+      {
+       "url": "https://www.instructables.com/id/Internet-Connected-Remembrall/",
+       "name": "instructables.com/id/Internet-Connected-Remembrall/",
+       "views": 1
+      },
+      {
+       "url": "https://www.instructables.com/id/Task-the-Ambient-Planner/",
+       "name": "instructables.com/id/Task-the-Ambient-Planner/",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://irplus-remote.github.io/",
+     "name": "irplus-remote.github.io",
+     "views": 7,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.ifixit.com/",
+     "name": "ifixit.com",
+     "views": 6,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://gist.github.com/powerswitch/79e91f8f2d5f311f0734438726b63486",
+     "name": "gist.github.com/powerswitch/79e91f8f2d5f311f0734438726b63486",
+     "views": 6,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://dd-wrt.com/",
+     "name": "dd-wrt.com",
+     "views": 6,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.raspberrypi.org",
+     "views": 6,
+     "children": [
+      {
+       "url": "https://www.raspberrypi.org/documentation/configuration/raspi-config.md",
+       "name": "raspberrypi.org/documentation/configuration/raspi-config.md",
+       "views": 3
+      },
+      {
+       "url": "https://www.raspberrypi.org/forums/viewtopic.php?t=140994",
+       "name": "raspberrypi.org/forums/viewtopic.php?t=140994",
+       "views": 2
+      },
+      {
+       "url": "https://www.raspberrypi.org/documentation/raspbian/applications/omxplayer.md",
+       "name": "raspberrypi.org/documentation/raspbian/applications/omxplayer.md",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "opencircuitdesign.com",
+     "views": 6,
+     "children": [
+      {
+       "url": "http://opencircuitdesign.com/netgen/index.html",
+       "name": "opencircuitdesign.com/netgen/index.html",
+       "views": 2
+      },
+      {
+       "url": "http://opencircuitdesign.com/qflow/index.html",
+       "name": "opencircuitdesign.com/qflow/index.html",
+       "views": 2
+      },
+      {
+       "url": "http://opencircuitdesign.com/qrouter/index.html",
+       "name": "opencircuitdesign.com/qrouter/index.html",
+       "views": 1
+      },
+      {
+       "url": "http://opencircuitdesign.com/magic/",
+       "name": "opencircuitdesign.com/magic/",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "glenzac-wordpress-com.translate.goog",
+     "views": 6,
+     "children": [
+      {
+       "url": "https://glenzac-wordpress-com.translate.goog/wp-content/uploads/2021/07/microwave.jpg?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sge",
+       "name": "glenzac-wordpress-com.translate.goog/wp-content/uploads/2021/07/microwave.jpg?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sge",
+       "views": 1
+      },
+      {
+       "url": "https://glenzac-wordpress-com.translate.goog/wp-content/uploads/2021/08/ffc_repaired.jpg?_x_tr_sl=en&_x_tr_tl=tr&_x_tr_hl=tr&_x_tr_pto=tc",
+       "name": "glenzac-wordpress-com.translate.goog/wp-content/uploads/2021/08/ffc_repaired.jpg?_x_tr_sl=en&_x_tr_tl=tr&_x_tr_hl=tr&_x_tr_pto=tc",
+       "views": 1
+      },
+      {
+       "url": "https://glenzac-wordpress-com.translate.goog/wp-content/uploads/2021/07/ffc_2.jpg?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wa",
+       "name": "glenzac-wordpress-com.translate.goog/wp-content/uploads/2021/07/ffc_2.jpg?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wa",
+       "views": 1
+      },
+      {
+       "url": "https://glenzac-wordpress-com.translate.goog/wp-content/uploads/2021/07/microwave.jpg?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wa",
+       "name": "glenzac-wordpress-com.translate.goog/wp-content/uploads/2021/07/microwave.jpg?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wa",
+       "views": 1
+      },
+      {
+       "url": "https://glenzac-wordpress-com.translate.goog/wp-content/uploads/2021/07/ffc_2.jpg?_x_tr_sl=en&_x_tr_tl=pl&_x_tr_hl=pl&_x_tr_pto=rq",
+       "name": "glenzac-wordpress-com.translate.goog/wp-content/uploads/2021/07/ffc_2.jpg?_x_tr_sl=en&_x_tr_tl=pl&_x_tr_hl=pl&_x_tr_pto=rq",
+       "views": 1
+      },
+      {
+       "url": "https://glenzac-wordpress-com.translate.goog/wp-content/uploads/2021/07/microwave.jpg?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+       "name": "glenzac-wordpress-com.translate.goog/wp-content/uploads/2021/07/microwave.jpg?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://openwrt.org/",
+     "name": "openwrt.org",
+     "views": 5,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://pypi.org/project/PyPDF2/",
+     "name": "pypi.org/project/PyPDF2/",
+     "views": 5,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/68c1e55b7e7549913f34030a5f0d49a94613b05469ac21f5eea1e6cb32cd5eb7?s=48",
+     "url": "https://linkedin.com/",
+     "name": "LinkedIn",
+     "views": 5,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.mathworks.com/matlabcentral/fileexchange/45840-complete-pan-tompkins-implementation-ecg-qrs-detector",
+     "name": "mathworks.com/matlabcentral/fileexchange/45840-complete-pan-tompkins-implementation-ecg-qrs-detector",
+     "views": 5,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=2ahUKEwjM48yw2PbcAhVLO48KHRvnBC8QFjAAegQICRAC&amp;url=http%3A%2F%2Fread.pudn.com%2Fdownloads166%2Fdoc%2Fproject%2F763821%2FET6202-en.pdf&amp;usg=AOvVaw3xVzjXsPiGN3OKTF3ODzf_",
+     "name": "google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjM48yw2PbcAhVLO48KHRvnBC8QFjAAegQICRAC&url=http%3A%2F%2Fread.pudn.com%2Fdownloads166%2Fdoc%2Fproject%2F763821%2FET6202-en.pdf&usg=AOvVaw3xVzjXsPiGN3OKTF3ODzf_",
+     "views": 5,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "translate.google.com",
+     "views": 5,
+     "children": [
+      {
+       "url": "https://translate.google.com/website?sl=en&tl=es&hl=es&client=srp&u=https://drive.google.com/open?id%3D1iwnLhuqCglDixIUDfQU2IDphx5zZn1KB",
+       "name": "drive.google.com/open?id%3D1iwnLhuqCglDixIUDfQU2IDphx5zZn1KB",
+       "views": 1
+      },
+      {
+       "url": "https://translate.google.com/website?sl=en&tl=ru&hl=ru&client=rq&u=http://www.chipquik.com/store/product_info.php?products_id%3D480001",
+       "name": "chipquik.com/store/product_info.php?products_id%3D480001",
+       "views": 1
+      },
+      {
+       "url": "https://translate.google.com/website?sl=en&tl=pl&hl=pl&client=sge&u=https://www.samsung.com/us/support/troubleshooting/TSG01110365/",
+       "name": "samsung.com/us/support/troubleshooting/TSG01110365/",
+       "views": 1
+      },
+      {
+       "url": "https://translate.google.com/website?sl=en&tl=fr&hl=fr&client=rq&u=https://www.samsung.com/us/support/troubleshooting/TSG01110365/",
+       "name": "samsung.com/us/support/troubleshooting/TSG01110365/",
+       "views": 1
+      },
+      {
+       "url": "https://translate.google.com/website?sl=en&tl=es&hl=es&client=rq&u=https://www.samsung.com/us/support/troubleshooting/TSG01110365/",
+       "name": "samsung.com/us/support/troubleshooting/TSG01110365/",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://en.wikipedia.org/wiki/Recency_bias",
+     "name": "en.wikipedia.org/wiki/Recency_bias",
+     "views": 4,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.resilio.com/",
+     "name": "resilio.com",
+     "views": 4,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.staticfreesoft.com/index.html",
+     "name": "staticfreesoft.com/index.html",
+     "views": 4,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.youtube.com",
+     "views": 4,
+     "children": [
+      {
+       "url": "https://www.youtube.com/watch?v=pFz1S5NVfRg&list=PLIOkqhZiy83F8KPvHejA4ujvAfwJYpAtP",
+       "name": "youtube.com/watch?v=pFz1S5NVfRg&list=PLIOkqhZiy83F8KPvHejA4ujvAfwJYpAtP",
+       "views": 3
+      },
+      {
+       "url": "https://www.youtube.com/user/greatscottlab",
+       "name": "youtube.com/user/greatscottlab",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "https://esim.fossee.in/home",
+     "name": "esim.fossee.in/home",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://klayout.de/",
+     "name": "klayout.de",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/verilog.min.js",
+     "name": "cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/verilog.min.js",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.ejwoo.com/uploads/2/5/4/0/25400517/ecg_qrs_detection.pdf",
+     "name": "ejwoo.com/uploads/2/5/4/0/25400517/ecg_qrs_detection.pdf",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.toped.org.uk/",
+     "name": "toped.org.uk",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/b2213008f44f68731f22ff50ee359e9fc09c06c219fb1d6d587754812b5be2a1?s=48",
+     "url": "https://automattic.com/cookies/",
+     "name": "automattic.com/cookies/",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/055878d4c9c9aa326800d2936d3c2f18269b5c153402f71f1811bddede6a4551?s=48",
+     "url": "https://instagram.com/",
+     "name": "Instagram",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://sourceforge.net/projects/xschem/",
+     "name": "sourceforge.net/projects/xschem/",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www-users.cs.york.ac.uk/~fisher/mkfilter/",
+     "name": "www-users.cs.york.ac.uk/~fisher/mkfilter/",
+     "views": 3,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "www.reddit.com",
+     "views": 3,
+     "children": [
+      {
+       "url": "https://www.reddit.com/r/AskElectronics/",
+       "name": "reddit.com/r/AskElectronics/",
+       "views": 2
+      },
+      {
+       "url": "https://www.reddit.com/r/Anki/comments/cpb1rs/anki_latex_helper_using_autohotkey/",
+       "name": "reddit.com/r/Anki/comments/cpb1rs/anki_latex_helper_using_autohotkey/",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "http://iverilog.icarus.com/",
+     "name": "iverilog.icarus.com",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.popularmechanics.com/science/tips/a584/2569841/",
+     "name": "popularmechanics.com/science/tips/a584/2569841/",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://physionet.org/cgi-bin/atm/ATM",
+     "name": "physionet.org/cgi-bin/atm/ATM",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/eab2706b5fbf21f5f71afccd9b6ba9b43189ea8e1d9c6c2350e8dbcefbd714a7?s=48",
+     "url": "https://gravatar.com/nivethaak",
+     "name": "gravatar.com/nivethaak",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.mariecurie.org.uk/help/support/bereaved-family-friends/dealing-grief/stages-of-grief",
+     "name": "mariecurie.org.uk/help/support/bereaved-family-friends/dealing-grief/stages-of-grief",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://atomberg.com/",
+     "name": "atomberg.com",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://casio.ledudu.com/pockets.asp?type=1894&amp;lg=eng",
+     "name": "casio.ledudu.com/pockets.asp?type=1894&lg=eng",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://stackoverflow.com/questions/37521853/how-to-get-youtube-live-stream-by-channel-id-in-youtube-api-v3-in-android",
+     "name": "stackoverflow.com/questions/37521853/how-to-get-youtube-live-stream-by-channel-id-in-youtube-api-v3-in-android",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://kicad-pcb.org/",
+     "name": "kicad-pcb.org",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.rejetto.com/hfs/?f=intro",
+     "name": "rejetto.com/hfs/?f=intro",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://ngspice.sourceforge.net/",
+     "name": "ngspice.sourceforge.net",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www-soc.lip6.fr/equipe-cian/logiciels/tasyagle/",
+     "name": "www-soc.lip6.fr/equipe-cian/logiciels/tasyagle/",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://play.google.com/store/apps/details?id=com.jetpack.android&amp;referrer=utm_source%3Dwordpress.com%26utm_medium%3Dwebsite%26utm_campaign%3Dimage-landing-page-new",
+     "name": "play.google.com/store/apps/details?id=com.jetpack.android&referrer=utm_source%3Dwordpress.com%26utm_medium%3Dwebsite%26utm_campaign%3Dimage-landing-page-new",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.manualslib.com/download/987399/Philips-Dvp3126k.html",
+     "name": "manualslib.com/download/987399/Philips-Dvp3126k.html",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://ecgguru.com/",
+     "name": "ecgguru.com",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.metageek.com/",
+     "name": "metageek.com",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://napchart.com/",
+     "name": "napchart.com",
+     "views": 2,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "batteryuniversity.com",
+     "views": 2,
+     "children": [
+      {
+       "url": "https://batteryuniversity.com/learn/article/charging_lithium_ion_batteries",
+       "name": "batteryuniversity.com/learn/article/charging_lithium_ion_batteries",
+       "views": 1
+      },
+      {
+       "url": "https://batteryuniversity.com/",
+       "name": "batteryuniversity.com",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": null,
+     "name": "wiki.dd-wrt.com",
+     "views": 2,
+     "children": [
+      {
+       "url": "https://wiki.dd-wrt.com/wiki/index.php/Client_Bridge",
+       "name": "wiki.dd-wrt.com/wiki/index.php/Client_Bridge",
+       "views": 1
+      },
+      {
+       "url": "https://wiki.dd-wrt.com/wiki/index.php/Installation",
+       "name": "wiki.dd-wrt.com/wiki/index.php/Installation",
+       "views": 1
+      }
+     ]
+    },
+    {
+     "icon": null,
+     "url": "http://www.cburch.com/logisim/",
+     "name": "cburch.com/logisim/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://link.springer.com/chapter/10.1007/978-1-4612-4536-0_15",
+     "name": "link.springer.com/chapter/10.1007/978-1-4612-4536-0_15",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.autohotkey.com/docs/AutoHotkey.htm",
+     "name": "autohotkey.com/docs/AutoHotkey.htm",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://datasheets.maximintegrated.com/en/ds/ICL7660-MAX1044.pdf",
+     "name": "datasheets.maximintegrated.com/en/ds/ICL7660-MAX1044.pdf",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://spuc.sourceforge.net/",
+     "name": "spuc.sourceforge.net",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://ecg.utah.edu/",
+     "name": "ecg.utah.edu",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://training.ti.com/how-measure-ecg-introduction-what-ecg",
+     "name": "training.ti.com/how-measure-ecg-introduction-what-ecg",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.robots.ox.ac.uk/~gari/teaching/cdt/A3/readings/ECG/Pan+Tompkins.pdf",
+     "name": "robots.ox.ac.uk/~gari/teaching/cdt/A3/readings/ECG/Pan+Tompkins.pdf",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://ubuntu-mate.community/u/GizmoXomziG",
+     "name": "ubuntu-mate.community/u/GizmoXomziG",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://linuxconfig.org/how-to-change-from-default-to-alternative-python-version-on-debian-linux",
+     "name": "linuxconfig.org/how-to-change-from-default-to-alternative-python-version-on-debian-linux",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://pinout.xyz/#",
+     "name": "pinout.xyz/#",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/3c8b2bbd5af1180dab341c61a990008400c0f4734771d1618913d1a8fa55c929?s=48",
+     "url": "https://twitter.com/",
+     "name": "X",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://lawsie.github.io/guizero/about/",
+     "name": "lawsie.github.io/guizero/about/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://docs.python.org/3/library/subprocess.html#subprocess-replacements",
+     "name": "docs.python.org/3/library/subprocess.html#subprocess-replacements",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://raspberrypi.stackexchange.com/questions/99584/rpi-freezes-every-now-and-then-how-to-fix-it-with-a-watchdog",
+     "name": "raspberrypi.stackexchange.com/questions/99584/rpi-freezes-every-now-and-then-how-to-fix-it-with-a-watchdog",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://manpages.ubuntu.com/manpages/trusty/man1/xdotool.1.html",
+     "name": "manpages.ubuntu.com/manpages/trusty/man1/xdotool.1.html",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://ankiweb.net/shared/info/1374772155",
+     "name": "ankiweb.net/shared/info/1374772155",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": "https://secure.gravatar.com/blavatar/31193328f8e21dfb6c99f322d22d7b0b508778e64ffbba86e52293379031b874?s=48",
+     "url": "https://facebook.com/",
+     "name": "Facebook",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.behance.net/glenzac",
+     "name": "behance.net/glenzac",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://create.arduino.cc/projecthub/Arduino_Scuola/build-a-simple-dac-for-your-arduino-4c00bd",
+     "name": "create.arduino.cc/projecthub/Arduino_Scuola/build-a-simple-dac-for-your-arduino-4c00bd",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://calibre-ebook.com/",
+     "name": "calibre-ebook.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.clifford.at/yosys/",
+     "name": "clifford.at/yosys/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://cppsim.com/",
+     "name": "cppsim.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://brettbeauregard.com/blog/",
+     "name": "brettbeauregard.com/blog/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://tangentsoft.net/",
+     "name": "tangentsoft.net",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.insidegadgets.com/",
+     "name": "insidegadgets.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.philips.com.sg/c-p/DVP3146K_98/divx-playback",
+     "name": "philips.com.sg/c-p/DVP3146K_98/divx-playback",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://cardinalpeak.com/blog/a-c-class-to-implement-low-pass-high-pass-and-band-pass-filters/",
+     "name": "cardinalpeak.com/blog/a-c-class-to-implement-low-pass-high-pass-and-band-pass-filters/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://vlsicad.eecs.umich.edu/BK/Slots/cache/er.cs.ucla.edu/Dragon/",
+     "name": "vlsicad.eecs.umich.edu/BK/Slots/cache/er.cs.ucla.edu/Dragon/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://ekg.academy/",
+     "name": "ekg.academy",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.kobakant.at/DIY/",
+     "name": "kobakant.at/DIY/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://polyphasic.net/",
+     "name": "polyphasic.net",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://obsidian.md/",
+     "name": "obsidian.md",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://extensions.libreoffice.org/en/extensions/show/code-highlighter",
+     "name": "extensions.libreoffice.org/en/extensions/show/code-highlighter",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://xyce.sandia.gov/",
+     "name": "xyce.sandia.gov",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.veripool.org/verilator/",
+     "name": "veripool.org/verilator/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://forum.xda-developers.com/android/apps-games/root-battery-charge-limit-t3557002",
+     "name": "forum.xda-developers.com/android/apps-games/root-battery-charge-limit-t3557002",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://riot-optimizer.com/",
+     "name": "riot-optimizer.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://tinyjpg.com/",
+     "name": "tinyjpg.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.doctormonk.com/",
+     "name": "doctormonk.com",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://pimylifeup.com/raspberrypi-hdmi-cec/",
+     "name": "pimylifeup.com/raspberrypi-hdmi-cec/",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "http://www.chipquik.com/store/product_info.php?products_id=480001",
+     "name": "chipquik.com/store/product_info.php?products_id=480001",
+     "views": 1,
+     "children": null
+    },
+    {
+     "icon": null,
+     "url": "https://www.twitter.com/glenzac",
+     "name": "twitter.com/glenzac",
+     "views": 1,
+     "children": null
+    }
+   ],
+   "other_clicks": 0,
+   "total_clicks": 1582
+  }
+ },
+ "period": "year"
+}

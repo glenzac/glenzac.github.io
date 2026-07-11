@@ -1,0 +1,1253 @@
+{
+ "date": "2022-12-31",
+ "days": {
+  "2022-01-01": {
+   "views": [
+    {
+     "country_code": "IN",
+     "views": 2348
+    },
+    {
+     "country_code": "US",
+     "views": 1329
+    },
+    {
+     "country_code": "DE",
+     "views": 326
+    },
+    {
+     "country_code": "GB",
+     "views": 263
+    },
+    {
+     "country_code": "AU",
+     "views": 163
+    },
+    {
+     "country_code": "KR",
+     "views": 161
+    },
+    {
+     "country_code": "MX",
+     "views": 137
+    },
+    {
+     "country_code": "CA",
+     "views": 137
+    },
+    {
+     "country_code": "FR",
+     "views": 131
+    },
+    {
+     "country_code": "VN",
+     "views": 127
+    },
+    {
+     "country_code": "ID",
+     "views": 123
+    },
+    {
+     "country_code": "PH",
+     "views": 122
+    },
+    {
+     "country_code": "BR",
+     "views": 120
+    },
+    {
+     "country_code": "TW",
+     "views": 117
+    },
+    {
+     "country_code": "EG",
+     "views": 115
+    },
+    {
+     "country_code": "NL",
+     "views": 112
+    },
+    {
+     "country_code": "SG",
+     "views": 97
+    },
+    {
+     "country_code": "IT",
+     "views": 90
+    },
+    {
+     "country_code": "ES",
+     "views": 88
+    },
+    {
+     "country_code": "JP",
+     "views": 85
+    },
+    {
+     "country_code": "TR",
+     "views": 84
+    },
+    {
+     "country_code": "HK",
+     "views": 82
+    },
+    {
+     "country_code": "IQ",
+     "views": 80
+    },
+    {
+     "country_code": "CN",
+     "views": 75
+    },
+    {
+     "country_code": "PL",
+     "views": 74
+    },
+    {
+     "country_code": "BD",
+     "views": 74
+    },
+    {
+     "country_code": "SA",
+     "views": 70
+    },
+    {
+     "country_code": "RU",
+     "views": 69
+    },
+    {
+     "country_code": "PK",
+     "views": 63
+    },
+    {
+     "country_code": "MY",
+     "views": 63
+    },
+    {
+     "country_code": "MA",
+     "views": 56
+    },
+    {
+     "country_code": "BE",
+     "views": 53
+    },
+    {
+     "country_code": "CZ",
+     "views": 50
+    },
+    {
+     "country_code": "IL",
+     "views": 49
+    },
+    {
+     "country_code": "AR",
+     "views": 44
+    },
+    {
+     "country_code": "NZ",
+     "views": 44
+    },
+    {
+     "country_code": "ZA",
+     "views": 44
+    },
+    {
+     "country_code": "DZ",
+     "views": 43
+    },
+    {
+     "country_code": "IE",
+     "views": 41
+    },
+    {
+     "country_code": "SE",
+     "views": 40
+    },
+    {
+     "country_code": "AT",
+     "views": 39
+    },
+    {
+     "country_code": "PT",
+     "views": 38
+    },
+    {
+     "country_code": "CH",
+     "views": 37
+    },
+    {
+     "country_code": "PE",
+     "views": 34
+    },
+    {
+     "country_code": "DK",
+     "views": 32
+    },
+    {
+     "country_code": "FI",
+     "views": 30
+    },
+    {
+     "country_code": "AE",
+     "views": 29
+    },
+    {
+     "country_code": "RS",
+     "views": 29
+    },
+    {
+     "country_code": "UA",
+     "views": 28
+    },
+    {
+     "country_code": "NO",
+     "views": 28
+    },
+    {
+     "country_code": "CO",
+     "views": 27
+    },
+    {
+     "country_code": "HU",
+     "views": 21
+    },
+    {
+     "country_code": "RO",
+     "views": 19
+    },
+    {
+     "country_code": "NG",
+     "views": 18
+    },
+    {
+     "country_code": "GR",
+     "views": 16
+    },
+    {
+     "country_code": "TH",
+     "views": 16
+    },
+    {
+     "country_code": "CR",
+     "views": 15
+    },
+    {
+     "country_code": "CL",
+     "views": 14
+    },
+    {
+     "country_code": "NP",
+     "views": 13
+    },
+    {
+     "country_code": "GH",
+     "views": 13
+    },
+    {
+     "country_code": "LB",
+     "views": 13
+    },
+    {
+     "country_code": "KW",
+     "views": 13
+    },
+    {
+     "country_code": "BG",
+     "views": 11
+    },
+    {
+     "country_code": "KE",
+     "views": 11
+    },
+    {
+     "country_code": "LK",
+     "views": 10
+    },
+    {
+     "country_code": "JO",
+     "views": 10
+    },
+    {
+     "country_code": "TN",
+     "views": 10
+    },
+    {
+     "country_code": "YE",
+     "views": 9
+    },
+    {
+     "country_code": "SV",
+     "views": 9
+    },
+    {
+     "country_code": "AM",
+     "views": 8
+    },
+    {
+     "country_code": "EC",
+     "views": 7
+    },
+    {
+     "country_code": "ET",
+     "views": 7
+    },
+    {
+     "country_code": "CU",
+     "views": 7
+    },
+    {
+     "country_code": "CM",
+     "views": 7
+    },
+    {
+     "country_code": "PR",
+     "views": 7
+    },
+    {
+     "country_code": "SK",
+     "views": 6
+    },
+    {
+     "country_code": "HR",
+     "views": 5
+    },
+    {
+     "country_code": "BY",
+     "views": 5
+    },
+    {
+     "country_code": "KZ",
+     "views": 5
+    },
+    {
+     "country_code": "UG",
+     "views": 5
+    },
+    {
+     "country_code": "BA",
+     "views": 5
+    },
+    {
+     "country_code": "PS",
+     "views": 5
+    },
+    {
+     "country_code": "VE",
+     "views": 4
+    },
+    {
+     "country_code": "GE",
+     "views": 4
+    },
+    {
+     "country_code": "QA",
+     "views": 4
+    },
+    {
+     "country_code": "BO",
+     "views": 4
+    },
+    {
+     "country_code": "EE",
+     "views": 4
+    },
+    {
+     "country_code": "UY",
+     "views": 4
+    },
+    {
+     "country_code": "OM",
+     "views": 3
+    },
+    {
+     "country_code": "LT",
+     "views": 3
+    },
+    {
+     "country_code": "SD",
+     "views": 3
+    },
+    {
+     "country_code": "SI",
+     "views": 3
+    },
+    {
+     "country_code": "HN",
+     "views": 3
+    },
+    {
+     "country_code": "AZ",
+     "views": 3
+    },
+    {
+     "country_code": "MK",
+     "views": 3
+    },
+    {
+     "country_code": "TZ",
+     "views": 2
+    },
+    {
+     "country_code": "MO",
+     "views": 2
+    },
+    {
+     "country_code": "AL",
+     "views": 2
+    },
+    {
+     "country_code": "MN",
+     "views": 2
+    },
+    {
+     "country_code": "ZW",
+     "views": 2
+    },
+    {
+     "country_code": "EU",
+     "views": 2
+    },
+    {
+     "country_code": "MG",
+     "views": 2
+    },
+    {
+     "country_code": "PF",
+     "views": 2
+    },
+    {
+     "country_code": "LV",
+     "views": 2
+    },
+    {
+     "country_code": "DO",
+     "views": 2
+    },
+    {
+     "country_code": "PY",
+     "views": 2
+    },
+    {
+     "country_code": "GY",
+     "views": 1
+    },
+    {
+     "country_code": "MD",
+     "views": 1
+    },
+    {
+     "country_code": "IR",
+     "views": 1
+    },
+    {
+     "country_code": "GA",
+     "views": 1
+    },
+    {
+     "country_code": "DM",
+     "views": 1
+    },
+    {
+     "country_code": "MT",
+     "views": 1
+    },
+    {
+     "country_code": "GT",
+     "views": 1
+    },
+    {
+     "country_code": "BH",
+     "views": 1
+    },
+    {
+     "country_code": "BS",
+     "views": 1
+    },
+    {
+     "country_code": "HT",
+     "views": 1
+    },
+    {
+     "country_code": "PG",
+     "views": 1
+    },
+    {
+     "country_code": "JM",
+     "views": 1
+    },
+    {
+     "country_code": "TG",
+     "views": 1
+    },
+    {
+     "country_code": "LU",
+     "views": 1
+    },
+    {
+     "country_code": "MU",
+     "views": 1
+    },
+    {
+     "country_code": "IS",
+     "views": 1
+    },
+    {
+     "country_code": "KH",
+     "views": 1
+    },
+    {
+     "country_code": "ZZ",
+     "views": 1
+    }
+   ],
+   "other_views": 0,
+   "total_views": 8145
+  }
+ },
+ "country-info": {
+  "IN": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/897cf89656acb4fded93aa7e326bd5b3cdd1745d7e88d05a67315393bc9b6896?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/b25dd4cacc153362451cdd6ed8264c2f747f3154a0e40ff66f49750627fdb853?s=48",
+   "country_full": "India",
+   "map_region": "034"
+  },
+  "US": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/d0c9ee2dfb5087992fc9b2fc36c2d78311887d82934678b3118815d1f240951b?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/c582a850fc3fea67cbf9e88f7755a85870239bcf4138c9cf3a6f7c53e5a658ea?s=48",
+   "country_full": "United States",
+   "map_region": "021"
+  },
+  "DE": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/75f4f0807b42025444df4fc914087a3f1b626b2b57342e546e8460b0c55da749?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/cb9db25d99826a912f9f49c0e06978d4513806a2683b988d850ec1fe0c4e1431?s=48",
+   "country_full": "Germany",
+   "map_region": "155"
+  },
+  "GB": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/ea62907b7e45633b3f9daac0771db98d40cfd749fd0ef28313224e2618468367?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/f8c11df368971fc1b3e2a7e9a2093bee00b3ae20c14298cea0c9ea8dde177141?s=48",
+   "country_full": "United Kingdom",
+   "map_region": "154"
+  },
+  "AU": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/971effecb7738aac20120105101d7edbb81d07ec76c7040e392591d0b6bec071?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/f7f5263143e568cdd10cd7ad7a3b48c05b0a57296941ddf119191d93156e8c34?s=48",
+   "country_full": "Australia",
+   "map_region": "053"
+  },
+  "KR": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/0688fcdd36e0295ef5a8c262735555decc5aa3356440dfa681be98716ef0299c?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/7da1bde505a02d498a22e41d30188cc115ed2cc84740de6f6608a78c8c7a7fd3?s=48",
+   "country_full": "South Korea",
+   "map_region": "030"
+  },
+  "MX": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/29109269b5df90d84d0e25e00aed729510e71697dd4e448987a92b2b2221b80d?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/cb7ac46dc19d1d9b95caee31ccf05f1ef99df4c6fe855234a7ecb4dcd381855e?s=48",
+   "country_full": "Mexico",
+   "map_region": "013"
+  },
+  "CA": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/8f783538a662f4b416a3e91154e417f38e0dec3eec8e0b5dbe4c8eb861d26e74?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/cb3ca1445705c8820c0c1398fff2716127d8b7f1eb17b8dbc7522fa4d08ca5f3?s=48",
+   "country_full": "Canada",
+   "map_region": "021"
+  },
+  "FR": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/2e3b0a91cceb6b2fd61a0e0357b5f85f24eaf60a1cbf5360037082eda7dd663f?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/6ddc24bbf9057a42701fd6c278274912bde6412bf6a1b0f6b894e7cd9fdfe4da?s=48",
+   "country_full": "France",
+   "map_region": "155"
+  },
+  "VN": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/9454e3187db8abdfb6582de00f8a103f3544f6691957568ac546f041ed0ba798?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/4a04a207b3a80fc541d96cf5bd54ff462626307278f0b757d7b5fcac12edc293?s=48",
+   "country_full": "Vietnam",
+   "map_region": "035"
+  },
+  "ID": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/5606729e4dc351709c4e5d76b874b39d705db37d28596712cd45565567b799f4?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/a0bdb308fdd1bffdd721b85ce33d460af097e4188bfb9d240b191f3cfb0981f6?s=48",
+   "country_full": "Indonesia",
+   "map_region": "035"
+  },
+  "PH": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/e33712d886b4d082bb146f0c67dd7931bc19d21e0313ed447875fb280b65c28c?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/095c9883f16e77b87fea02fef3098a89b45c0069d984bffd8489817ee0a0d60d?s=48",
+   "country_full": "Philippines",
+   "map_region": "035"
+  },
+  "BR": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/125c845fe7f54b4b28b4d86c665d72acf8511f53edc4a798319fbdf529a35179?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/dfd78932da55b72a015faa1161b6b9ba7fa3e326a2eb10c31c8baf691834b5e3?s=48",
+   "country_full": "Brazil",
+   "map_region": "005"
+  },
+  "TW": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/5df0a678541fefae4c8262e820bf93478b056ee74c155a35651d327f35f25599?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/04f544256b96267a2abbd7e7372a9534de9e366cc62111956fdd400cd9f27ecb?s=48",
+   "country_full": "Taiwan",
+   "map_region": "030"
+  },
+  "EG": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/5a16effe8ffd19856fad87efbc4c4eb3cbf634bc132a39483aa4d2be22e1f7f6?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/58d14fce9e0bcc9a7109aed61807b435b35cd2334425b325364dfc78f0f45836?s=48",
+   "country_full": "Egypt",
+   "map_region": "015"
+  },
+  "NL": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/ccf412630dadb1f0d5bcb108ae19a335afdfa9b318c96202e73531437632ae2e?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/5ce80e051629b0e89f07bbf46b8aef4469e4f66f08fbeb07b99d016073c061e5?s=48",
+   "country_full": "Netherlands",
+   "map_region": "155"
+  },
+  "SG": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/9aa06d58384440db23a879f5f1f9fab43a81b93a0c87b7354c61eb107c4a4f90?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/7b5fe6c9c2b3bdcf5b1ebfd331a470a57d525d3d703f447e19dd8795b7eae782?s=48",
+   "country_full": "Singapore",
+   "map_region": "035"
+  },
+  "IT": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/547b4085563620aea9375046fac616bff0c77bff096aafbfb3ea030776e44182?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/c65c6e4c117d7fdcff026eba91770d6105832ff59e6adc952b66afd718064469?s=48",
+   "country_full": "Italy",
+   "map_region": "039"
+  },
+  "ES": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/0060781554370ebece2445877930a4b374d8312ecad053883dbd38e5f271d295?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/9e650d102b495ceba9fb6577a6435f1d23a036d409acefe09c0606b181272ffc?s=48",
+   "country_full": "Spain",
+   "map_region": "039"
+  },
+  "JP": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/8611a3c58942eb26572a6a01722b3baa88c537c379941a61136bb6ddba932cba?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/3184f4bcca41ac6779565bf9df77b1488448aaed1ef0ba364f4f3e9532a24bd5?s=48",
+   "country_full": "Japan",
+   "map_region": "030"
+  },
+  "TR": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/fcbd5fbf0361eae86d5b2297db7944131f7635459ea447e9d3ad22327ac2b424?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/9f706d1ddbb48ad5ec7380028f2a121e9032032247bc8e3c8dad3108eed0d23a?s=48",
+   "country_full": "Türkiye",
+   "map_region": "145"
+  },
+  "HK": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/2b6b0d6462cfefe1ee75c84ab2dd0b684a65f12a86a884859ec34820b3773473?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/da5d68131a56cf4e0f7a8094477545183d7d001011138110487741e3c2439f06?s=48",
+   "country_full": "Hong Kong SAR China",
+   "map_region": "030"
+  },
+  "IQ": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/95f94b29db1400fc453789f782325c345fd3735621d7ccb66dc06b08772dbeda?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/9e26838d6dd1be86826350e25505cee1b26d1a95c7269979532cb05788727f4d?s=48",
+   "country_full": "Iraq",
+   "map_region": "145"
+  },
+  "CN": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/f609dfc5cacef6a693343ae055fe6daca737653e48464c7a9c362b15a92f26ef?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/98304b9493d5fc69db807d9233165c880d42a2e678e381cd4ee60443a0c22481?s=48",
+   "country_full": "China",
+   "map_region": "030"
+  },
+  "PL": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/ae163ab37ebc756f334cbfe73e382116a8d3e0a666c49b2a846d2b93dc0239ed?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/3c1d0cdb52a90d75225594be99bca2a31a2538db9d2d74afddcb8346fd0d0a3d?s=48",
+   "country_full": "Poland",
+   "map_region": "151"
+  },
+  "BD": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/93af0d4f3be6fd64ffab410378376125f0af8defbd6ed8e15ec72e8746389282?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/55df593e4f51c91a309a1a0f9128731b42cce9393abed015dda5b40814dc2c09?s=48",
+   "country_full": "Bangladesh",
+   "map_region": "034"
+  },
+  "SA": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/75fd83707ee5da6b756e79f3bc4e05abe212453c481743622469374593f20456?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/35c223527b10bff2588e166cba66a40eafecbd7beaf2c4f8a5cae118907769ae?s=48",
+   "country_full": "Saudi Arabia",
+   "map_region": "145"
+  },
+  "RU": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/40e8f0c273481e22c8761f3d27597f6d682371d3b95ae12769e018efc679fa95?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/63a98a2fad7b7e2a58e7ed56289246ca830815dfcf5e95f699ec13ed2d620ffd?s=48",
+   "country_full": "Russia",
+   "map_region": "151"
+  },
+  "PK": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/6802ea05f8bbda6f3fc46351d3cc5d08f7d9e1999a67cfcc69c723840900c287?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/6f3700ce79801f781ef87b7c529d063a34ff5ab805e6c7e0554bbe5afcfbae84?s=48",
+   "country_full": "Pakistan",
+   "map_region": "034"
+  },
+  "MY": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/fd45c8a1dc21f19bcf33c3cd7eff75ae0caa61763700d3f2f49fad4bb03186cc?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/f5eb5409bc78dc077b45b1625190a1335281f146aea6eb9f04689e2d54b02bd7?s=48",
+   "country_full": "Malaysia",
+   "map_region": "035"
+  },
+  "MA": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/4d02d541e378891c91ae9eff04699008960733227a8ee2b5ff1d4934e02c7ae0?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/c696f3f1269e0dc927b36ee9f397c7f6ae55021e4c3d80f0c77759a62c18f0a4?s=48",
+   "country_full": "Morocco",
+   "map_region": "015"
+  },
+  "BE": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/f86e404ef8b3828b951d3e86ff10f8faa936228bcc9049f5b510c7579a8f4a07?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/e64b492c6a0e27c2a4c2e219f78bbeb8436d4749bac011bea938a7def87694ed?s=48",
+   "country_full": "Belgium",
+   "map_region": "155"
+  },
+  "CZ": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/78e39f9f3141e8e290c0898e17c9c18e027e0f0a57c285b698df039602333310?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/5fc64e8ed065ee8b076100a4508c158cf803508ec630e86b0941489c3542bb0d?s=48",
+   "country_full": "Czechia",
+   "map_region": "151"
+  },
+  "IL": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/4102558d54ca6bd4ea39ed7a95414047759175562b54c632b46bc5593427d95f?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/8977d63391d760652e5290ecdcccf964fdd4b6ccf21f27dae2a43da9d17d0728?s=48",
+   "country_full": "Israel",
+   "map_region": "145"
+  },
+  "AR": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/0096edab5e4390e44fc59f12a0662097040daa879ff17b9b33526ba0c5180f63?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/9bc8cfb8730055ab26ab7e7c57fcdfe734b90b0d5452cbeb9c6469c7df08a41a?s=48",
+   "country_full": "Argentina",
+   "map_region": "005"
+  },
+  "NZ": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/3b20ef8a1b0d3180d1a584ef78aec5b079d43845ca69537fcc8349b21f5de28a?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/5b802cf6a436c463c1db07a9ab565f90dfcaca9cb23b3ced528d3c987440fed4?s=48",
+   "country_full": "New Zealand",
+   "map_region": "053"
+  },
+  "ZA": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/2c83cd13472945991c36f8c2b16a19f31d770201523dcf835de960ed6a9cc0eb?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/9364d398ed2f19365f98cb93d663718d1d444937a55aa1f17b601a2bcd606ddf?s=48",
+   "country_full": "South Africa",
+   "map_region": "018"
+  },
+  "DZ": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/0727a65af7b0bfce371e871da0f3805ecbd52a98c459b87b8cf3920cc34c0fca?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/b9256421da12b72ce1a1bdf68aaacf9b7c4d33798c9de5883aac8d3ba26fef5e?s=48",
+   "country_full": "Algeria",
+   "map_region": "015"
+  },
+  "IE": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/05b18c048aead9eedf5191d239375807787a7c2da70073daae5ea0c40d0addd5?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/6e91c3d5d644935822baec897509cc5c2859926641324bfa63bbc04f08825d92?s=48",
+   "country_full": "Ireland",
+   "map_region": "154"
+  },
+  "SE": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/25216e8bcc7210902c7f9ee64e8a8ab5ae6ba36dd044c2bfcec76c46dfb64c14?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/cf39d6c067f5e2ee82951ae14e24ad72111fb36b5f843297dfb4146364db7a68?s=48",
+   "country_full": "Sweden",
+   "map_region": "154"
+  },
+  "AT": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/abdad097726bceb3fcd6aa348b0eaf549608fa577928a49b77a6724a718a807b?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/2a74b7811814232e5520a97fc35ce25722f0c467fb6e960f3a5b073efbe49847?s=48",
+   "country_full": "Austria",
+   "map_region": "155"
+  },
+  "PT": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/0c05305c9bcd668879737085d23403c9d014c0b28528d8b732a9095ab072c710?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/3cfb3b14b00f578e09a2e9082534fc1d5c1e53f3d295f29369c73353ffbf241c?s=48",
+   "country_full": "Portugal",
+   "map_region": "039"
+  },
+  "CH": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/18e17cfd51fe53876b320b3f3f0b924fbd1bb2b28653913b75bf53c32ab109ba?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/a5b6c75e66d10fe7a1c1e68c3ca92447e870052c9c30cf855f7dd59753d11c04?s=48",
+   "country_full": "Switzerland",
+   "map_region": "155"
+  },
+  "PE": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/49ac3f098e3023a2a4bd5716add5187246c90d59083bb7bc901a4d147726d67f?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/4a209f179482d469c98c64d79e8fd653c76123223707d9dacfe429c7360fb8f7?s=48",
+   "country_full": "Peru",
+   "map_region": "005"
+  },
+  "DK": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/0264e7736385bcc4facb7f35cb9b774ba137fd337e9b55b4d7e05c38c18d5c30?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/b79e8af9e8953d0afee7999c1141463af51e37e19d06c914386c6df61752f37d?s=48",
+   "country_full": "Denmark",
+   "map_region": "154"
+  },
+  "FI": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/6e564e2b5eea6797f04f6dccdf33e652f4e26290a6a001c31044b836178ff7c5?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/1a0ad7f763b7a0d4e84df33c79454d563cf98c3bb3ccc5fd5d368a932f52eed8?s=48",
+   "country_full": "Finland",
+   "map_region": "154"
+  },
+  "AE": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/50477aba8242abdfc86ed83f39c9cf09d345c3a2037be9af93d415b43f2197ad?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/e0f1d25b85bd934a550dd0856f960b28c4592b20edc8ed091a69982f7a76b845?s=48",
+   "country_full": "United Arab Emirates",
+   "map_region": "145"
+  },
+  "RS": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/f0e7d4fcc247542c75b10509ac2a0bd56fd85301bfaf1694437886be8bf03a37?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/5663a7094af51b3350028edd5b52ee660c2b5e10d9d171466b1f3621753a280f?s=48",
+   "country_full": "Serbia",
+   "map_region": "039"
+  },
+  "UA": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/03f42a6ad252ba4650fddb20447ffec8d9bb5d8bfbb050180aad184e7ecb2608?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/e8aeb5b6cfb1145a8a4f3cf27ef1592cd577f0ebf1bfa3ead336283327712d11?s=48",
+   "country_full": "Ukraine",
+   "map_region": "151"
+  },
+  "NO": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/572d94012c29ed06ebbdf43bf3f430b417aa25b473974848e887d16dbf1b3ac1?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/afe42011c13ef3b277100f4edb98e91f01a5b063c76f7e0553d7eb421cf9e8f4?s=48",
+   "country_full": "Norway",
+   "map_region": "154"
+  },
+  "CO": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/952e8a76ac493adf6307fad862872542a11aec9bfbbcbd34015ddab6353abf51?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/48da36fe450f3d87deb2eb35d34de4edfa1f227a0091542adfa709375df71bf5?s=48",
+   "country_full": "Colombia",
+   "map_region": "005"
+  },
+  "HU": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/773d17eaa1f86800e0dc3246822770f26ca8aed2141ed39047794e219937fc31?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/b9fd3292e352696d2792c461f80b031b5fa414be21679e4f7f8c9f3357f15199?s=48",
+   "country_full": "Hungary",
+   "map_region": "151"
+  },
+  "RO": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/6eb6e904bc43afab8fbc2f43651490c0755092784f2a73baa298435ef41f1cc1?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/b4b81045f941f4fc72350fb1d8afeab7d8258236884b9dba64fede62b24175fd?s=48",
+   "country_full": "Romania",
+   "map_region": "151"
+  },
+  "NG": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/cec8dffdebc2d249af14426a52cda66cb400ab7ed79a9c4675ff3976e8e59469?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/31566d02a649f3b30cf79cf0bc3a75dc8fe08428cdc59c6965454e4146734bc3?s=48",
+   "country_full": "Nigeria",
+   "map_region": "011"
+  },
+  "GR": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/1164140825c2590024a0f638f77a3eca6cb8c2fc44f98c44ff305b06463f4b37?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/019f734452d08cc746808733e186c009618d551baf8992cfbd959319bfb4db01?s=48",
+   "country_full": "Greece",
+   "map_region": "039"
+  },
+  "TH": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/4687d3c647c84f5aed6748e78bb16a8e3fd91eff1a056cf75bb85c6541b299ac?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/c6750d3f51b77c16bc58810d81ba34fa3ba330d34b08cc8ba1214f380a684c6f?s=48",
+   "country_full": "Thailand",
+   "map_region": "035"
+  },
+  "CR": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/cdd711e951f2e8fdfda21498f80c568452ab07a5da80c5ddc66f4cfc207ab9fd?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/bd00e810d0ea88139ba117f7bb03acfdcad6afc09be7e7e48961ecbe6db343fe?s=48",
+   "country_full": "Costa Rica",
+   "map_region": "013"
+  },
+  "CL": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/b54ea45ae6d7844ea8940706728a214ca1215196fc90339830531de82a75385c?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/b6480d51a70c6f2775ae7d0998534c2b8c8337acbac52ff5c71af23f3050ee84?s=48",
+   "country_full": "Chile",
+   "map_region": "005"
+  },
+  "NP": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/e064892f8d3c6700f9bf18446db5c1425decf824861adbda1f376e028582fb2e?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/8d6d728d78801fdb37b33340cd2cde94f7a366ca969b65bbaac0f8c9b1dec836?s=48",
+   "country_full": "Nepal",
+   "map_region": "034"
+  },
+  "GH": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/e7b6054773775d3f31c925a3ac56c9a21c5036b2ad05abc46b13315135b3a068?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/0f3941e97cf33e379ad1f5e3b2bfc359a2de72c3ed8ee09d1167b78d05840196?s=48",
+   "country_full": "Ghana",
+   "map_region": "011"
+  },
+  "LB": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/7f2b845c96b550786e2bc965cf94266ec37f5540e3daa7a3bf691fd497c1a73f?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/cbbbc422e3e9e38539fdbf1223b34eba144f886b2a0eccf70cdc48aa401aa7b7?s=48",
+   "country_full": "Lebanon",
+   "map_region": "145"
+  },
+  "KW": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/273154e7222bf1f60a2cfe932ffaa394a28228ffa59037da6f6c9c417ec987ce?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/dc7fbe49a8501d4f40679058586e0c480ccd5baf4153dc02ce1844028ed9b24c?s=48",
+   "country_full": "Kuwait",
+   "map_region": "145"
+  },
+  "BG": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/c6ac0540f7130c23206d57ad63a8666d911fbf6c1338430746d74bbccd86afd0?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/4916a4f77b0efa7a0bfcefc5fc7601cd55e9c21bfcaade08cd250fd7d396b746?s=48",
+   "country_full": "Bulgaria",
+   "map_region": "151"
+  },
+  "KE": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/7a6ad8e80545fd7fdfdf0b94267c0272e99858cbd931e43430051554441f8aa2?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/c723ab04ad37894423d4f37b926d64eb8ad8aebc0cb62ac1b2a1aa5950d93f6c?s=48",
+   "country_full": "Kenya",
+   "map_region": "014"
+  },
+  "LK": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/0de37fd20d4f9533343813e04f4d3d17e36d8ce8ed5d4cedf21ad1449c60fa1c?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/eca0ec75359adfd51218a68ed016b5443f25864863a636e91028dcc5405e580a?s=48",
+   "country_full": "Sri Lanka",
+   "map_region": "034"
+  },
+  "JO": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/bf035abcf87b3c16b76c764f113be69dc45270d377b876767109bc2da0ce2059?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/ac2ccbcb7105a592dd70ce68303af9e537e6c946876ccb70f38983167f01bcd9?s=48",
+   "country_full": "Jordan",
+   "map_region": "145"
+  },
+  "TN": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/3dfd9a91c8b85b8e80c7736653ee6cbba9ede3ed03865ae4db2e4c778d99f952?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/fb5615074e8e7a85af2940691fdd66b2132368977115fe343fbba093674caf21?s=48",
+   "country_full": "Tunisia",
+   "map_region": "015"
+  },
+  "YE": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/d85aa8fa8c4c9e73ea6f231bee405f721f4c21c8c245a2612ed94033037f73f2?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/6ff8406bc53335e1afdd3c9108bb4201eedacd19ee808670489107eeaf8ea3dd?s=48",
+   "country_full": "Yemen",
+   "map_region": "145"
+  },
+  "SV": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/07febf3e6d8f913a1dc27de0e1a47335eeb94b726ced50602c61a358759171ae?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/29abf88cb32aa4ce552d444f7dffc1482bce1af1addc77948568170b4faf1c9a?s=48",
+   "country_full": "El Salvador",
+   "map_region": "013"
+  },
+  "AM": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/c7d6c8e44852da06c7ff40acc6793a0b744d186bcd596fc1b46cb3efc669da74?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/6971bb7ad04e831cba42eb4b251e82546385249962408b553b05eb4e15ff12d4?s=48",
+   "country_full": "Armenia",
+   "map_region": "145"
+  },
+  "EC": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/7522fa9e72d4c170dae991e79ff89e62341dd2b627943457d3fcc35dbd42f8ea?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/67c535f890cfa9b7a4d5f92aeedffd128501e18f64be0786fbdd07d2118a69fd?s=48",
+   "country_full": "Ecuador",
+   "map_region": "005"
+  },
+  "ET": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/9a6250bc43dd43d79b2a70d3dcb30c7729c6b20bd6fc9bee24013da49f4811fa?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/d3c3fe5d5b7880f6373de6294b7875107ce061a18ce050412830a28d1dda928c?s=48",
+   "country_full": "Ethiopia",
+   "map_region": "014"
+  },
+  "CU": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/e042a848650569528a43a098f18c5f1baac61c2569581dc6fcff8d15b9228cc9?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/ad0900fcdd70ea59d90eb34e88068bd1339f6bb1b737f1fd4e1f0307fc5bc885?s=48",
+   "country_full": "Cuba",
+   "map_region": "029"
+  },
+  "CM": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/32bdeee4ae53692c5f9a951141d82847358aa7d2282dfc6b42a15741c33c87a6?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/d586b943498ac91b17ecee8acc2b3de33e42f618f5a4bfbe7fd6197124cb4625?s=48",
+   "country_full": "Cameroon",
+   "map_region": "017"
+  },
+  "PR": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/7c1439b8e73f98586d371c3f0ec3a148514c16b3af2851579aa3fd8820ecd070?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/ebb11f5d1eee0e28b5cbdffc38f8d6014153a4260c09fc2f3d77cb67025c9ffe?s=48",
+   "country_full": "Puerto Rico",
+   "map_region": "029"
+  },
+  "SK": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/7552cb6454ab5727fc21e97f66c6577b4588705cf561503f862e6d6a941ea005?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/39a4f6a8811459eaf1ad28b310b06ab3a085d395b85778c9ae4cdfcc16f2d0c3?s=48",
+   "country_full": "Slovakia",
+   "map_region": "151"
+  },
+  "HR": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/d24f681a5f96dcd63d3ce20cc5753a7b491fead785c53e2a17636e8a4d434f01?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/b7e255c5badb3939b54103a523f39b8ef71426c63ebbf0365e674add39da70d1?s=48",
+   "country_full": "Croatia",
+   "map_region": "039"
+  },
+  "BY": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/38aee22ac044b2d4fa808578744c500ddbbea7b39804516251dcb371d79b1d91?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/ff2c161d8f7c64af278b406a69fcfd9a46c6d8c880d19208031eec6cf428e78c?s=48",
+   "country_full": "Belarus",
+   "map_region": "151"
+  },
+  "KZ": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/abe11afa0330967567bc3975f49266b7f0adaec59b3b53e68f6f14cfa37afd44?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/3442cc8b1a52885658cb7a6d21beaec1388280f31ed7e508bbb08f08e0815db4?s=48",
+   "country_full": "Kazakhstan",
+   "map_region": "143"
+  },
+  "UG": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/ec792ffd4bccd0b8ef2feb744868e640c4a83fd52a7ae0d72062fe36ec912915?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/4f714c491462aef24265f8650dbba19460c0b992d949a267559c7a8d3936ceae?s=48",
+   "country_full": "Uganda",
+   "map_region": "014"
+  },
+  "BA": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/7869343ba468e9311570f5f9dc4758f42cba3812816f6e832c56e00d3547a4c5?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/f0089f721ce3a3ce658f835dacf1ed57444fff56a2551ad712465d1a9b5d5f8a?s=48",
+   "country_full": "Bosnia & Herzegovina",
+   "map_region": "039"
+  },
+  "PS": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/afa73cb29101d0ca2797620bbe766e4888483648dc60c2f409533a2068358580?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/1bf1c33cbcc74f4b92b5a7f6af518822a1298f733cf13d7d12447356930ed1a6?s=48",
+   "country_full": "Palestinian Territories",
+   "map_region": "145"
+  },
+  "VE": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/a89c31d58836ad8aad820985a96336b698c9dd702b09a5f70538f3c6cf0aad57?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/fa8753619e27c233baf522415747cc8af4785deff6b937e8a76a696e8275705c?s=48",
+   "country_full": "Venezuela",
+   "map_region": "005"
+  },
+  "GE": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/169506b991c7deeb48499e62504e08aadac39d1b516ad4159fe8c6d048815bf7?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/0550765ccd3784447d8f729f8be4def4d338c889411a468f55996f4a6020ba13?s=48",
+   "country_full": "Georgia",
+   "map_region": "145"
+  },
+  "QA": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/b170591379ccd39642ad4774a027f437474d7ca30c3517c7ee83f005dd1d7cdb?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/f050d66350cd1e275794f59b5f3145c82763a48528b07c9644db18b4639265f8?s=48",
+   "country_full": "Qatar",
+   "map_region": "145"
+  },
+  "BO": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/f981ab51e0cf6dcf865753e46bd0aad33cdcdb64c433b605f1f55a11064cef2f?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/0562f2bf587e2220edbdb3a2325972adc62da524953ea51bdcc3616bf0b6e3c3?s=48",
+   "country_full": "Bolivia",
+   "map_region": "005"
+  },
+  "EE": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/232b94ab3cd82a9c4859b21295468948b6391679734f65d6f6c1d1b606dc26d2?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/34a59a1d2ce912a1de44ae8a37e384c68e0073f440e830c5091fdfa7dd8463e0?s=48",
+   "country_full": "Estonia",
+   "map_region": "154"
+  },
+  "UY": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/f8a6605fa7c1960d3aca66086e28a616b10693d81179d262bff513b55d902590?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/6cdfe10127dd6f0f293a2c4f02de2f976f96fcce080b4ec326d101f23572de86?s=48",
+   "country_full": "Uruguay",
+   "map_region": "005"
+  },
+  "OM": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/733758d1a25ab4a1ccf3dc499a7e950d7e02daca347414cc7747e2c960283acb?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/6794826fb03eceef9800bd30c2270eca815862be4fe175d843c34cd778d7124d?s=48",
+   "country_full": "Oman",
+   "map_region": "145"
+  },
+  "LT": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/9a0ab9b830466f89634ca43f8e9124ca334343efabad5461852ead2f8af2315c?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/dffc91f55263a1a181fb9c5535ea64f645dac5294db254ca800846ac9dbc7e6d?s=48",
+   "country_full": "Lithuania",
+   "map_region": "154"
+  },
+  "SD": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/7e94e6a7dd2fd86ace3b349ae419c9b520eae2f1040422d2d29fe0d68316f409?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/3a1b9259e6dc4a05895f6d05e42a7076230e7a6443b3972b9859c526e052a70c?s=48",
+   "country_full": "Sudan",
+   "map_region": "015"
+  },
+  "SI": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/82f8755f4d3fe8d31504a3a8c9b8c764e40f69f6f4683d70a8cac6b60196a8e2?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/fe5971fc47f6a3cc86348ae95f2fb842e2af3b90e12718566895f9bfb391c214?s=48",
+   "country_full": "Slovenia",
+   "map_region": "039"
+  },
+  "HN": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/7e7a76373d8e123ebe81cd9a05004250c5dbcb8a1c0069683767a9b65f29d32f?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/060db90dad9af77051a247385cf5e47212fdca3f920414a09dc13573bcb81fdd?s=48",
+   "country_full": "Honduras",
+   "map_region": "013"
+  },
+  "AZ": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/17d2bd7fd4219b05224f1a18bb4084a201622371f302ac8d0516973b45b0b014?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/4a5b72c9aad8304e9cd8dad7706247f9c85920456d5f57712e559967e2f7176d?s=48",
+   "country_full": "Azerbaijan",
+   "map_region": "145"
+  },
+  "MK": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/6027c3b2c4a0ad16fc2b3236d71b133769902c616a1d6414183107ede5e5dfde?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/fa4b6901a65bdaea183e9e67d674196526130c4ce7d3f92baa3295ef39dafa57?s=48",
+   "country_full": "North Macedonia",
+   "map_region": "039"
+  },
+  "TZ": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/5d83a37ac049017248e1669913d077a6b497ada4d36d2ed1f3cb13f1bf47a9c7?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/4c8df9c3612563bfbc6e9790e58221f7182d31e946aad9047f8c4a59f1e67d3b?s=48",
+   "country_full": "Tanzania",
+   "map_region": "014"
+  },
+  "MO": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/362f4b36026321c1124814f851a1663ddebf41174e21226aba095332a3abecb1?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/0bfce249bcba496d9d12f15a513e906f255b4cedfdd610876f0a334baeb67e95?s=48",
+   "country_full": "Macao SAR China",
+   "map_region": "030"
+  },
+  "AL": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/4fb0908563800bc8c92a7387ce7e7efe2f5eec3819e941abef36131e555837e6?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/8ce2c1640704b800439d23a7f12bb521dd9cc954401e32cd70ac854dbb6b3c13?s=48",
+   "country_full": "Albania",
+   "map_region": "039"
+  },
+  "MN": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/4773c6c8881a50fab737fbfa8351f7caece84364ef36dfd449c0bb3cd729535b?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/8af0a1b706c96b3e278ea101e20c44709b56e51b4435f8736ed7ab62cf323938?s=48",
+   "country_full": "Mongolia",
+   "map_region": "030"
+  },
+  "ZW": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/2ca5b498ab02981e03df40784e07b496225f4b22623dad6cecba1a082cc511e9?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/836d7dd5e55d6d61940772278d9b967f187e1e49d94b6a5c45e68ccfad1474f0?s=48",
+   "country_full": "Zimbabwe",
+   "map_region": "014"
+  },
+  "EU": {
+   "flag_icon": "https://s-ssl.wordpress.com/i/stats/square-grey.png",
+   "flat_flag_icon": "https://s-ssl.wordpress.com/i/stats/square-grey.png",
+   "country_full": "European Union",
+   "map_region": "world"
+  },
+  "MG": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/bd8d3b0f8799ee06894762597e16eb4ce665dbe7286df3bbf77d3de4f353e094?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/6852043f87277324a0c6077ed2e03059a037f90bb0601f86aa90a10bc319496d?s=48",
+   "country_full": "Madagascar",
+   "map_region": "014"
+  },
+  "PF": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/719e3192344c9cda6a09b0667f5401e70f44076ed9030a48ea7c476959bc719d?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/91e5a6695da158f5f7c22d264ba53769863c23d31fbb59e960541d22b1d879f2?s=48",
+   "country_full": "French Polynesia",
+   "map_region": "061"
+  },
+  "LV": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/11da594865b00cc5d927103dc4a59b32c435a5c9b7bc2ece015605d06c8f9bfb?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/81017c2b7d6c990da5d06c1d7421efb6204b30f796ecfc1a79103a611c6942bb?s=48",
+   "country_full": "Latvia",
+   "map_region": "154"
+  },
+  "DO": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/fa66b478c0ce00557523ff51108ad463aa1c8d72af1f6b01e25c79add47d07a2?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/7e6338f695a9a9b22386e11e10ef47c971d7de27bd21ce1de228f7aae535c4a8?s=48",
+   "country_full": "Dominican Republic",
+   "map_region": "029"
+  },
+  "PY": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/4be9ece8c5211d882dcdd98627290c235c7c69c973f02bb8f4c091c9091a3009?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/9d000cbd2ce378544d778c2854e73d6709b5a54881ad2de4674a6731ca5ad468?s=48",
+   "country_full": "Paraguay",
+   "map_region": "005"
+  },
+  "ZZ": {
+   "flag_icon": "https://s-ssl.wordpress.com/i/stats/square-grey.png",
+   "flat_flag_icon": "https://s-ssl.wordpress.com/i/stats/square-grey.png",
+   "country_full": "Unknown Region",
+   "map_region": "world"
+  },
+  "GY": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/7212f3fa9c0e22cfb29bc61f98dfd400bbd367d99dfc736dc102dd6b38b32d6f?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/7aa3a8024fcb537fde3c5a7625f39ad5f5d9f3497a45d7f5f636518e8aff9ab2?s=48",
+   "country_full": "Guyana",
+   "map_region": "005"
+  },
+  "MD": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/3bef0393d4b67e98d979c9091c416e5a0d50c08024358cc8a9d5aa245af40f16?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/99cfd6cb9f4c703cee016485e03f6d6594ac68abf5d57ae3cdb1cff216797b05?s=48",
+   "country_full": "Moldova",
+   "map_region": "151"
+  },
+  "IR": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/9a01e79fae1a7f52f6cdf31254a8602dff4b4f94cd4dbef611d2a3077d6e0c92?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/91ae5768ce1fa77be67c2f321b261e587392badba52cd607d3893d60cdaa905b?s=48",
+   "country_full": "Iran",
+   "map_region": "034"
+  },
+  "GA": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/96e060e8f2350517f8088960cdae8fdc83657551e91db77da8eef535f977314b?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/ae64670613b78630fc7ea7a4b318a7995d9733360674cf05b448f977142384d1?s=48",
+   "country_full": "Gabon",
+   "map_region": "017"
+  },
+  "DM": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/3aa96a79c9321f96768c3d04cfa78d0e58c7c8de0cf24f493455fd6b9edf2ce2?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/dd10063e4a40acaf7258f7f77d8bb048ce6bf88cde707e6ee689acee85533cdf?s=48",
+   "country_full": "Dominica",
+   "map_region": "029"
+  },
+  "MT": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/cf5692c0febd73fb1d682848a895afcd25917bba712e6fab88d80e52bad91c06?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/c031f2138bfc95454dfada56a75680ed437e823ef4642293c9fbedb0b862f9dc?s=48",
+   "country_full": "Malta",
+   "map_region": "039"
+  },
+  "GT": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/43cdb454c9d472693bfa1bc6bda2c87047503f5d82d596dd22250becdadb23c1?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/8b0d029ccc949b53801b15575f1542847068e4406ed0263228d0a6a8590eed94?s=48",
+   "country_full": "Guatemala",
+   "map_region": "013"
+  },
+  "BH": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/c10c6ad9482397a07bb2d4da4f7ed11edd6305c484cc85c62e74f5071b444124?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/9bd743f0778dd7154aab5bbb85b38e5ac71eafaa6fb5a04d1c743c0783eb9bdd?s=48",
+   "country_full": "Bahrain",
+   "map_region": "145"
+  },
+  "BS": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/208ec6632eaea8910b9495f22cc5d3939b39f19e3b7da2f173bbcb818f5c13f7?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/4373679a61751be287276bbe8b56c183320597f3ac31212c41862037edb1c586?s=48",
+   "country_full": "Bahamas",
+   "map_region": "029"
+  },
+  "HT": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/0d4cce0df0056a523dd10e4efdbec8ac640259069408af98009a71eca95add1a?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/41378bf395f533db99fd9ae944d38a5a06db939691fdd25b44c04504da036213?s=48",
+   "country_full": "Haiti",
+   "map_region": "029"
+  },
+  "PG": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/17dd99d0be815cf53477c63cd96ef66769cea4d4e611e8620ff5cf0fa483001d?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/cf1c5a802e8f3723740bc2b794b324606b0cc4598aadd79d432aa5d789212ee4?s=48",
+   "country_full": "Papua New Guinea",
+   "map_region": "054"
+  },
+  "JM": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/7c96370e748729b76dbb122f37f4aa4536b1e0daade1356eac40573aa1b38870?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/74597493f0fc0f799152cf62e25ee5a82d39542189534fdf931a94b3a704bb24?s=48",
+   "country_full": "Jamaica",
+   "map_region": "029"
+  },
+  "TG": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/ccfb471334e1300577ccbb844f419661636631397fd1732220a5006c4cbb42e4?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/71ff9c13ac381a7adea422195d53788a7a4ab32cb3a99c9716bdc9c98fa65a77?s=48",
+   "country_full": "Togo",
+   "map_region": "011"
+  },
+  "LU": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/c4c9a3da1093aa2dd0e1204251a4cea3749496f3a41cf47a04a28900f27f6b6e?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/b5ced9f43d22d1c32b0fb4bdb45ac2e0e36877b6868c596b623cb32ee3540fe3?s=48",
+   "country_full": "Luxembourg",
+   "map_region": "155"
+  },
+  "MU": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/6c7502ede267902c38cdcae6225430d404745979d780f0c930870f6f6fc9c84c?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/492d11a15600868fbf60b0cd0dc619ad2b3e58a276ac2240a8449ffb65981a56?s=48",
+   "country_full": "Mauritius",
+   "map_region": "014"
+  },
+  "IS": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/1297112fd016075d13fad38661bb2fb62566ce94cbad1622828937ac9cb31ac5?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/538e17ae50b2d2c54a56c23b4093f1fa41e0a9a983ce4c47c7c2e98bb7411e1a?s=48",
+   "country_full": "Iceland",
+   "map_region": "154"
+  },
+  "KH": {
+   "flag_icon": "https://secure.gravatar.com/blavatar/584aa9e0b7010f54821aa9e3fb01b86e505085ec7e331e63bcb67d68195ec9da?s=48",
+   "flat_flag_icon": "https://secure.gravatar.com/blavatar/74470621338dcfac18dba13d0cbf731eda97a7e790d90bd410e2530703e28b5b?s=48",
+   "country_full": "Cambodia",
+   "map_region": "035"
+  }
+ }
+}

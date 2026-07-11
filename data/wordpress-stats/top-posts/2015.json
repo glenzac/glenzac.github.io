@@ -1,0 +1,23 @@
+{
+ "date": "2015-12-31",
+ "days": {
+  "2015-01-01": {
+   "postviews": [
+    {
+     "id": 0,
+     "href": "https://glenzac.wordpress.com/",
+     "date": null,
+     "title": "Home page / Archives",
+     "type": "homepage",
+     "status": null,
+     "public": false,
+     "views": 5,
+     "video_play": false
+    }
+   ],
+   "total_views": 5,
+   "dropped_ids": []
+  }
+ },
+ "period": "year"
+}

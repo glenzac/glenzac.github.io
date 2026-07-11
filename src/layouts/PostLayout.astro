@@ -10,6 +10,7 @@ import BackToTop from '../components/BackToTop.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 import { SITE_TITLE, SITE_AUTHOR } from '../consts';
 import type { ImageMetadata } from 'astro';
+import { postSlug } from '../utils/postSlug';
 
 interface Props {
 	title: string;
@@ -107,7 +108,7 @@ const jsonLd = {
 						<nav class="post-nav">
 							<div class="post-nav-prev">
 								{prevPost && (
-									<a href={`/posts/${prevPost.id}`}>
+									<a href={`/posts/${postSlug(prevPost.id)}`}>
 										<span class="nav-label">← Older</span>
 										<span class="nav-title">{prevPost.data.title}</span>
 									</a>
@@ -115,7 +116,7 @@ const jsonLd = {
 							</div>
 							<div class="post-nav-next">
 								{nextPost && (
-									<a href={`/posts/${nextPost.id}`}>
+									<a href={`/posts/${postSlug(nextPost.id)}`}>
 										<span class="nav-label">Newer →</span>
 										<span class="nav-title">{nextPost.data.title}</span>
 									</a>

@@ -46,7 +46,7 @@ I see all these as signs of discontinuing support for old YouTube clients. So I 
 
 After reading a lot of forum posts, I decided to go with installing OSMC - it apparently had more features and was more customizable than LibreELEC. It took a while to set everything up and update my library. This was how it looked then:
 
-https://i.imgur.com/GHRwuy2.jpg?1.jpg
+![](@assets/images/2022/GHRwuy2.jpg)
 
 Then I followed an online guide and installed the YouTube addon. I logged into my Google console and got all the API keys and fully signed in and also completed the 2 step device registration. Videos played fine then. Next time I decided to reboot and then when I opened the addon it was asking me to signin again, but the other options like 'My Recommendations' and locations based videos were all visible. Videos only played for 2 seconds and kept on buffering. Tweaking the cache settings didn't help. It took me two days to go through all the kodi osmc forums and try out different solutions. Nothing worked in my case. So I decided to scrap OSMC. I had no intentions of switching to LibreELEC as it too was only a lighter version of kodi.
 
@@ -364,7 +364,7 @@ done
 - Added following commands to /boot/cmdline.txt to turn off network boost mode `smsc95xx.turbo_mode=N`
 - Run [Rpi diagnostics](https://www.raspberrypi.org/blog/sd-card-speed-test/) to check the speed of your SD card. I have a class 10 card but still it fared well in the speed test.
 
-https://i.imgur.com/7AOXqSk.jpg
+![](@assets/images/2022/7AOXqSk.jpg)
 
 ## Fetching YouTube live links and streams
 

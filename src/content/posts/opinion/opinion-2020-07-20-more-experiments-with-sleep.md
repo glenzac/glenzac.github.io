@@ -19,7 +19,7 @@ All I wanted to try this time was to improve the quality of sleep rather than sq
 
 This is how my Google fit data for a month looks like. Two dashes of purple to indicate the two different sleep times.
 
-https://i.imgur.com/oXlmA6K.jpg
+![](@assets/images/2020/oXlmA6K.jpg)
 
 The missing data points are the result of not plugging in the phone before going to sleep or completely forgetting to use the sleep tracking feature.
 
@@ -29,11 +29,11 @@ Purchasing the full version of the app made it easy to track sleep everyday and 
 
 I also use the smart alarm to wake me up (on the [Sleep as Android](https://polyphasic.net/schedules/biphasic/) app), this ensures that I wake up from light sleep and it also wakes me up early if I've clocked the required 6hrs and 30 mins of total sleep time. Some days I even took it to 7 hours of total time.
 
-https://i.imgur.com/OO0jeq3.jpg
+![](@assets/images/2020/OO0jeq3.jpg)
 
 Here's a simple log of the data on Sleep Cloud :
 
-https://i.imgur.com/BEv1gih.jpg
+![](@assets/images/2020/BEv1gih.jpg)
 
 The sleep deficit is compared to the standard of 8 hours per day. I don't think I need 8 hours of sleep a day. I can do with 6 or 7. So the deficit seems to be high in some cases. Deep sleep kept on varying but I did have much higher deep sleep levels than usual. The deep sleep % also depended on the neighbors dog, if at all it decided to make merry with it's friends at night, my sleep quality would naturally go down.
 
@@ -41,7 +41,7 @@ Couple of weeks into this schedule it was so easy for me to wake up when the ala
 
 One day, I decided to try and prove if polyphasic sleep was bringing about any change in my body. So, I decided to fall back to my normal schedule for a day. I loved to give myself a treat of 8+ hours of sleep. I didn't set an alarm for 03:00, and turned off the smart alarm feature. I woke up normally at around 06:00. To my surprise I found this in the sleep tracking data:
 
-https://i.imgur.com/ZwGg7JH.jpg
+![](@assets/images/2020/ZwGg7JH.jpg)
 
 Right around the 02:45 to 03:15 time period, I naturally came out of deep sleep. This is the usual time my alarm should have gone off and my body was preparing to wake up at that time. Big enough proof that sleep cycles matter.
 
