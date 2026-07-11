@@ -1,0 +1,136 @@
+---
+import archived from '../data/comments.json';
+
+interface Props {
+	slug: string;
+}
+
+interface ArchivedComment {
+	id: number;
+	parent: number | null;
+	author: string;
+	url: string | null;
+	date: string;
+	content: string;
+}
+
+const { slug } = Astro.props;
+const comments: ArchivedComment[] = (archived as Record<string, ArchivedComment[]>)[slug] ?? [];
+
+// One level of threading: top-level comments with their replies
+const topLevel = comments.filter((c) => !c.parent);
+const repliesTo = (id: number) => comments.filter((c) => c.parent === id);
+
+const fmtDate = (d: string) =>
+	new Date(d).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+{comments.length > 0 && (
+	<section class="archived-comments">
+		<h3>Comments from the WordPress era</h3>
+		<p class="archive-note">
+			This post originally lived on glenzac.wordpress.com — these comments
+			were preserved when the blog moved here.
+		</p>
+		<ul class="comment-list">
+			{topLevel.map((c) => (
+				<li class="comment">
+					<div class="comment-meta">
+						{c.url
+							? <a href={c.url} rel="nofollow ugc" class="author">{c.author}</a>
+							: <span class="author">{c.author}</span>}
+						<span class="date">{fmtDate(c.date)}</span>
+					</div>
+					<div class="comment-body" set:html={c.content} />
+					{repliesTo(c.id).length > 0 && (
+						<ul class="replies">
+							{repliesTo(c.id).map((r) => (
+								<li class="comment">
+									<div class="comment-meta">
+										{r.url
+											? <a href={r.url} rel="nofollow ugc" class="author">{r.author}</a>
+											: <span class="author">{r.author}</span>}
+										<span class="date">{fmtDate(r.date)}</span>
+									</div>
+									<div class="comment-body" set:html={r.content} />
+								</li>
+							))}
+						</ul>
+					)}
+				</li>
+			))}
+		</ul>
+	</section>
+)}
+
+<style>
+	.archived-comments {
+		margin-top: 2rem;
+		padding-top: 1.5rem;
+		border-top: 1px solid var(--border-color);
+	}
+	h3 {
+		font-size: 1.15rem;
+		color: var(--text-primary);
+		margin-bottom: 0.25rem;
+	}
+	.archive-note {
+		color: var(--text-muted);
+		font-size: 0.85rem;
+		margin-bottom: 1.25rem;
+	}
+	.comment-list,
+	.replies {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+	.comment {
+		background: var(--bg-secondary);
+		border: 1px solid var(--border-color);
+		border-radius: 8px;
+		padding: 0.9rem 1.1rem;
+		margin-bottom: 0.9rem;
+	}
+	.replies {
+		margin-top: 0.9rem;
+		padding-left: 1.25rem;
+		border-left: 2px solid var(--border-color);
+	}
+	.replies .comment {
+		background: var(--bg-primary);
+	}
+	.comment-meta {
+		display: flex;
+		align-items: baseline;
+		gap: 0.6rem;
+		margin-bottom: 0.4rem;
+	}
+	.author {
+		font-weight: 600;
+		color: var(--text-primary);
+		font-size: 0.95rem;
+	}
+	a.author {
+		color: var(--accent);
+		text-decoration: none;
+	}
+	.date {
+		color: var(--text-muted);
+		font-size: 0.8rem;
+	}
+	.comment-body {
+		color: var(--text-secondary);
+		font-size: 0.95rem;
+		line-height: 1.65;
+	}
+	.comment-body :global(p) {
+		margin: 0 0 0.6rem;
+	}
+	.comment-body :global(p:last-child) {
+		margin-bottom: 0;
+	}
+	.comment-body :global(a) {
+		color: var(--accent);
+	}
+</style>

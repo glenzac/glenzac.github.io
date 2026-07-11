@@ -1,0 +1,320 @@
+{
+ "atomberg-gorilla-efficio-bldc-fan-ir-remote-codes": [
+  {
+   "id": 772,
+   "parent": null,
+   "author": "Suyash Bansal",
+   "url": null,
+   "date": "2021-04-29T12:31:26+05:30",
+   "content": "<p>Thanks for the NEC codes. Will definitely try to integrate this with my Home Assistant setup.</p>\n"
+  },
+  {
+   "id": 1056,
+   "parent": null,
+   "author": "Manu",
+   "url": null,
+   "date": "2021-05-29T23:12:24+05:30",
+   "content": "<p>Thank you for putting this out here. These codes seem to work with their Renesa model ceiling fan as well. </p>\n<p>I just connected it to my home automation system through an IR Blaster and Node Red.</p>\n"
+  },
+  {
+   "id": 1090,
+   "parent": null,
+   "author": "Deepak",
+   "url": null,
+   "date": "2021-06-23T14:25:21+05:30",
+   "content": "<p>This is great!<br />\nIs there anyway to upload these codes to Logitech Harmony remote, as I lost the original remote otherwise I could have taught the commands directly?</p>\n"
+  },
+  {
+   "id": 1091,
+   "parent": 1090,
+   "author": "glenzac",
+   "url": "https://glenzac.wordpress.com",
+   "date": "2021-06-23T17:21:20+05:30",
+   "content": "<p>You have to check if the Atomberg devices have been added to the Harmony database. Otherwise, the next thing to do is use the codes in this blog to make your phone generate the IR signals (assuming it has an IR blaster) which can be used to program the Harmony remote. You can use this app for the same. (<a href=\"https://irplus-remote.github.io/\" rel=\"nofollow ugc\">https://irplus-remote.github.io/</a>). </p>\n"
+  },
+  {
+   "id": 1495,
+   "parent": 772,
+   "author": "Anoop",
+   "url": null,
+   "date": "2022-06-22T01:01:59+05:30",
+   "content": "<p>Can you share the codes to me. I&#8217;m not good in programming. I also want to integrate the fan controls to my automation system with esp32</p>\n"
+  },
+  {
+   "id": 1498,
+   "parent": 1495,
+   "author": "glenzac",
+   "url": "https://glenzac.wordpress.com",
+   "date": "2022-06-27T21:39:00+05:30",
+   "content": "<p>Hey Anoop, this is quite an old project. I am not sure if I have access to those files now. But I remember using a specific Arduino library for this project. It&#8217;s quite easy to setup and I&#8217;m sure you&#8217;ll find enough examples online.  </p>\n"
+  },
+  {
+   "id": 1536,
+   "parent": 1056,
+   "author": "Anoop Sabu",
+   "url": null,
+   "date": "2023-05-09T04:08:50+05:30",
+   "content": "<p>Can you share the code please.</p>\n"
+  },
+  {
+   "id": 1539,
+   "parent": null,
+   "author": "Arshad",
+   "url": null,
+   "date": "2023-08-27T17:11:07+05:30",
+   "content": "<p>Hi i have atomberg fan with remote control i am using IR blaster to operate. Unfortunately it works only to power on and off. Is there any way I can add remote control to the ir blaster, the ir blaster what i am using is tuya brand.</p>\n"
+  },
+  {
+   "id": 1542,
+   "parent": 1539,
+   "author": "Sri",
+   "url": null,
+   "date": "2024-01-11T15:38:37+05:30",
+   "content": "<p>Hi, I was about to reinvent the wheel to convert my IR blaster using Libretiny. Found the details that you have already captured by doing lot of efforts. Thanks a ton for your efforts and sharing.</p>\n"
+  },
+  {
+   "id": 1543,
+   "parent": null,
+   "author": "Kiran Jonnalagadda",
+   "url": "http://jace.seacrow.com/",
+   "date": "2024-01-11T21:36:31+05:30",
+   "content": "<p>I wonder if there are distinct IR codes for power on and off. That&#8217;ll make actual home automation possible (turn off in the morning, etc). With the toggle switch, there&#8217;s no way to read current status.</p>\n"
+  },
+  {
+   "id": 1553,
+   "parent": null,
+   "author": "Pramod Ghuge",
+   "url": null,
+   "date": "2025-02-22T18:37:20+05:30",
+   "content": "<p class=\"wp-block-paragraph\">Here are a couple of more buttons for Atomberg fans</p>\n<p class=\"wp-block-paragraph\">LED : 00CFE916</p>\n<p class=\"wp-block-paragraph\">Timer: 00CF6996</p>\n"
+  }
+ ],
+ "laptop-hinge-repair-guide": [
+  {
+   "id": 221,
+   "parent": null,
+   "author": "rekluz",
+   "url": null,
+   "date": "2020-08-30T10:25:20+05:30",
+   "content": "<p>Hi, just wondering how this fix is holding up for you.  I have the same hinge problem on an Asus zenbook and will try this if it really works.</p>\n"
+  },
+  {
+   "id": 222,
+   "parent": 221,
+   "author": "glenzac",
+   "url": "https://glenzac.wordpress.com",
+   "date": "2020-08-30T11:00:50+05:30",
+   "content": "<p>About a year now and still going strong! </p>\n"
+  },
+  {
+   "id": 1548,
+   "parent": null,
+   "author": "naina k",
+   "url": null,
+   "date": "2024-05-04T17:33:27+05:30",
+   "content": "<p class=\"wp-block-paragraph\">Good information thank you for writting blogs</p>\n"
+  },
+  {
+   "id": 1550,
+   "parent": null,
+   "author": "Arohi Deshmukh",
+   "url": "https://lenovoservicecentres.com/",
+   "date": "2024-10-29T13:24:36+05:30",
+   "content": "<p class=\"wp-block-paragraph\">Great guide! I appreciate the detailed steps for laptop hinge repair. It’s so helpful to have a clear process to follow. Thanks for sharing!</p>\n"
+  }
+ ],
+ "one-wrong-screw": [
+  {
+   "id": 1549,
+   "parent": null,
+   "author": "naina k",
+   "url": null,
+   "date": "2024-05-28T13:58:23+05:30",
+   "content": "<p class=\"wp-block-paragraph\">GOOD WRITTEN.</p>\n"
+  }
+ ],
+ "two-months-of-polyphasic-sleep": [
+  {
+   "id": 1546,
+   "parent": null,
+   "author": "Jeff@optimizebedtime",
+   "url": "http://optimizebedtime.wordpress.com",
+   "date": "2024-03-22T09:29:47+05:30",
+   "content": "<p>Wow I knew nothing about polyphasic sleep before this article, I’d love you to see <a href=\"http://www.optimizebedtime.com\" rel=\"nofollow ugc\">http://www.optimizebedtime.com</a>  which has more detail on getting better sleep</p>\n"
+  }
+ ],
+ "ecg-analog-front-end-design": [
+  {
+   "id": 145,
+   "parent": null,
+   "author": "Valery",
+   "url": null,
+   "date": "2020-06-14T21:11:33+05:30",
+   "content": "<p>hello, I was recreating the project in multisim but it doesn&#8217;t work as in the image, they could be so kind to send me the scheme already in multisim</p>\n"
+  },
+  {
+   "id": 146,
+   "parent": 145,
+   "author": "glenzac",
+   "url": "https://glenzac.wordpress.com",
+   "date": "2020-06-14T21:26:57+05:30",
+   "content": "<p>Surely, please share your email ID and I&#8217;ll send it to you.</p>\n"
+  },
+  {
+   "id": 250,
+   "parent": 146,
+   "author": "Chetana Krishnan",
+   "url": null,
+   "date": "2020-09-18T10:22:02+05:30",
+   "content": "<p>Hi, Even I need the multisim file. Can you please send it to <a href=\"mailto:chetanakrishnan@gmail.com\">chetanakrishnan@gmail.com</a> ?</p>\n"
+  },
+  {
+   "id": 251,
+   "parent": 250,
+   "author": "glenzac",
+   "url": "https://glenzac.wordpress.com",
+   "date": "2020-09-18T10:26:52+05:30",
+   "content": "<p>I think it&#8217;s version specific, which version of Multisim are you using?</p>\n"
+  },
+  {
+   "id": 1490,
+   "parent": null,
+   "author": "Abood Saeed",
+   "url": null,
+   "date": "2022-06-08T22:55:44+05:30",
+   "content": "<p>Hello, I was just seeing your design. I really quite liked it. Could you kindly the Multisim file to me via my email. </p>\n<p><a href=\"mailto:Carl.massad@hotmail.com\">Carl.massad@hotmail.com</a></p>\n<p>Thanks a lot</p>\n"
+  },
+  {
+   "id": 1497,
+   "parent": 1490,
+   "author": "glenzac",
+   "url": "https://glenzac.wordpress.com",
+   "date": "2022-06-27T21:36:16+05:30",
+   "content": "<p>Hey this is quite an old project. I don&#8217;t have access to the tool and files now.  </p>\n"
+  },
+  {
+   "id": 1544,
+   "parent": 1490,
+   "author": "Louis",
+   "url": null,
+   "date": "2024-02-26T01:34:22+05:30",
+   "content": "<p>Hello I have a question. I’m working on a similar project and I can’t seem to remove the 50 Hz square noise from my signal. how did you do ? what do you advise me? thanks in advance.</p>\n"
+  }
+ ],
+ "youtube-tv-using-the-raspberry-pi-on-raspbian-with-hdmi-cec": [
+  {
+   "id": 1515,
+   "parent": null,
+   "author": "Raspidvbs",
+   "url": null,
+   "date": "2022-11-17T19:04:36+05:30",
+   "content": "<p>Is there any streamlink build (Addon) for Libreelec as Libreelec has no sudo or apt install or git to install anything?</p>\n"
+  }
+ ],
+ "ecg-heart-rate-monitor-using-particle-photon": [
+  {
+   "id": 1113,
+   "parent": null,
+   "author": "NURISTIQLAL ZULFARIZ BIN ABDUL MAJID -",
+   "url": "http://gravatar.com/nzmajid",
+   "date": "2021-07-04T09:09:42+05:30",
+   "content": "<p>Hi, thanks for sharing this. Can you share the code to flash into the Particle Photon microprocessor please?</p>\n"
+  },
+  {
+   "id": 1114,
+   "parent": 1113,
+   "author": "glenzac",
+   "url": "https://glenzac.wordpress.com",
+   "date": "2021-07-04T19:17:19+05:30",
+   "content": "<p>Yeah sure&#8230;fill the contact form so that I can directly mail it to you.</p>\n"
+  }
+ ],
+ "things-they-dont-tell-you-when-buying-a-geared-mtb": [
+  {
+   "id": 738,
+   "parent": null,
+   "author": "TasView",
+   "url": "https://tasview.com",
+   "date": "2021-04-07T04:44:36+05:30",
+   "content": "<p>Great information. Most modern mountain bikes now have one cog at the front and 9, 11 or 12 cogs at the back. It’s cheaper, lower maintenance, and easier to change into the right gear before you hit that hill 🙂 Doesn’t sound as impressive as 21 gears though.</p>\n"
+  }
+ ],
+ "making-a-li-ion-battery-charger": [
+  {
+   "id": 11,
+   "parent": null,
+   "author": "p",
+   "url": null,
+   "date": "2018-10-25T21:48:26+05:30",
+   "content": "<p>I was thinking of modifying this design to charge a 12 volt li-ion battery could I achieve this by changing the  diode to 12 volt diode?</p>\n"
+  },
+  {
+   "id": 12,
+   "parent": null,
+   "author": "Johnny Do",
+   "url": null,
+   "date": "2018-10-26T11:56:41+05:30",
+   "content": "<p>Did you use all 4 opamps or just 3 ???</p>\n"
+  },
+  {
+   "id": 13,
+   "parent": 12,
+   "author": "glenzac",
+   "url": "https://glenzac.wordpress.com",
+   "date": "2018-11-02T07:17:50+05:30",
+   "content": "<p>Hey Johnny,</p>\n<p>I only used 3 opamps. But I&#8217;m working on an update in which I will add a temperature sensing element to cut-off charging if the battery over-heats, I&#8217;ll probably need the last opamp then.</p>\n"
+  },
+  {
+   "id": 14,
+   "parent": 11,
+   "author": "glenzac",
+   "url": "https://glenzac.wordpress.com",
+   "date": "2018-11-02T07:29:30+05:30",
+   "content": "<p>Hey,<br />\nJust changing the diodes wouldn&#8217;t suffice. You need to redo the design and also we are limited by the 12v supply here. Hence you&#8217;ll also need a supply with higher voltage.</p>\n"
+  },
+  {
+   "id": 210,
+   "parent": null,
+   "author": "anhuigusheng",
+   "url": "https://www.anhuigusheng.com/product-category/battery-charger/",
+   "date": "2020-08-20T16:28:34+05:30",
+   "content": "<p>Good information, blogger&#8230;..By the way excellent modification&#8230;Hope for the next interesting blogs soon on different types of chargers.</p>\n"
+  },
+  {
+   "id": 211,
+   "parent": 210,
+   "author": "glenzac",
+   "url": "https://glenzac.wordpress.com",
+   "date": "2020-08-20T16:49:31+05:30",
+   "content": "<p>Thank you!</p>\n"
+  }
+ ],
+ "asleep-forever": [
+  {
+   "id": 7,
+   "parent": null,
+   "author": "Nisya Nadar",
+   "url": "http://miraclenisya.wordpress.com",
+   "date": "2015-09-07T18:17:04+00:00",
+   "content": "<p>Stay positive and trust the process ☺</p>\n"
+  }
+ ],
+ "god-almighty": [
+  {
+   "id": 3,
+   "parent": null,
+   "author": "gonmrm",
+   "url": "http://thebeautyofspace.wordpress.com",
+   "date": "2015-08-16T11:39:42+00:00",
+   "content": "<p>Hey nice post you got there, really loved the poem! Truly truly great. Visit my blog <a href=\"https://thebeautyofspace.wordpress.com\" rel=\"nofollow ugc\">https://thebeautyofspace.wordpress.com</a> maybe you&#8217;ll enjoy it as much as I enjoyed yours! Cheers!</p>\n"
+  },
+  {
+   "id": 6,
+   "parent": 3,
+   "author": "gonmrm",
+   "url": "http://thebeautyofspace.wordpress.com",
+   "date": "2015-08-27T14:57:07+00:00",
+   "content": "<p>Haha that&#8217;s ok, your poetry is great, and you&#8217;ll get used to it!</p>\n"
+  }
+ ]
+}
