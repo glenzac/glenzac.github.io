@@ -16,6 +16,7 @@ export const GISCUS_CATEGORY_ID = "DIC_kwDOQRveic4C8e-U";
 export const NAV_LINKS = [
 	{ href: "/", label: "Home" },
 	{ href: "/archives", label: "Archives" },
+	{ href: "/journey", label: "Journey" },
 	{ href: "/search", label: "Search" },
 	{ href: "/about", label: "About" },
 	{ href: "/categories/opinion", label: "Opinion" },
